@@ -1,0 +1,14 @@
+{
+ "rcept_no": "20261123900752",
+ "rcept_dt": "20261123",
+ "corp_code": "01284876",
+ "corp_name": "인스피언",
+ "corp_name_eng": "Inspien, Inc.",
+ "stock_code": "465480",
+ "corp_cls": "K",
+ "report_nm": "타법인주식및출자증권취득결정(자율공시)",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900752",
+ "text": ".xforms * { font-family: 돋움체;}\n.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}\n.xforms table {\nfont-size: 10px;\npadding:0px;\nborder-collapse:collapse;\ncolor: #3D3D3D;\n}\n.xforms td {\npadding-left:0px;\npadding-top:0px;\nborder-collapse:collapse;\nline-height:22px;\ncolor: #3D3D3D;\n/*text-align:right;*/\nvertical-align:middle;\nborder: 1px solid #7f7f7f;\n}\n.xforms span {\n/*display: inline-block;*/\npadding-left:3px;\npadding-right: 1px;\nline-height:22px;\npadding-top:0px;\npadding-bottom:0px;\ntext-align:left;\nvertical-align:middle;\nborder: 0px solid #DBDBDB;\n}\n.xforms.img{\nborder : 0px;\n}\n.xforms a:link {\ncolor: #194866;\ntext-decoration: none;\n}\n.xforms a:active {\ncolor: #194866;\ntext-decoration: none;\n}\n.xforms a:visited {\ncolor: #194866;\ntext-decoration: none;\n}\n.xforms A:hover {\ncolor:008BE3;\ntext-decoration: none;\n}\n.xforms_input{\nborder: 0px solid #DBDBDB;\npadding-left:3px;\npadding-right: 1px;\nheight:22px;\npadding-top:0px;\npadding-bottom:0px;\ntext-align:left;\n}\n인스피언/타법인주식및출자증권취득결정(자율공시)/(2026.11.23)타법인주식및출자증권취득결정(자율공시)\n타법인 주식 및 출자증권 취득결정(자율공시)\n1. 발행회사\n회사명(국적)\n라온시큐리티\n대표이사\n양정규\n자본금(원)\n100,000,000\n회사와의관계\n-\n발행주식총수(주)\n17,580\n주요사업\n보안컨설팅, 소프트웨어개발 및 공급업\n2. 취득내역\n취득주식수(주)\n17,580\n취득금액(원)\n3,000,000,000\n자기자본(원)\n56,020,552,219\n자기자본대비(%)\n5.36\n대기업해당여부\n미해당\n3. 취득후 소유주식수 및 지분비율\n소유주식수(주)\n17,580\n지분비율(%)\n100\n4. 취득방법\n현금취득\n5. 취득목적\n모의해킹 보안컨설팅 사업 확장을 통한 성장동력 확보\n6. 취득예정일자\n2026-12-31\n7. 자산양수의 주요사항보고서 제출대상 여부\n아니오\n- 최근 사업연도말 자산총액(원)\n60,973,335,874\n취득가액/자산총액(%)\n4.92\n8. 우회상장 해당 여부\n아니오\n- 향후 6월이내 제3자배정 증자 등 계획\n아니오\n9. 발행회사(타법인)의 우회상장 요건 충족여부\n아니오\n10. 이사회결의일(결정일)\n2026-11-23\n- 독립(사외)이사* 참석여부\n참석(명)\n1\n불참(명)\n-\n- 감사(감사위원) 참석여부\n참석\n11. 공정거래위원회 신고대상 여부\n미해당\n12. 풋옵션계약 등의 체결여부\n아니오\n- 계약내용\n-\n13. 기타 투자판단에 참고할 사항\n1) 본 거래는 당사가 라온시큐리티의 발행주식 14,065주(80%)를 2026년 12월 31일자로 인수하고, 잔여지분 20%는 향후 5년간 순차적으로 의무인수하는 건입니다. 2) 상기 '1. 발행회사'의 자본금 및 발행주식총수는 공시제출일 현재 기준입니다. 3) 상기 '2. 취득내역'의 자기자본은 당사의 2025년말 연결재무제표 기준입니다. 4) 상기 '2. 취득내역'의 취득금액은 계약상 가격조정 전 금액이며, 잔여지분 20%는 매년 매출목표 달성률에 따라 변동될 수 있습니다. 5) 상기 '6. 취득예정일자'는 거래종결 예정일이며, 당사자 간 협의에 따라 변경될 수 있습니다. 6) 하기 '발행회사의 요약 재무상황'은 당해년도(2025년), 전년도(2024년), 전전년도(2023년)의 개별재무제표 기준으로 작성되었습니다.\n※ 관련공시\n-\n[발행회사의 요약 재무상황]\n(단위 : 백만원)\n구분\n자산총계\n부채총계\n자본총계\n자본금\n매출액\n당기순이익\n당해연도\n1,822\n364\n1,458\n100\n1,672\n-38\n전연도\n1,925\n429\n1,496\n100\n1,853\n27\n전전연도\n1,995\n427\n1,569\n100\n1,601\n156"
+}

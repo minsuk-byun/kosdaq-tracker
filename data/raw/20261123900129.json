@@ -1,0 +1,14 @@
+{
+ "rcept_no": "20261123900129",
+ "rcept_dt": "20261123",
+ "corp_code": "01472930",
+ "corp_name": "오브젠",
+ "corp_name_eng": "OBZEN Inc.",
+ "stock_code": "417860",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900129",
+ "text": ".xforms * { font-family: 돋움체;}\n.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}\n.xforms table {\nfont-size: 10px;\npadding:0px;\nborder-collapse:collapse;\ncolor: #3D3D3D;\n}\n.xforms td {\npadding-left:0px;\npadding-top:0px;\nborder-collapse:collapse;\nline-height:22px;\ncolor: #3D3D3D;\n/*text-align:right;*/\nvertical-align:middle;\nborder: 1px solid #7f7f7f;\n}\n.xforms span {\n/*display: inline-block;*/\npadding-left:3px;\npadding-right: 1px;\nline-height:22px;\npadding-top:0px;\npadding-bottom:0px;\ntext-align:left;\nvertical-align:middle;\nborder: 0px solid #DBDBDB;\n}\n.xforms.img{\nborder : 0px;\n}\n.xforms a:link {\ncolor: #194866;\ntext-decoration: none;\n}\n.xforms a:active {\ncolor: #194866;\ntext-decoration: none;\n}\n.xforms a:visited {\ncolor: #194866;\ntext-decoration: none;\n}\n.xforms A:hover {\ncolor:008BE3;\ntext-decoration: none;\n}\n.xforms_input{\nborder: 0px solid #DBDBDB;\npadding-left:3px;\npadding-right: 1px;\nheight:22px;\npadding-top:0px;\npadding-bottom:0px;\ntext-align:left;\n}\n오브젠/단일판매ㆍ공급계약체결/(2026.11.23)단일판매ㆍ공급계약체결\n단일판매ㆍ공급계약체결\n1. 판매ㆍ공급계약 내용\n신한카드 마케팅 통합 플랫폼 구축_통합 마케팅 시스템 및 AI Agent 이전 및 개발\n2. 계약내역\n조건부 계약여부\n미해당\n확정 계약금액\n4,681,271,500\n조건부 계약금액\n-\n계약금액 총액(원)\n4,681,271,500\n최근 매출액(원)\n23,411,536,664\n매출액 대비(%)\n20.00\n3. 계약상대방\n(주)엘지씨엔에스\n- 최근 매출액(원)\n6,129,542,717,919\n- 주요사업\n클라우드&AI, 스마트 엔지니어링, Digital Business Service 등\n- 회사와의 관계\n-\n- 회사와 최근 3년간 동종계약 이행여부\n미해당\n4. 판매ㆍ공급지역\n서울특별시 중구\n5. 계약기간\n시작일\n2026-11-23\n종료일\n2028-01-22\n6. 주요 계약조건\n계약금ㆍ선급금 유무\n무\n대금지급 조건 등\n- 잔금 100% (최종 검수 완료 후)\n7. 판매ㆍ공급방식\n자체생산\n해당\n외주생산\n미해당\n기타\n-\n8. 계약(수주)일자\n2026-11-20\n9. 공시유보 관련내용\n유보기한\n-\n유보사유\n-\n10. 기타 투자판단에 참고할 사항\n- 당사 및 계약상대방의 최근 매출액은 2025년도말 연결재무제표 기준입니다. - 상기 계약금액은 부가가치세 제외 금액입니다. - 상기 계약금액 및 계약기간 등은 계약상대방과 협의에 의해 변경될 수 있습니다. - 상기 대금지급 조건은 계약상대방이 원발주자에게 청구하는 조건에 따라 변경될 수 있습니다.\n※ 관련공시\n-"
+}

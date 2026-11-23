@@ -1,0 +1,452 @@
+{
+ "01284876": {
+  "corp_name": "인스피언(주)",
+  "corp_name_eng": "Inspien, Inc.",
+  "stock_code": "465480",
+  "corp_cls": "K",
+  "ceo_nm": "최정규",
+  "est_dt": "20090615",
+  "hm_url": "www.inspien.co.kr",
+  "induty_code": "582"
+ },
+ "01116502": {
+  "corp_name": "(주)아티스트컴퍼니",
+  "corp_name_eng": "Artist Company Inc.",
+  "stock_code": "321820",
+  "corp_cls": "K",
+  "ceo_nm": "박승현",
+  "est_dt": "20100717",
+  "hm_url": "www.widerplanet.com",
+  "induty_code": "901"
+ },
+ "01359815": {
+  "corp_name": "(주)한울반도체",
+  "corp_name_eng": "HanWool Semiconductor, Inc.",
+  "stock_code": "320000",
+  "corp_cls": "K",
+  "ceo_nm": "김백산",
+  "est_dt": "20190305",
+  "hm_url": "www.wintec.co.kr",
+  "induty_code": "292"
+ },
+ "00604268": {
+  "corp_name": "(주)에이프로",
+  "corp_name_eng": "APRO Co., LTD",
+  "stock_code": "262260",
+  "corp_cls": "K",
+  "ceo_nm": "임종현",
+  "est_dt": "20000627",
+  "hm_url": "www.aproele.com",
+  "induty_code": "289"
+ },
+ "01397903": {
+  "corp_name": "주식회사 엔젠바이오",
+  "corp_name_eng": "NGeneBio Co., Ltd.",
+  "stock_code": "354200",
+  "corp_cls": "K",
+  "ceo_nm": "이경남",
+  "est_dt": "20151030",
+  "hm_url": "ngenebio.com",
+  "induty_code": "739"
+ },
+ "01492688": {
+  "corp_name": "주식회사 드림인사이트",
+  "corp_name_eng": "DREAMINSIGHT Co., Ltd.",
+  "stock_code": "362990",
+  "corp_cls": "K",
+  "ceo_nm": "김기철",
+  "est_dt": "20120820",
+  "hm_url": "bydream.co.kr/",
+  "induty_code": "71310"
+ },
+ "00763701": {
+  "corp_name": "(주)헥토파이낸셜",
+  "corp_name_eng": "Hecto Financial Co., Ltd.",
+  "stock_code": "234340",
+  "corp_cls": "K",
+  "ceo_nm": "최종원",
+  "est_dt": "20001009",
+  "hm_url": "hectofinancial.co.kr",
+  "induty_code": "661"
+ },
+ "00525642": {
+  "corp_name": "코오롱생명과학(주)",
+  "corp_name_eng": "KOLON LIFE SCIENCE Inc.",
+  "stock_code": "102940",
+  "corp_cls": "K",
+  "ceo_nm": "이한국",
+  "est_dt": "20000421",
+  "hm_url": "-",
+  "induty_code": "2110"
+ },
+ "01708163": {
+  "corp_name": "(주)엔알비",
+  "corp_name_eng": "NRB, inc",
+  "stock_code": "475230",
+  "corp_cls": "K",
+  "ceo_nm": "강건우",
+  "est_dt": "20191024",
+  "hm_url": "www.and-rb.com/kor",
+  "induty_code": "259"
+ },
+ "01453944": {
+  "corp_name": "(주)벡트로보틱스",
+  "corp_name_eng": "VECT Robotics Co., Ltd.",
+  "stock_code": "457600",
+  "corp_cls": "K",
+  "ceo_nm": "이수연",
+  "est_dt": "20060330",
+  "hm_url": "vect.co.kr",
+  "induty_code": "26519"
+ },
+ "01013311": {
+  "corp_name": "(주)헥토이노베이션",
+  "corp_name_eng": "Hecto Innovation Co., Ltd.",
+  "stock_code": "214180",
+  "corp_cls": "K",
+  "ceo_nm": "이현철",
+  "est_dt": "20090319",
+  "hm_url": "www.hectoinnovation.co.kr",
+  "induty_code": "63991"
+ },
+ "00231691": {
+  "corp_name": "(주)판타지오",
+  "corp_name_eng": "Fantagio Corp.",
+  "stock_code": "032800",
+  "corp_cls": "K",
+  "ceo_nm": "신영진",
+  "est_dt": "19910108",
+  "hm_url": "www.fantagio.kr",
+  "induty_code": "901"
+ },
+ "00144243": {
+  "corp_name": "유니슨(주)",
+  "corp_name_eng": "UNISON CO., LTD.",
+  "stock_code": "018000",
+  "corp_cls": "K",
+  "ceo_nm": "김병주, 권정민(공동대표이사)",
+  "est_dt": "19840924",
+  "hm_url": "www.unison.co.kr",
+  "induty_code": "29119"
+ },
+ "01042650": {
+  "corp_name": "(주)큐리언트",
+  "corp_name_eng": "Qurient Co., Ltd.",
+  "stock_code": "115180",
+  "corp_cls": "K",
+  "ceo_nm": "남기연",
+  "est_dt": "20080702",
+  "hm_url": "www.qurient.com",
+  "induty_code": "70113"
+ },
+ "01011526": {
+  "corp_name": "(주)엔켐",
+  "corp_name_eng": "Enchem Co., Ltd.",
+  "stock_code": "348370",
+  "corp_cls": "K",
+  "ceo_nm": "오정강",
+  "est_dt": "20120216",
+  "hm_url": "www.enchem.net",
+  "induty_code": "20119"
+ },
+ "00543107": {
+  "corp_name": "(주)오킨스전자",
+  "corp_name_eng": "OKins Electronics Co.,Ltd.",
+  "stock_code": "080580",
+  "corp_cls": "K",
+  "ceo_nm": "전진국",
+  "est_dt": "19980413",
+  "hm_url": "www.okins.co.kr",
+  "induty_code": "262"
+ },
+ "01235296": {
+  "corp_name": "(주)셀리드",
+  "corp_name_eng": "Cellid Co., Ltd.",
+  "stock_code": "299660",
+  "corp_cls": "K",
+  "ceo_nm": "강창율",
+  "est_dt": "20061201",
+  "hm_url": "www.cellid.co.kr",
+  "induty_code": "701"
+ },
+ "01336762": {
+  "corp_name": "(주)스피어코퍼레이션",
+  "corp_name_eng": "Sphere Corp.",
+  "stock_code": "347700",
+  "corp_cls": "K",
+  "ceo_nm": "최광수",
+  "est_dt": "20120926",
+  "hm_url": "spherecorp.kr/",
+  "induty_code": "58222"
+ },
+ "00116426": {
+  "corp_name": "(주)이렘",
+  "corp_name_eng": "IREM Co.,Ltd.",
+  "stock_code": "009730",
+  "corp_cls": "K",
+  "ceo_nm": "김우진",
+  "est_dt": "19740325",
+  "hm_url": "www.irem.co.kr",
+  "induty_code": "2413"
+ },
+ "01042085": {
+  "corp_name": "(주)엑셈",
+  "corp_name_eng": "EXEM CO., LTD.",
+  "stock_code": "205100",
+  "corp_cls": "K",
+  "ceo_nm": "조종암, 고평석(각자대표)",
+  "est_dt": "20140821",
+  "hm_url": "www.ex-em.com",
+  "induty_code": "58221"
+ },
+ "00288343": {
+  "corp_name": "삼영이엔씨(주)",
+  "corp_name_eng": "Samyung ENC Co., Ltd.",
+  "stock_code": "065570",
+  "corp_cls": "K",
+  "ceo_nm": "김중철",
+  "est_dt": "19950206",
+  "hm_url": "www.samyungenc.com",
+  "induty_code": "26429"
+ },
+ "00765569": {
+  "corp_name": "기가비스(주)",
+  "corp_name_eng": "GigaVis Co., Ltd.",
+  "stock_code": "420770",
+  "corp_cls": "K",
+  "ceo_nm": "강해철",
+  "est_dt": "20040218",
+  "hm_url": "www.gigavis.com",
+  "induty_code": "292"
+ },
+ "01141599": {
+  "corp_name": "(주)아리바이오랩",
+  "corp_name_eng": "ARIBIOLAB",
+  "stock_code": "261780",
+  "corp_cls": "K",
+  "ceo_nm": "정재준",
+  "est_dt": "20000609",
+  "hm_url": "www.chavaccine.com",
+  "induty_code": "70113"
+ },
+ "00442145": {
+  "corp_name": "(주)아바코",
+  "corp_name_eng": "AVACOCO.,LTD.",
+  "stock_code": "083930",
+  "corp_cls": "K",
+  "ceo_nm": "김광현",
+  "est_dt": "20000116",
+  "hm_url": "www.avaco.co.kr",
+  "induty_code": "29272"
+ },
+ "01043853": {
+  "corp_name": "(주)아인스팩씨엔에스",
+  "corp_name_eng": "AinsFac CNS Co.,Ltd",
+  "stock_code": "206400",
+  "corp_cls": "K",
+  "ceo_nm": "신동범, 김정민(각자 대표)",
+  "est_dt": "20140919",
+  "hm_url": "www.benotnr.com",
+  "induty_code": "424"
+ },
+ "01472930": {
+  "corp_name": "오브젠 주식회사",
+  "corp_name_eng": "OBZEN Inc.",
+  "stock_code": "417860",
+  "corp_cls": "K",
+  "ceo_nm": "전배문, 유용희",
+  "est_dt": "20000428",
+  "hm_url": "obzen.com",
+  "induty_code": "58222"
+ },
+ "01228515": {
+  "corp_name": "(주)앱튼",
+  "corp_name_eng": "APTN Inc.",
+  "stock_code": "270520",
+  "corp_cls": "K",
+  "ceo_nm": "김재섭",
+  "est_dt": "20170420",
+  "hm_url": "www.aptn-inc.com",
+  "induty_code": "721"
+ },
+ "00349097": {
+  "corp_name": "(주)케이티스카이라이프",
+  "corp_name_eng": "KT Skylife Co.,Ltd.",
+  "stock_code": "053210",
+  "corp_cls": "Y",
+  "ceo_nm": "지정용",
+  "est_dt": "20010112",
+  "hm_url": "www.ktskylife.co.kr",
+  "induty_code": "60229"
+ },
+ "00164478": {
+  "corp_name": "현대건설(주)",
+  "corp_name_eng": "HYUNDAI ENGINEERING & CONSTRUCTION CO.,LTD",
+  "stock_code": "000720",
+  "corp_cls": "Y",
+  "ceo_nm": "이한우",
+  "est_dt": "19500110",
+  "hm_url": "www.hdec.kr",
+  "induty_code": "41221"
+ },
+ "00339391": {
+  "corp_name": "한화시스템(주)",
+  "corp_name_eng": "HANWHA SYSTEMS Co., Ltd.",
+  "stock_code": "272210",
+  "corp_cls": "Y",
+  "ceo_nm": "양기원",
+  "est_dt": "20000111",
+  "hm_url": "hanwhasystems.com",
+  "induty_code": "26299"
+ },
+ "00181712": {
+  "corp_name": "SK(주)",
+  "corp_name_eng": "SK Inc.",
+  "stock_code": "034730",
+  "corp_cls": "Y",
+  "ceo_nm": "최태원, 장용호",
+  "est_dt": "19910413",
+  "hm_url": "www.sk-inc.com/",
+  "induty_code": "64992"
+ },
+ "00631518": {
+  "corp_name": "SK이노베이션(주)",
+  "corp_name_eng": "SK Innovation Co., Ltd.",
+  "stock_code": "096770",
+  "corp_cls": "Y",
+  "ceo_nm": "추형욱, 장용호",
+  "est_dt": "20070703",
+  "hm_url": "www.SKinnovation.com",
+  "induty_code": "192"
+ },
+ "00111704": {
+  "corp_name": "한화오션(주)",
+  "corp_name_eng": "Hanwha Ocean Co., Ltd.",
+  "stock_code": "042660",
+  "corp_cls": "Y",
+  "ceo_nm": "김희철",
+  "est_dt": "20001023",
+  "hm_url": "www.hanwhaocean.com/pub/main/index.do",
+  "induty_code": "3111"
+ },
+ "01386916": {
+  "corp_name": "에스케이아이이테크놀로지 주식회사",
+  "corp_name_eng": "SK ie technology Co., Ltd.",
+  "stock_code": "361610",
+  "corp_cls": "Y",
+  "ceo_nm": "이상민",
+  "est_dt": "20190401",
+  "hm_url": "www.skietechnology.com/",
+  "induty_code": "282"
+ },
+ "00136402": {
+  "corp_name": "신송홀딩스(주)",
+  "corp_name_eng": "SINGSONGHOLDINGS",
+  "stock_code": "006880",
+  "corp_cls": "Y",
+  "ceo_nm": "조갑주",
+  "est_dt": "19701105",
+  "hm_url": "www.singsongholdings.com",
+  "induty_code": "46201"
+ },
+ "00160588": {
+  "corp_name": "(주)한화",
+  "corp_name_eng": "HANWHA CORP",
+  "stock_code": "000880",
+  "corp_cls": "Y",
+  "ceo_nm": "김동관, 류두형, 김우석",
+  "est_dt": "19521028",
+  "hm_url": "www.hanwhacorp.co.kr",
+  "induty_code": "20494"
+ },
+ "00162461": {
+  "corp_name": "한화솔루션(주)",
+  "corp_name_eng": "HANWHA SOLUTIONS CORPORATION",
+  "stock_code": "009830",
+  "corp_cls": "Y",
+  "ceo_nm": "박승덕, 남정운, 김동관",
+  "est_dt": "19740427",
+  "hm_url": "hcc.hanwha.co.kr",
+  "induty_code": "20111"
+ },
+ "01649204": {
+  "corp_name": "(주)달바글로벌",
+  "corp_name_eng": "d'Alba Global Co., Ltd.",
+  "stock_code": "483650",
+  "corp_cls": "Y",
+  "ceo_nm": "반성연",
+  "est_dt": "20160309",
+  "hm_url": "dalbaglobal.com",
+  "induty_code": "20423"
+ },
+ "00166227": {
+  "corp_name": "화승인더스트리(주)",
+  "corp_name_eng": "HS INDUSTRIES CO.,LTD",
+  "stock_code": "006060",
+  "corp_cls": "Y",
+  "ceo_nm": "대표이사 현석호",
+  "est_dt": "19690507",
+  "hm_url": "www.hsi.co.kr",
+  "induty_code": "46800"
+ },
+ "00163673": {
+  "corp_name": "(주)한진중공업홀딩스",
+  "corp_name_eng": "HANJIN HEAVY IND. & CONST. HOLDINGS CO., LTD",
+  "stock_code": "003480",
+  "corp_cls": "Y",
+  "ceo_nm": "조원국",
+  "est_dt": "19370710",
+  "hm_url": "www.hhic-holdings.com",
+  "induty_code": "352"
+ },
+ "01205709": {
+  "corp_name": "에이치디현대(주)",
+  "corp_name_eng": "HD HYUNDAI CO.,LTD.",
+  "stock_code": "267250",
+  "corp_cls": "Y",
+  "ceo_nm": "정기선, 조영철",
+  "est_dt": "20170403",
+  "hm_url": "www.hd.com",
+  "induty_code": "64992"
+ },
+ "00164830": {
+  "corp_name": "에이치디한국조선해양(주)",
+  "corp_name_eng": "HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO., LTD.",
+  "stock_code": "009540",
+  "corp_cls": "Y",
+  "ceo_nm": "정기선, 김형관 (각자 대표이사)",
+  "est_dt": "19731228",
+  "hm_url": "www.ksoe.co.kr",
+  "induty_code": "64992"
+ },
+ "00309503": {
+  "corp_name": "한국항공우주산업(주)",
+  "corp_name_eng": "KOREA AEROSPACE INDUSTRIES, LTD.",
+  "stock_code": "047810",
+  "corp_cls": "Y",
+  "ceo_nm": "김종출",
+  "est_dt": "19991001",
+  "hm_url": "www.koreaaero.com",
+  "induty_code": "31311"
+ },
+ "00124540": {
+  "corp_name": "(주)대우건설",
+  "corp_name_eng": "DAEWOO ENGINEERING & CONSTRUCTION CO.,LTD",
+  "stock_code": "047040",
+  "corp_cls": "Y",
+  "ceo_nm": "이강석",
+  "est_dt": "20001227",
+  "hm_url": "daewooenc.com",
+  "induty_code": "41112"
+ },
+ "00105952": {
+  "corp_name": "(주)LS",
+  "corp_name_eng": "LS Corp.",
+  "stock_code": "006260",
+  "corp_cls": "Y",
+  "ceo_nm": "명노현",
+  "est_dt": "19620515",
+  "hm_url": "www.lsholdings.co.kr",
+  "induty_code": "64992"
+ }
+}
