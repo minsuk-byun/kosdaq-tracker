@@ -1,0 +1,9 @@
+{
+ "99000001": {"corp_name": "샘플로보틱스", "corp_name_eng": "Sample Robotics Co., Ltd.", "stock_code": "990001", "corp_cls": "K", "ceo_nm": "", "est_dt": "20080314", "hm_url": "", "induty_code": ""},
+ "99000002": {"corp_name": "샘플바이오", "corp_name_eng": "Sample Bio Inc.", "stock_code": "990002", "corp_cls": "K", "ceo_nm": "", "est_dt": "20120601", "hm_url": "", "induty_code": ""},
+ "99000003": {"corp_name": "샘플푸드", "corp_name_eng": "Sample Foods Co., Ltd.", "stock_code": "990003", "corp_cls": "Y", "ceo_nm": "", "est_dt": "19950210", "hm_url": "", "induty_code": ""},
+ "99000004": {"corp_name": "샘플소재", "corp_name_eng": "Sample Materials Corp.", "stock_code": "990004", "corp_cls": "K", "ceo_nm": "", "est_dt": "20050920", "hm_url": "", "induty_code": ""},
+ "99000005": {"corp_name": "샘플게임즈", "corp_name_eng": "Sample Games Co., Ltd.", "stock_code": "990005", "corp_cls": "K", "ceo_nm": "", "est_dt": "20140105", "hm_url": "", "induty_code": ""},
+ "99000006": {"corp_name": "샘플전자", "corp_name_eng": "Sample Electronics Inc.", "stock_code": "990006", "corp_cls": "K", "ceo_nm": "", "est_dt": "20010707", "hm_url": "", "induty_code": ""},
+ "99000007": {"corp_name": "샘플에너지", "corp_name_eng": "Sample Energy Co., Ltd.", "stock_code": "990007", "corp_cls": "K", "ceo_nm": "", "est_dt": "20101111", "hm_url": "", "induty_code": ""}
+}

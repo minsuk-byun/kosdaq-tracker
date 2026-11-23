@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<header class="page-head">
+  <h1>Guides</h1>
+  <p class="lede">Plain-English explainers for the Korean disclosure terms and market rules behind the filings on this site.</p>
+</header>
+<section class="guides-grid">
+  {% for g in guides %}
+  <a class="guide-card" href="{{ g.url }}">
+    <h2>{{ g.title }}</h2>
+    <p>{{ g.description }}</p>
+  </a>
+  {% else %}
+  <p class="empty">Guides are coming soon.</p>
+  {% endfor %}
+</section>
+{% endblock %}

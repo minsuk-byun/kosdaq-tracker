@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% from "_macros.html" import filing_card, ad %}
+{% block content %}
+<header class="page-head">
+  <h1>{{ heading }}</h1>
+  <p class="lede">{{ intro }}{% if guide %} New to this? <a href="{{ guide.url }}">{{ guide.title }}</a>.{% endif %}</p>
+</header>
+<section class="feed feed-wide">
+  {% for f in items %}
+    {{ filing_card(f) }}
+    {% if loop.index % 6 == 0 %}{{ ad(adsense, slot_list) }}{% endif %}
+  {% else %}
+    <p class="empty">No filings of this type yet.</p>
+  {% endfor %}
+</section>
+{% endblock %}

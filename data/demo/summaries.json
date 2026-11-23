@@ -1,0 +1,91 @@
+{
+ "20261103900001": {
+  "headline": "Sample Robotics plans KRW 4.5bn buyback of 300,000 shares",
+  "company_short": "Sample Robotics",
+  "what_happened": "Sample Robotics' board decided on Nov 3, 2026 to buy back 300,000 common shares worth up to KRW 4.5bn through on-market purchases. The buyback runs from Nov 4, 2026 to Feb 3, 2027. The company already holds 120,000 treasury shares (1.0%).",
+  "key_numbers": [
+   {"label": "Shares to buy", "value": "300,000"},
+   {"label": "Maximum amount", "value": "KRW 4.5bn"},
+   {"label": "Buyback period", "value": "Nov 4, 2026 – Feb 3, 2027"},
+   {"label": "Daily order limit", "value": "30,000 shares"},
+   {"label": "Method", "value": "On-market purchase"}
+  ],
+  "why_it_matters": "In Korea, shares bought back to raise shareholder value are often, but not always, cancelled later. Shares that are kept in treasury can be resold, so investors watch for a separate cancellation filing."
+ },
+ "20261103900002": {
+  "headline": "Sample Bio plans KRW 18bn rights offering of 2.4m new shares",
+  "company_short": "Sample Bio",
+  "what_happened": "Sample Bio's board approved a rights offering of 2,400,000 new common shares on Nov 3, 2026 to raise about KRW 18bn for working capital. The expected issue price is KRW 7,500 per share. Existing shareholders subscribe first, and any unsubscribed shares go to a public offering.",
+  "key_numbers": [
+   {"label": "New shares", "value": "2,400,000 (12,000,000 before)"},
+   {"label": "Funds raised", "value": "KRW 18bn"},
+   {"label": "Expected issue price", "value": "KRW 7,500"},
+   {"label": "Record date for rights", "value": "Dec 1, 2026"},
+   {"label": "Subscription", "value": "Jan 13–14, 2027"},
+   {"label": "Payment date", "value": "Jan 21, 2027"}
+  ],
+  "why_it_matters": "A rights offering adds new shares, which dilutes holders who do not take up their rights. The final issue price is usually set close to the subscription date and can differ from the expected price."
+ },
+ "20261102900003": {
+  "headline": "Sample Foods declares quarterly dividend of KRW 150 per share",
+  "company_short": "Sample Foods",
+  "what_happened": "Sample Foods will pay a quarterly cash dividend of KRW 150 per common share, a 1.2% yield at the market price. The total payout is KRW 1.8bn. Shareholders on record on Nov 20, 2026 qualify, and payment is due on Dec 10, 2026.",
+  "key_numbers": [
+   {"label": "Dividend per share", "value": "KRW 150"},
+   {"label": "Market-price yield", "value": "1.2%"},
+   {"label": "Total payout", "value": "KRW 1.8bn"},
+   {"label": "Record date", "value": "Nov 20, 2026"},
+   {"label": "Payment date", "value": "Dec 10, 2026"}
+  ],
+  "why_it_matters": "Under recent Korean reforms, many companies now announce the dividend amount before the record date, so investors can see the payout before deciding whether to hold through it."
+ },
+ "20261103900004": {
+  "headline": "Sample Materials wins KRW 32.5bn cathode supply deal, 30.01% of sales",
+  "company_short": "Sample Materials",
+  "what_happened": "Sample Materials signed a KRW 32.5bn contract to supply battery cathode materials to an undisclosed overseas battery maker, for delivery in Europe. The amount equals 30.01% of its most recent sales of KRW 108.3bn. The contract runs from Nov 3, 2026 to Dec 31, 2027.",
+  "key_numbers": [
+   {"label": "Contract amount", "value": "KRW 32.5bn"},
+   {"label": "Share of recent sales", "value": "30.01%"},
+   {"label": "Recent sales", "value": "KRW 108.3bn"},
+   {"label": "Contract term", "value": "Nov 3, 2026 – Dec 31, 2027"},
+   {"label": "Payment terms", "value": "Within 60 days of delivery"}
+  ],
+  "why_it_matters": "Korean rules require a filing when a single contract is large relative to a company's sales. The customer's name is sometimes withheld until the contract ends, as it is here."
+ },
+ "20261102900005": {
+  "headline": "Sample Holdings becomes largest shareholder of Sample Games with 25.1%",
+  "company_short": "Sample Games",
+  "what_happened": "Sample Holdings Co. became the largest shareholder of Sample Games on Nov 2, 2026, holding 3,012,000 shares (25.1%), after paying the balance under a share purchase agreement. The previous largest shareholder, Kim Sample, held 2,688,000 shares (22.4%). The stated purpose is to take management control.",
+  "key_numbers": [
+   {"label": "New largest shareholder", "value": "Sample Holdings, 25.1%"},
+   {"label": "Previous largest shareholder", "value": "Kim Sample, 22.4%"},
+   {"label": "Shares now held", "value": "3,012,000"},
+   {"label": "Funding", "value": "Own funds and borrowings"}
+  ],
+  "why_it_matters": "A change of control at a Korean small cap is often followed by board changes and new business plans. Investors also watch how the buyer funded the deal, since share-backed loans can lead to forced sales."
+ },
+ "20261102900006": {
+  "headline": "Sample Electronics issues KRW 10bn convertible bonds at KRW 6,250",
+  "company_short": "Sample Electronics",
+  "what_happened": "Sample Electronics decided on Nov 2, 2026 to issue KRW 10bn of privately placed convertible bonds for working capital. The bonds carry a 0.0% coupon and 3.0% yield to maturity, mature on Nov 5, 2029, and convert at KRW 6,250 per share. Full conversion would create 1,600,000 new shares, or 9.8% of total shares.",
+  "key_numbers": [
+   {"label": "Bond amount", "value": "KRW 10bn"},
+   {"label": "Conversion price", "value": "KRW 6,250 (floor KRW 4,375)"},
+   {"label": "Shares on conversion", "value": "1,600,000 (9.8%)"},
+   {"label": "Coupon / yield to maturity", "value": "0.0% / 3.0%"},
+   {"label": "Conversion window", "value": "Nov 5, 2027 – Oct 5, 2029"}
+  ],
+  "why_it_matters": "Convertible bonds dilute shareholders when converted. Korean convertible bonds often let the conversion price be reset lower if the share price falls, down to a stated floor."
+ },
+ "20261103900007": {
+  "headline": "Sample Energy to absorb Sample Solar at 1 : 0.4752 ratio (amended)",
+  "company_short": "Sample Energy",
+  "what_happened": "In an amended filing, Sample Energy said it will absorb unlisted Sample Solar in a small-scale merger. The merger ratio is 1 : 0.4752, and Sample Energy will issue 914,400 new shares. The merger date is Feb 1, 2027.",
+  "key_numbers": [
+   {"label": "Merger ratio", "value": "1 : 0.4752"},
+   {"label": "New shares", "value": "914,400"},
+   {"label": "Merger date", "value": "Feb 1, 2027"}
+  ],
+  "why_it_matters": "In a small-scale merger the acquiring company can skip a shareholder vote because few new shares are issued."
+ }
+}

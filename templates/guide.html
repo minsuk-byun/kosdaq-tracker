@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% from "_macros.html" import ad %}
+{% block og_type %}article{% endblock %}
+{% block content %}
+<article class="prose">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="/guides/">Guides</a></nav>
+  <h1>{{ g.title }}</h1>
+  {% if g.description %}<p class="lede">{{ g.description }}</p>{% endif %}
+  {% if g.updated %}<p class="eyebrow">Updated {{ g.updated }}</p>{% endif %}
+  {{ g.html|safe }}
+  {{ ad(adsense, slot_article, "fluid") }}
+  <p class="unofficial">This guide is general information, not investment or legal advice. Rules change; check official sources such as the Financial Services Commission and Korea Exchange.</p>
+</article>
+{% endblock %}

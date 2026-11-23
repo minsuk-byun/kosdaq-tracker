@@ -1,0 +1,28 @@
+{% macro filing_card(f, show_company=True) %}
+<article class="card">
+  <div class="card-meta">
+    <a class="chip chip-{{ f.event }}" href="/events/{{ f.event_info.slug }}/">{{ f.event_info.short }}</a>
+    {% if f.amended %}<span class="tag-amended">Amended</span>{% endif %}
+    <time datetime="{{ f.rcept_dt|isodate }}">{{ f.rcept_dt|nicedate }}</time>
+    {% if show_company and f.market %}<span class="market">{{ f.market }}</span>{% endif %}
+  </div>
+  <h3 class="card-title"><a href="{{ f.url }}">{{ f.summary.headline }}</a></h3>
+  <p class="card-text">{{ f.summary.what_happened }}</p>
+  {% if show_company %}
+  <p class="card-company">
+    {% if f.company_url %}<a href="{{ f.company_url }}">{{ f.company_en }}</a>{% else %}{{ f.company_en }}{% endif %}
+    <span class="ko" lang="ko">{{ f.corp_name }}</span>
+    {% if f.stock_code %}<span class="code">{{ f.stock_code }}</span>{% endif %}
+  </p>
+  {% endif %}
+</article>
+{% endmacro %}
+
+{% macro ad(pub, slot, fmt="auto") %}
+{% if pub and slot %}
+<div class="ad" aria-label="Advertisement">
+  <ins class="adsbygoogle" style="display:block" data-ad-client="{{ pub }}" data-ad-slot="{{ slot }}" data-ad-format="{{ fmt }}" data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}
+{% endmacro %}

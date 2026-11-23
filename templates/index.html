@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% from "_macros.html" import filing_card, ad %}
+{% block content %}
+<section class="hero">
+  <h1>Korean small-cap filings, in English, every day.</h1>
+  <p class="lede">Buybacks, dividends, capital raises, control changes and big contracts from KOSDAQ and smaller KOSPI companies — summarized from the original DART filings{% if latest_day %}, updated {{ latest_day|nicedate }}{% endif %}.</p>
+  <dl class="stats">
+    <div><dt>Filings covered</dt><dd>{{ total }}</dd></div>
+    <div><dt>Companies</dt><dd>{{ companies }}</dd></div>
+    <div><dt>Filing types</dt><dd>{{ events|length }}</dd></div>
+  </dl>
+</section>
+
+<div class="layout">
+  <section class="feed" aria-labelledby="latest-h">
+    <h2 id="latest-h" class="section-h">Latest filings</h2>
+    {% for f in latest %}
+      {{ filing_card(f) }}
+      {% if loop.index == 4 %}{{ ad(adsense, slot_list) }}{% endif %}
+    {% else %}
+      <p class="empty">No filings yet. The first run will fill this page.</p>
+    {% endfor %}
+  </section>
+
+  <aside class="side">
+    <section class="panel">
+      <h2 class="panel-h">By filing type</h2>
+      <ul class="type-list">
+        {% for ev in events %}
+        <li><a href="/events/{{ ev.slug }}/"><span class="dot dot-{{ ev.key }}"></span>{{ ev.label }}</a><span class="count">{{ event_counts.get(ev.key, 0) }}</span></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% if days %}
+    <section class="panel">
+      <h2 class="panel-h">By day</h2>
+      <ul class="day-list">
+        {% for d in days %}<li><a href="/daily/{{ d|isodate }}/">{{ d|nicedate }}</a><span class="count">{{ by_day[d]|length }}</span></li>{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    {% if guides %}
+    <section class="panel">
+      <h2 class="panel-h">Guides</h2>
+      <ul class="guide-list">
+        {% for g in guides %}<li><a href="{{ g.url }}">{{ g.title }}</a></li>{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  </aside>
+</div>
+{% endblock %}

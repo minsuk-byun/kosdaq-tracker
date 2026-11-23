@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page_title %}{{ page_title }} | {{ site_name }}{% else %}{{ site_name }} — {{ tagline }}{% endif %}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ site_url }}{{ canonical }}">
+<meta property="og:title" content="{{ page_title or site_name }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:type" content="{% block og_type %}website{% endblock %}">
+<meta property="og:url" content="{{ site_url }}{{ canonical }}">
+<meta property="og:site_name" content="{{ site_name }}">
+{% if demo %}<meta name="robots" content="noindex">{% endif %}
+<link rel="alternate" type="application/rss+xml" title="{{ site_name }}" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,650&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+<link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+{% if adsense %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ adsense }}" crossorigin="anonymous"></script>{% endif %}
+{% block head %}{% endblock %}
+</head>
+<body>
+{% if demo %}<div class="demo-bar">Demo build with fictional sample companies — not real filings.</div>{% endif %}
+<header class="masthead">
+  <div class="wrap masthead-row">
+    <a class="brand" href="/">
+      <span class="brand-mark" aria-hidden="true">공시</span>
+      <span class="brand-name">{{ site_name }}</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="/">Latest</a>
+      {% if latest_day %}<a href="/daily/{{ latest_day|isodate }}/">Today</a>{% endif %}
+      <a href="/events/share-buybacks/">Buybacks</a>
+      <a href="/events/dividends/">Dividends</a>
+      <a href="/guides/">Guides</a>
+    </nav>
+  </div>
+  <div class="wrap event-strip" aria-label="Filing types">
+    {% for ev in events %}<a class="chip chip-{{ ev.key }}" href="/events/{{ ev.slug }}/">{{ ev.short }}</a>{% endfor %}
+  </div>
+</header>
+
+<main class="wrap">
+{% block content %}{% endblock %}
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p class="footer-note">Unofficial English summaries of filings published on DART by Korea's Financial Supervisory Service. Summaries are produced with automated tools and may contain errors. Always check the original filing. Nothing on this site is investment advice.</p>
+    <p class="footer-links">
+      {% for p in footer_pages %}<a href="{{ p.url }}">{{ p.title }}</a>{% endfor %}
+      <a href="/feed.xml">RSS</a>
+    </p>
+    <p class="footer-small">Source: DART, Financial Supervisory Service · © {{ year }} {{ site_name }}</p>
+  </div>
+</footer>
+</body>
+</html>

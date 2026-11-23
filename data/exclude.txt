@@ -1,0 +1,4 @@
+# Stock codes (6 digits) or DART corp codes (8 digits) to skip, one per line.
+# Put large KOSPI companies here that already publish official English disclosures,
+# so the site focuses on small caps. Example:
+# 005930   # Samsung Electronics

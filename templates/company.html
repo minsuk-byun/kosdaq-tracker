@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% from "_macros.html" import filing_card %}
+{% block content %}
+<header class="page-head">
+  <p class="eyebrow">{{ f0.market }}{% if f0.stock_code %} · {{ f0.stock_code }}{% endif %}</p>
+  <h1>{{ f0.company_en }}</h1>
+  <p class="lede"><span lang="ko">{{ f0.corp_name }}</span>{% if info.corp_name_eng and info.corp_name_eng != f0.company_en %} · {{ info.corp_name_eng }}{% endif %}</p>
+  <dl class="facts">
+    {% if info.est_dt %}<div><dt>Founded</dt><dd>{{ info.est_dt|nicedate }}</dd></div>{% endif %}
+    <div><dt>Filings tracked</dt><dd>{{ items|length }}</dd></div>
+    {% for ev in events %}{% if counts.get(ev.key) %}<div><dt>{{ ev.short }}</dt><dd>{{ counts[ev.key] }}</dd></div>{% endif %}{% endfor %}
+    {% if info.hm_url %}<div><dt>Website</dt><dd><a href="{{ info.hm_url if info.hm_url.startswith('http') else 'https://' ~ info.hm_url }}" rel="nofollow noopener">{{ info.hm_url }}</a></dd></div>{% endif %}
+  </dl>
+</header>
+<section class="feed feed-wide">
+  <h2 class="section-h">Filing history</h2>
+  {% for f in items %}{{ filing_card(f, show_company=False) }}{% endfor %}
+</section>
+{% endblock %}

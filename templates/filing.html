@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% from "_macros.html" import filing_card, ad %}
+{% block og_type %}article{% endblock %}
+{% block head %}
+<script type="application/ld+json">{{ {
+  "@context": "https://schema.org", "@type": "NewsArticle",
+  "headline": s.headline, "datePublished": f.rcept_dt|isodate,
+  "description": s.what_happened,
+  "about": {"@type": "Corporation", "name": f.company_en, "tickerSymbol": f.stock_code},
+  "publisher": {"@type": "Organization", "name": site_name}
+}|tojson }}</script>
+{% endblock %}
+{% block content %}
+<article class="filing">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="/">Latest</a><span>/</span><a href="/events/{{ f.event_info.slug }}/">{{ f.event_info.label }}</a>
+  </nav>
+  <div class="card-meta">
+    <a class="chip chip-{{ f.event }}" href="/events/{{ f.event_info.slug }}/">{{ f.event_info.short }}</a>
+    {% if f.amended %}<span class="tag-amended">Amended filing</span>{% endif %}
+    <time datetime="{{ f.rcept_dt|isodate }}">Filed {{ f.rcept_dt|nicedate }}</time>
+  </div>
+  <h1 class="filing-title">{{ s.headline }}</h1>
+  <p class="company-line">
+    {% if f.company_url %}<a href="{{ f.company_url }}">{{ f.company_en }}</a>{% else %}{{ f.company_en }}{% endif %}
+    <span class="ko" lang="ko">{{ f.corp_name }}</span>
+    {% if f.stock_code %}<span class="code">{{ f.stock_code }}</span>{% endif %}
+    {% if f.market %}<span class="market">{{ f.market }}</span>{% endif %}
+  </p>
+
+  <section class="block">
+    <h2 class="block-h">What happened</h2>
+    <p>{{ s.what_happened }}</p>
+  </section>
+
+  {{ ad(adsense, slot_article, "fluid") }}
+
+  <section class="block">
+    <h2 class="block-h">Key numbers</h2>
+    <dl class="numbers">
+      {% for kn in s.key_numbers %}
+      <div class="num-row"><dt>{{ kn.label }}</dt><dd>{{ kn.value }}</dd></div>
+      {% endfor %}
+    </dl>
+  </section>
+
+  <section class="block why">
+    <h2 class="block-h">Why it matters</h2>
+    <p>{{ s.why_it_matters }}</p>
+    {% if guide %}<p class="guide-link">Read more: <a href="{{ guide.url }}">{{ guide.title }}</a></p>{% endif %}
+  </section>
+
+  <section class="source">
+    <p><strong>Original filing:</strong>
+      {% if f.dart_url %}<a href="{{ f.dart_url }}" rel="nofollow noopener" target="_blank">{{ f.report_nm }} on DART</a>
+      {% else %}<span lang="ko">{{ f.report_nm }}</span> (sample — no DART link){% endif %}
+      · Receipt no. {{ f.rcept_no }}</p>
+    <p class="unofficial">This is an unofficial English summary generated with automated tools and checked against the numbers in the original filing. It may still contain errors. Always check the original filing on DART before making decisions. Nothing here is investment advice.</p>
+  </section>
+</article>
+
+{% if related %}
+<section class="related">
+  <h2 class="section-h">More from {{ f.company_en }}</h2>
+  {% for r in related %}{{ filing_card(r, show_company=False) }}{% endfor %}
+</section>
+{% endif %}
+{% endblock %}
