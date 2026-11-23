@@ -26,11 +26,10 @@ DART_API_KEY = os.environ.get("DART_API_KEY", "")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-5-5")
 
-SITE_NAME = os.environ.get("SITE_NAME", "Korea Small-Cap Filings")
-SITE_TAGLINE = os.environ.get(
-    "SITE_TAGLINE",
-    "Daily English summaries of KOSDAQ and small-cap disclosures from Korea's DART",
-)
+# `or` (not a get() default): GitHub Actions passes unset variables as empty strings.
+SITE_NAME = os.environ.get("SITE_NAME") or "Korea Small-Cap Filings"
+SITE_TAGLINE = (os.environ.get("SITE_TAGLINE")
+                or "Daily English summaries of KOSDAQ and small-cap disclosures from Korea's DART")
 SITE_URL = (os.environ.get("SITE_URL") or "https://example.com").rstrip("/")
 # A site served from a sub-folder (e.g. https://user.github.io/kosdaq-tracker) needs every
 # internal link prefixed with that folder. With a custom domain this is empty.
