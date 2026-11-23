@@ -44,6 +44,20 @@ ADSENSE_SLOT_LIST = os.environ.get("ADSENSE_SLOT_LIST", "").strip()
 MARKETS = [m for m in os.environ.get("MARKETS", "K,Y").split(",") if m]
 MAX_SOURCE_CHARS = 14000  # source text sent to the model per filing
 
+# Large KOSPI groups whose big affiliates already publish official English disclosures.
+# A KOSPI company whose Korean name starts with one of these is skipped. This is a rough
+# rule of thumb: edit the list, or use data/exclude.txt for single companies.
+LARGE_KOSPI_PREFIXES = [
+    "삼성", "SK", "에스케이", "LG", "엘지", "현대", "HD", "기아", "한화", "롯데", "포스코",
+    "POSCO", "GS", "CJ", "KT", "신세계", "두산", "LS", "셀트리온", "카카오", "NAVER", "네이버",
+    "신한", "KB", "하나", "우리", "메리츠", "대한항공", "고려아연", "HMM", "S-Oil", "에쓰오일",
+    "한국전력", "한국가스공사", "한국항공우주", "대우건설", "KT&G", "아모레", "효성", "코웨이",
+]
+
+
+def is_large_kospi(corp_cls: str, corp_name: str) -> bool:
+    return corp_cls == "Y" and any(corp_name.startswith(p) for p in LARGE_KOSPI_PREFIXES)
+
 # --- disclosure types --------------------------------------------------------
 # `match` strings are compared against DART's report name with spaces and
 # middle dots removed, so "현금ㆍ현물배당결정" and "현금 현물배당 결정" both match.

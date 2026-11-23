@@ -119,6 +119,7 @@ def document_text(rcept_no):
                     continue
             else:
                 text = raw.decode("utf-8", "ignore")
+            text = re.sub(r"(?is)<(style|script)\b.*?</\1\s*>", " ", text)  # drop CSS/JS
             text = re.sub(r"(?i)</(p|tr|table|title|section-\d|td|th)>|<br\s*/?>", "\n", text)
             text = unescape(TAG_RE.sub(" ", text))
             parts.append(text)
@@ -150,6 +151,8 @@ def collect_day(day, cache, excluded):
         if not event:
             continue
         if item.get("stock_code") in excluded or item.get("corp_code") in excluded:
+            continue
+        if C.is_large_kospi(item.get("corp_cls", ""), item["corp_name"]):
             continue
         rcept_no = item["rcept_no"]
         if already_have(rcept_no):
