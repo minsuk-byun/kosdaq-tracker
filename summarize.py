@@ -52,7 +52,10 @@ def call_model(rec):
     ev = C.EVENTS_BY_KEY[rec["event"]]
     body = {
         "model": C.ANTHROPIC_MODEL,
-        "max_tokens": 900,
+        # Haiku 5.5 thinks by default and thinking tokens count toward max_tokens, which
+        # left no room for the answer. This is a short extraction task: no thinking needed.
+        "max_tokens": 2000,
+        "thinking": {"type": "disabled"},
         "messages": [{"role": "user", "content": PROMPT.format(
             corp_name=rec["corp_name"], corp_name_eng=rec.get("corp_name_eng") or "-",
             report_nm=rec["report_nm"], event_label=ev["label"], text=rec["text"])}],
@@ -65,11 +68,16 @@ def call_model(rec):
         if r.status_code in (429, 500, 502, 503, 529):
             time.sleep(5 * (attempt + 1))
             continue
-        r.raise_for_status()
-        text = "".join(b.get("text", "") for b in r.json()["content"] if b["type"] == "text")
+        if r.status_code >= 400:
+            raise RuntimeError(f"API {r.status_code}: {r.text[:300]}")
+        data = r.json()
+        if data.get("stop_reason") == "refusal":
+            raise ValueError("model declined this filing (stop_reason: refusal)")
+        text = "".join(b.get("text", "") for b in data["content"] if b.get("type") == "text")
         m = re.search(r"\{.*\}", text, re.S)
         if not m:
-            raise ValueError("model did not return JSON")
+            raise ValueError(f"model did not return JSON (stop_reason: {data.get('stop_reason')}, "
+                             f"blocks: {[b.get('type') for b in data['content']]})")
         return json.loads(m.group(0))
     raise RuntimeError("model API kept failing")
 
@@ -153,13 +161,18 @@ def main():
     elif not C.ANTHROPIC_API_KEY:
         sys.exit("ANTHROPIC_API_KEY is not set (or run with DEMO=1)")
 
-    published = held = 0
+    published = held = failed = 0
     for path in raws:
         rec = json.loads(path.read_text(encoding="utf-8"))
         try:
             summary = (demo_summaries[rec["rcept_no"]] if C.DEMO else call_model(rec))
         except Exception as exc:  # leave in raw/ to retry next run
             print(f"  ! {rec['rcept_no']} {exc}", file=sys.stderr)
+            failed += 1
+            # Every call failing means a setup problem (key, model, request shape):
+            # stop early and fail the run so it shows red, instead of spending on all filings.
+            if failed >= 5 and published == held == 0:
+                sys.exit("first 5 summaries all failed; stopping. See the errors above.")
             continue
         bad = check_numbers(summary, rec["text"])
         problems = check_shape(summary) + [f"number not in source: {b}" for b in bad]
