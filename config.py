@@ -27,7 +27,7 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 ANTHROPIC_MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-5-5")
 
 # `or` (not a get() default): GitHub Actions passes unset variables as empty strings.
-SITE_NAME = os.environ.get("SITE_NAME") or "Korea Small-Cap Filings"
+SITE_NAME = os.environ.get("SITE_NAME") or "KOSDAQ Filings Tracker"
 SITE_TAGLINE = (os.environ.get("SITE_TAGLINE")
                 or "Daily English summaries of KOSDAQ and small-cap disclosures from Korea's DART")
 SITE_URL = (os.environ.get("SITE_URL") or "https://example.com").rstrip("/")

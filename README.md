@@ -1,4 +1,4 @@
-# Korea Small-Cap Filings
+# KOSDAQ Filings Tracker
 
 코스닥·중소형주 공시를 매일 자동으로 모아 영어로 요약하고, 정적 웹사이트로 배포하는 프로젝트입니다.
 
@@ -6,7 +6,7 @@
 collect.py   → DART에서 6개 유형 공시 수집         (data/raw/)
 summarize.py → AI 영문 요약 + 숫자 대조 검사        (통과: data/filings/, 불일치: data/held/)
 build.py     → 정적 사이트 생성                     (site/)
-GitHub Actions가 평일 19시(한국시간)에 위 3단계를 실행하고 GitHub Pages에 배포합니다.
+GitHub Actions가 평일 23시 17분(한국시간)에 위 3단계를 실행하고 GitHub Pages에 배포합니다.
 ```
 
 ## 1. 내 컴퓨터에서 데모로 보기 (키 없이)
@@ -50,14 +50,14 @@ rm -rf data/filings data/held data/raw data/companies.json site
    | 이름 | 예시 |
    | --- | --- |
    | `SITE_URL` | 도메인 연결 후 `https://www.내도메인.com` (비우면 github.io 주소) |
-   | `SITE_NAME` | `Korea Small-Cap Filings` |
+   | `SITE_NAME` | `KOSDAQ Filings Tracker` |
    | `CONTACT_EMAIL` | 사이트용 문의 이메일 (개인 메일과 분리 권장) |
    | `ANTHROPIC_MODEL` | 비워두면 `claude-haiku-5-5` |
 5. **첫 실행** — Actions 탭 → "Daily filings" → Run workflow → days에 `5` 입력 (최근 5일치로 시작).
 6. **도메인 연결** — Settings → Pages → Custom domain에 도메인 입력, 도메인 업체 DNS에 GitHub가 안내하는 레코드 추가, 그다음 `SITE_URL` 변수를 새 도메인으로 바꿉니다.
 7. **Google Search Console** — 사이트 등록 후 `<사이트 주소>/sitemap.xml` 제출.
 
-이후로는 평일 저녁 7시마다 자동으로 돌아갑니다.
+이후로는 평일 밤 11시 17분마다 자동으로 돌아갑니다. 매번 최근 4일치를 다시 확인해서, 늦게 올라온 공시나 건너뛴 날도 채워집니다.
 
 ## 4. 애드센스 붙이기
 
@@ -87,7 +87,7 @@ events: buyback        # 연결할 공시 유형 키 (buyback, dividend, capital
 
 - 다루는 공시 유형: `config.py`의 `EVENT_TYPES`
 - 제외할 대형주: `data/exclude.txt`에 종목코드 한 줄씩 (영문 공시 의무가 있는 대형 코스피 종목)
-- 실행 시각: `.github/workflows/daily.yml`의 `cron` (UTC 기준, `0 10` = 한국 19시)
+- 실행 시각: `.github/workflows/daily.yml`의 `cron` (UTC 기준, `17 14` = 한국 23시 17분)
 
 ## 주의
 
