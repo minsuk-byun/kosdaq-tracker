@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000200",
+ "rcept_dt": "20261123",
+ "corp_code": "01042085",
+ "corp_name": "엑셈",
+ "corp_name_eng": "EXEM CO., LTD.",
+ "stock_code": "205100",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000200",
+ "summary": {
+  "headline": "EXEM to buy back up to KRW 1bn of common shares, for price stabilization and shareholder value",
+  "what_happened": "On Nov 23, 2026, EXEM CO., LTD. resolved by board decision to acquire 204,081 common shares, with an expected acquisition amount of KRW 999,996,900, through direct on-exchange purchases via Samsung Securities, over a planned period from Nov 24, 2026 to Dec 23, 2026. The stated purpose is price stabilization and enhancing shareholder value.",
+  "key_numbers": [
+   {
+    "label": "Planned shares to acquire",
+    "value": "204,081 common shares"
+   },
+   {
+    "label": "Planned acquisition amount",
+    "value": "KRW 999,996,900 (about KRW 1bn)"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 24, 2026 to Dec 23, 2026"
+   },
+   {
+    "label": "Treasury shares held before this decision",
+    "value": "528,266 shares (3.9% per filing for the 524,829 shares acquired within distributable profit limits)"
+   },
+   {
+    "label": "Acquisition limit under the filing",
+    "value": "KRW 49,558,379,020"
+   }
+  ],
+  "why_it_matters": "Share buybacks of this kind are generally announced by Korean companies to support the share price or to return value to shareholders, and the repurchased shares may later be sold or cancelled, which can affect the number of shares outstanding. The actual number of shares and amount acquired may be lower than the planned figures depending on market conditions.",
+  "company_short": "EXEM"
+ }
+}

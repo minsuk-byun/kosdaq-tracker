@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000870",
+ "rcept_dt": "20261126",
+ "corp_code": "01022902",
+ "corp_name": "애드바이오텍",
+ "corp_name_eng": "ADBIOTECH Co.,Ltd.",
+ "stock_code": "179530",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000870",
+ "summary": {
+  "headline": "ADBIOTECH issues KRW 11bn convertible bonds at KRW 932 conversion price, payable Nov 30, 2026",
+  "what_happened": "ADBIOTECH Co.,Ltd. filed a corrected notice of its decision to issue KRW 11bn in private placement convertible bonds, with a final conversion price of KRW 932 per share, set in the corrected filing. The bonds carry a 6.0% coupon, mature on Nov 30, 2029, and the stated use of proceeds is acquiring securities of another company, with the target and terms still undetermined per the filing. Payment is scheduled for Nov 30, 2026, and the filing notes the payment date was changed multiple times.",
+  "key_numbers": [
+   {
+    "label": "Bond issue amount",
+    "value": "KRW 11bn"
+   },
+   {
+    "label": "Conversion price",
+    "value": "KRW 932 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "11,802,575 shares (30.46% of total shares)"
+   },
+   {
+    "label": "Coupon rate",
+    "value": "6.0% per year"
+   },
+   {
+    "label": "Payment date",
+    "value": "Nov 30, 2026"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Nov 30, 2029"
+   }
+  ],
+  "why_it_matters": "Convertible bond issues can lead to dilution of existing shareholders if the bonds are converted into new shares, and the conversion price may be adjusted under stated conditions. Put and call options in such bonds can also affect the timing and amount of future share issuance or cash outflows for shareholders.",
+  "company_short": "ADBIOTECH"
+ }
+}

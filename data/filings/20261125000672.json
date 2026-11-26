@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261125000672",
+ "rcept_dt": "20261125",
+ "corp_code": "00113261",
+ "corp_name": "대한광통신",
+ "corp_name_eng": "TAIHAN Fiberoptics Co.,LTD",
+ "stock_code": "010170",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(회사합병결정)",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000672",
+ "summary": {
+  "headline": "TAIHAN Fiberoptics to absorb wholly owned unit TIF O'Networks in small merger, no new shares",
+  "what_happened": "TAIHAN Fiberoptics Co., Ltd. (대한광통신) plans to absorb its wholly owned subsidiary TIF O'Networks Co., Ltd. (주)티에프오네트웍스 through a small-scale merger in which no new shares are issued; the merger ratio is 1.0000000 : 0.0000000 and the surviving company's largest shareholder is unchanged. The board resolution was dated Nov 25, 2026, the merger contract is scheduled for Nov 26, 2026, and the merger date is set for Feb 1, 2027.",
+  "key_numbers": [
+   {
+    "label": "Merger ratio (TAIHAN : TIF O'Networks)",
+    "value": "1.0000000 : 0.0000000"
+   },
+   {
+    "label": "TAIHAN's ownership of TIF O'Networks",
+    "value": "100%"
+   },
+   {
+    "label": "Board resolution date",
+    "value": "Nov 25, 2026"
+   },
+   {
+    "label": "Scheduled merger date",
+    "value": "Feb 1, 2027"
+   },
+   {
+    "label": "TIF O'Networks total assets (FY2025)",
+    "value": "KRW 26.5bn"
+   },
+   {
+    "label": "TIF O'Networks net income (FY2025)",
+    "value": "KRW 477m"
+   }
+  ],
+  "why_it_matters": "In Korea, a parent absorbing a wholly owned subsidiary without issuing new shares typically changes the internal group structure rather than the shareholder base, so shareholders usually see no change in share count or ownership. Small-scale mergers generally skip shareholder meetings and appraisal rights, and shareholders holding 20% or more of the surviving company's shares can object within two weeks of notice, which would prevent the small-scale procedure.",
+  "company_short": "TAIHAN Fiberoptics"
+ }
+}

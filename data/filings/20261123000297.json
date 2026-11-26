@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261123000297",
+ "rcept_dt": "20261123",
+ "corp_code": "00231691",
+ "corp_name": "판타지오",
+ "corp_name_eng": "Fantagio Corp.",
+ "stock_code": "032800",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000297",
+ "summary": {
+  "headline": "Fantagio Corp. withdraws its July 2026 rights offering after underwriter cancels contract",
+  "what_happened": "Fantagio Corp. has withdrawn its rights offering decision and the related securities registration statement, which had first been filed on Jul 6, 2026 to raise operating funds through a general public offering. The lead underwriter notified the company of contract cancellation on Nov 18, 2026 and requested withdrawal of the offering, after the review of the securities registration statement by the Financial Supervisory Service lengthened the timeline. The company states the withdrawal does not mean halting existing or new growth businesses, and it will reconsider the size and method of funding.",
+  "key_numbers": [
+   {
+    "label": "Original offering announced",
+    "value": "Jul 6, 2026"
+   },
+   {
+    "label": "Underwriter contract cancellation notice",
+    "value": "Nov 18, 2026"
+   },
+   {
+    "label": "Amended filing date",
+    "value": "Nov 23, 2026"
+   },
+   {
+    "label": "Offering type",
+    "value": "General public offering (rights offering), funds for operating capital"
+   }
+  ],
+  "why_it_matters": "In Korea, a withdrawal of a rights offering means the planned issuance of new shares will not proceed as originally announced, so existing shareholders will not face the dilution from that issuance and the company must look to other ways of obtaining funds. Such filings are typically reviewed alongside the company's future financing plans and cash position disclosures.",
+  "company_short": "Fantagio"
+ }
+}

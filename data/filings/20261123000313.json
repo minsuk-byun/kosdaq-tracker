@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261123000313",
+ "rcept_dt": "20261123",
+ "corp_code": "01013311",
+ "corp_name": "헥토이노베이션",
+ "corp_name_eng": "Hecto Innovation Co., Ltd.",
+ "stock_code": "214180",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000313",
+ "summary": {
+  "headline": "Hecto Innovation to buy back KRW 1.65bn of common shares on the open market, Nov 24, 2026 – Feb 23, 2027",
+  "what_happened": "Hecto Innovation Co., Ltd.'s board resolved on Nov 23, 2026 to acquire 128,634 common shares through direct on-exchange purchases via Shinhan Investment Corp., with an expected acquisition amount of KRW 1,645,228,860. The acquisition period runs from Nov 24, 2026 to Feb 23, 2027, and the stated purpose is shareholder value enhancement and employee compensation.",
+  "key_numbers": [
+   {
+    "label": "Planned shares to acquire (common)",
+    "value": "128,634 shares"
+   },
+   {
+    "label": "Planned acquisition amount (common)",
+    "value": "KRW 1.65bn"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 24, 2026 – Feb 23, 2027"
+   },
+   {
+    "label": "Reference closing price (Nov 20, 2026)",
+    "value": "KRW 12,790"
+   },
+   {
+    "label": "Treasury shares held before this decision",
+    "value": "279,866 shares (2.2%)"
+   },
+   {
+    "label": "Daily buy order limit",
+    "value": "12,863 shares"
+   }
+  ],
+  "why_it_matters": "Share buyback decisions of this type are generally made to return value to shareholders or to fund employee compensation; repurchased shares may be cancelled, held in treasury, or used for other purposes, which can affect the number of shares outstanding. The actual amount and number of shares acquired may differ from the planned figures depending on future share price movements.",
+  "company_short": "Hecto Innovation"
+ }
+}

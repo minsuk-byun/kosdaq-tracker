@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900755",
+ "rcept_dt": "20261126",
+ "corp_code": "01440153",
+ "corp_name": "넥사다이내믹스",
+ "corp_name_eng": "Nexa Dynamics Co., Ltd.",
+ "stock_code": "351320",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900755",
+ "summary": {
+  "headline": "Nexa Dynamics wins KRW 75.5bn high-performance AI server supply contract, ~580% of recent revenue",
+  "what_happened": "Nexa Dynamics Co., Ltd. disclosed a single supply contract for high-performance AI server products with a Korean counterparty, signed on Nov 26, 2026, for a fixed contract amount of KRW 75.5bn (excluding VAT). The contract runs from Nov 26, 2026 to Mar 31, 2027, with a 20% advance payment and 80% balance payment, and the counterparty's identity is withheld at its request.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 75.5bn (excl. VAT)"
+   },
+   {
+    "label": "Recent revenue (FY2025 consolidated)",
+    "value": "KRW 13,012,868,322"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "580.19%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Mar 31, 2027"
+   },
+   {
+    "label": "Payment terms",
+    "value": "20% advance, 80% balance"
+   }
+  ],
+  "why_it_matters": "Major supply contract filings in Korea inform shareholders of significant new business that may affect future revenue, though contract terms, counterparty details, and the possibility of changes or cancellation can limit how much can be concluded from the announcement alone. Where counterparty information is withheld, investors typically rely on the company's follow-up disclosures.",
+  "company_short": "Nexa Dynamics"
+ }
+}

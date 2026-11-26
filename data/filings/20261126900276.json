@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900276",
+ "rcept_dt": "20261126",
+ "corp_code": "01292291",
+ "corp_name": "파두",
+ "corp_name_eng": "FADU INC.",
+ "stock_code": "440110",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900276",
+ "summary": {
+  "headline": "FADU signs KRW 20.4bn supply contract for enterprise SSD controllers, 22.10% of revenue",
+  "what_happened": "FADU Inc. entered a single supply contract to supply enterprise SSD controllers to an overseas NAND flash memory manufacturer, signed on Nov 25, 2026. The contract is unconditional, with a term from Nov 25, 2026 to May 25, 2027, and payment due within 30 days after delivery. The counterparty's identity and details have been withheld at its request.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (confirmed, total)",
+    "value": "KRW 20.42bn (USD 15.2m)"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "22.10% (recent revenue KRW 92.42bn, 2025 consolidated)"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to May 25, 2027"
+   },
+   {
+    "label": "Exchange rate applied",
+    "value": "KRW 1,343.60 per USD (Nov 25, 2026 basic rate)"
+   },
+   {
+    "label": "Buyer cancellation compensation",
+    "value": "0.5% of cancelled amount, or direct costs the supplier cannot reduce or avoid, whichever is less"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea report a contract's size relative to recent revenue, its terms and its timing, so shareholders can gauge the scale of a specific order. Such filings are typically one of many factors investors consider and do not on their own indicate future financial results.",
+  "company_short": "FADU"
+ }
+}

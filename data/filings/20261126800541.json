@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126800541",
+ "rcept_dt": "20261126",
+ "corp_code": "01190568",
+ "corp_name": "에이피알",
+ "corp_name_eng": "APR Co., Ltd.",
+ "stock_code": "278470",
+ "corp_cls": "Y",
+ "report_nm": "타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800541",
+ "summary": {
+  "headline": "APR Co., Ltd. to acquire BRAND501 stake via KRW 70bn rights issue on Dec 31, 2026",
+  "what_happened": "APR Co., Ltd.'s board approved on Nov 26, 2026 the acquisition of 50,000 new shares of BRAND501 Corp. through a third-party allotment rights issue, for a total of KRW 70bn in cash, at KRW 1,400,000 per share. The acquisition is scheduled to take effect on Dec 31, 2026, with payment due Dec 30, 2026. The filing states that APR also plans to acquire 286,994 existing shares from BRAND501's existing shareholders under a separate share transfer agreement, which will be disclosed in a separate filing.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount (new shares)",
+    "value": "KRW 70bn"
+   },
+   {
+    "label": "Shares to be acquired (new shares)",
+    "value": "50,000"
+   },
+   {
+    "label": "Price per share",
+    "value": "KRW 1,400,000"
+   },
+   {
+    "label": "Stake after acquisition",
+    "value": "87.3%"
+   },
+   {
+    "label": "Acquisition as % of equity",
+    "value": "15.70%"
+   },
+   {
+    "label": "Scheduled effective date",
+    "value": "Dec 31, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, filings of this type (acquisitions of other companies' shares or equity) typically signal that the company is investing cash to gain control of or expand into another business, which can affect its capital allocation and future consolidated financials. Shareholders usually review the funding source, the valuation, and any further planned transactions described in the filing.",
+  "company_short": "APR Co., Ltd."
+ }
+}

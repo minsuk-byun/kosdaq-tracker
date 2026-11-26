@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900194",
+ "rcept_dt": "20261126",
+ "corp_code": "00927558",
+ "corp_name": "유바이오로직스",
+ "corp_name_eng": "EuBiologics Co., Ltd.",
+ "stock_code": "206650",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900194",
+ "summary": {
+  "headline": "EuBiologics signs KRW 10.1bn oral cholera vaccine supply deal with UNICEF, term extended to Apr 30, 2027",
+  "what_happened": "EuBiologics Co., Ltd. filed a corrected disclosure of a single supply contract for its oral cholera vaccine (YuBiocol-S) with UNICEF for delivery in the Democratic Republic of the Congo. The contract was signed on Jul 13, 2026, and the filing amends the contract end date from Dec 31, 2026 to Apr 30, 2027. Payment is due within 30 days after submission of supporting documents, and no advance payment applies.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 10.1bn (USD 6,737,023)"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "6.77%"
+   },
+   {
+    "label": "Recent revenue (2025, separate basis)",
+    "value": "KRW 149.2bn"
+   },
+   {
+    "label": "Contract end date (corrected)",
+    "value": "Apr 30, 2027 (previously Dec 31, 2026)"
+   },
+   {
+    "label": "Exchange rate used",
+    "value": "USD 1 = KRW 1,499.50 (Hana Bank, Jul 13, 2026)"
+   }
+  ],
+  "why_it_matters": "Supply contracts disclosed under this category typically indicate the size of a company's individual orders relative to its revenue, and corrections to contract terms such as end dates are usually made to reflect updated delivery schedules. Shareholders generally look at such filings to understand order flow and contract timing.",
+  "company_short": "EuBiologics"
+ }
+}

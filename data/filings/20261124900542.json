@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900542",
+ "rcept_dt": "20261124",
+ "corp_code": "00540447",
+ "corp_name": "유니테스트",
+ "corp_name_eng": "UniTestInc.",
+ "stock_code": "086390",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900542",
+ "summary": {
+  "headline": "UniTestInc. signs KRW 5.73bn semiconductor test equipment supply deal with SK hynix",
+  "what_happened": "UniTestInc. disclosed a single supply contract to supply semiconductor test equipment (GEN6 SSD TESTER) to SK hynix, a South Korea-based semiconductor manufacturer. The contract is unconditional, has a period from Nov 23, 2026 to Mar 26, 2027, and was signed on Nov 23, 2026. The filing states the contract amount excludes VAT.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 5.73bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "5.20%"
+   },
+   {
+    "label": "Recent revenue (2025, consolidated)",
+    "value": "KRW 110.2bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 23, 2026 to Mar 26, 2027"
+   },
+   {
+    "label": "Payment terms",
+    "value": "90% after equipment delivery, 10% after setup completion; no advance payment"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea report a specific order's size relative to the company's recent revenue, which helps shareholders gauge the scale of an individual order. Such filings do not by themselves indicate the company's overall financial outlook.",
+  "company_short": "UniTestInc."
+ }
+}

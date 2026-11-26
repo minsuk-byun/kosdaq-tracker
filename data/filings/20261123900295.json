@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900295",
+ "rcept_dt": "20261123",
+ "corp_code": "00442145",
+ "corp_name": "아바코",
+ "corp_name_eng": "AVACOCO.,LTD.",
+ "stock_code": "083930",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900295",
+ "summary": {
+  "headline": "AVACOCO cancels 685,135 treasury common shares, KRW 6.51bn, scheduled Nov 30, 2026",
+  "what_happened": "AVACOCO.,LTD.'s board approved on Nov 23, 2026 the cancellation of 685,135 common shares held as treasury stock, with a planned cancellation amount of KRW 6.51bn. The cancellation is scheduled for Nov 30, 2026, and the filing states it follows the share buyback trust agreement announced on Jan 27, 2026, with the stated purpose of enhancing shareholder value and expanding shareholder return policy.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "685,135"
+   },
+   {
+    "label": "Total common shares issued",
+    "value": "14,677,249"
+   },
+   {
+    "label": "Planned cancellation amount",
+    "value": "KRW 6.51bn"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Nov 30, 2026"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   }
+  ],
+  "why_it_matters": "In Korea, share cancellations of treasury stock generally reduce the number of shares outstanding and are often disclosed as part of shareholder return measures; because the filing states no reduction in capital, it is a cancellation of already-acquired treasury shares rather than a capital reduction. The scheduled date may change depending on coordination with relevant authorities.",
+  "company_short": "AVACOCO"
+ }
+}

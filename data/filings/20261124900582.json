@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261124900582",
+ "rcept_dt": "20261124",
+ "corp_code": "01336762",
+ "corp_name": "스피어",
+ "corp_name_eng": "Sphere Corp.",
+ "stock_code": "347700",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900582",
+ "summary": {
+  "headline": "Sphere Corp. discloses KRW 22.3bn special alloy raw material supply contract with US space launch firm",
+  "what_happened": "Sphere Corp. filed a corrected disclosure for a single supply contract for special alloy raw materials with a US global aerospace launch company, with a fixed contract amount of KRW 22,256,025,000 (about KRW 22.3bn). The correction updated the contract end date from Nov 30, 2026 to Jan 18, 2027 due to changes in the delivery schedule, and the contract period runs from Jun 12, 2026 to Jan 18, 2027.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 22.26bn"
+   },
+   {
+    "label": "Contract amount in USD",
+    "value": "USD 14,575,000 (converted at KRW 1,527.00/USD)"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "23.27%"
+   },
+   {
+    "label": "Recent revenue (FY2025 consolidated)",
+    "value": "KRW 95.64bn"
+   },
+   {
+    "label": "Delivery and payment progress",
+    "value": "approx. 73.1%"
+   },
+   {
+    "label": "Corrected contract end date",
+    "value": "Jan 18, 2027 (previously Nov 30, 2026)"
+   }
+  ],
+  "why_it_matters": "In Korea, supply contract disclosures are required when a contract exceeds a set share of a company's recent revenue, and they give shareholders information about the scale and timing of announced orders. Corrections to delivery schedules or end dates are typically filed so that investors have updated information on when the related revenue is expected.",
+  "company_short": "Sphere Corp."
+ }
+}

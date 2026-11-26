@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800739",
+ "rcept_dt": "20261124",
+ "corp_code": "00226316",
+ "corp_name": "호전실업",
+ "corp_name_eng": "Hojeon Limited",
+ "stock_code": "111110",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800739",
+ "summary": {
+  "headline": "Hojeon Limited to acquire 99.99% of new Indonesian unit PT. HOLIM JAYA INDONESIA for KRW 10.67bn",
+  "what_happened": "Hojeon Limited decided to acquire 7,999 shares, or 99.99% of the shares, in PT. HOLIM JAYA INDONESIA, a newly established apparel manufacturing company in Indonesia, for KRW 10,669,066,200 in cash, with the stated purpose of participating in management and expanding garment production capacity. The filing is a correction: the expected acquisition date was changed from Dec 22, 2026 to Nov 25, 2026 because of a change in the schedule for purchasing the factory site, and the company plans to invest in tranches, so the date may change further.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 10,669,066,200 (about KRW 10.67bn)"
+   },
+   {
+    "label": "Shares acquired / ownership after acquisition",
+    "value": "7,999 shares / 99.99%"
+   },
+   {
+    "label": "Expected acquisition date (corrected)",
+    "value": "Nov 25, 2026"
+   },
+   {
+    "label": "Share of equity capital",
+    "value": "7.87%"
+   },
+   {
+    "label": "Share of total assets (latest fiscal year-end)",
+    "value": "3.38%"
+   }
+  ],
+  "why_it_matters": "Acquisition or capital-contribution filings like this usually show a company committing cash to a subsidiary or new venture, which can affect investment spending and expansion plans; shareholders typically look at the size of the commitment relative to the company's equity and assets. Corrections to dates or terms are common in such filings and are usually reported so investors have the latest schedule.",
+  "company_short": "Hojeon Limited"
+ }
+}

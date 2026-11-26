@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261125900268",
+ "rcept_dt": "20261125",
+ "corp_code": "01170865",
+ "corp_name": "네오셈",
+ "corp_name_eng": "Neosem Inc.",
+ "stock_code": "253590",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900268",
+ "summary": {
+  "headline": "Neosem Inc. signs KRW 6.47bn supply contract with Samsung Electronics for CLT interface boards",
+  "what_happened": "Neosem Inc. entered into a single supply contract for CLT interface boards with Samsung Electronics, a semiconductor business, for a fixed contract amount of KRW 6,469,403,200, with no conditional portion. The contract covers domestic supply from November 25, 2026 to March 31, 2027, with payment made 100% after product delivery and no advance payment.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (fixed, excl. VAT)",
+    "value": "KRW 6.47bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "10.1%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Mar 31, 2027"
+   },
+   {
+    "label": "Recent revenue (2025 consolidated)",
+    "value": "KRW 63.94bn"
+   }
+  ],
+  "why_it_matters": "Major supply contract disclosures in Korea report a company's new orders, their size relative to recent revenue, and the counterparty, allowing shareholders to gauge near-term order flow. The impact depends on the contract's size relative to the company's overall business and on whether such orders recur.",
+  "company_short": "Neosem"
+ }
+}

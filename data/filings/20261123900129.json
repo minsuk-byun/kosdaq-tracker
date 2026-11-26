@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261123900129",
+ "rcept_dt": "20261123",
+ "corp_code": "01472930",
+ "corp_name": "오브젠",
+ "corp_name_eng": "OBZEN Inc.",
+ "stock_code": "417860",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900129",
+ "summary": {
+  "headline": "OBZEN signs KRW 4.68bn supply contract with LG CNS for Shinhan Card marketing platform",
+  "what_happened": "OBZEN Inc. disclosed that it signed a single supply contract on Nov 20, 2026, for building a marketing integration platform for Shinhan Card, covering transfer and development of an integrated marketing system and AI Agent. The counterparty is LG CNS Co., Ltd., and the contract period runs from Nov 23, 2026 to Jan 22, 2028, with work performed in Seoul's Jung-gu. The contract is unconditional, and the filing states the amount is exclusive of VAT and may be changed by agreement with the counterparty.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 4.68bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "20.00%"
+   },
+   {
+    "label": "OBZEN recent revenue",
+    "value": "KRW 23.41bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 23, 2026 to Jan 22, 2028"
+   },
+   {
+    "label": "Counterparty recent revenue",
+    "value": "KRW 6,129.54bn"
+   },
+   {
+    "label": "Payment terms",
+    "value": "100% balance payable after final inspection is completed"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea are typically required when a contract reaches a set share of a company's recent revenue, giving shareholders information about the size and timing of new business. Such filings are generally a factual update on contracted work and do not by themselves indicate future financial results.",
+  "company_short": "OBZEN"
+ }
+}

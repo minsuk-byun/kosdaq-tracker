@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900577",
+ "rcept_dt": "20261124",
+ "corp_code": "01336762",
+ "corp_name": "스피어",
+ "corp_name_eng": "Sphere Corp.",
+ "stock_code": "347700",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900577",
+ "summary": {
+  "headline": "Sphere Corp. amends KRW 7.11bn special alloy supply contract with US space launch firm",
+  "what_happened": "Sphere Corp. filed a corrected disclosure on Nov 24, 2026 for a single supply contract for special alloys with a US global aerospace launch company, amending the contract end date from Nov 30, 2026 to Mar 2, 2027 due to a change in delivery schedule. The filing states the contract was signed on Dec 10, 2025, with a total contract value of KRW 7,111,200,776, and that delivery and payment progress stands at about 77.4%.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 7.11bn"
+   },
+   {
+    "label": "Recent revenue vs. contract (as stated)",
+    "value": "278.02% of recent revenue (recent revenue KRW 2.56bn)"
+   },
+   {
+    "label": "Contract end date (amended)",
+    "value": "Mar 2, 2027 (previously Nov 30, 2026)"
+   },
+   {
+    "label": "Delivery and payment progress",
+    "value": "About 77.4%"
+   },
+   {
+    "label": "Contract amount in USD",
+    "value": "USD 4,840,844.64 (at KRW 1,469.00/USD)"
+   }
+  ],
+  "why_it_matters": "Supply contract disclosures in Korea inform shareholders about the size and timing of a company's large orders relative to its revenue, and corrections to contract terms such as end dates indicate changes in expected delivery or payment schedules. Such filings are typically provided so investors can track contract progress and potential revenue timing.",
+  "company_short": "Sphere Corp."
+ }
+}

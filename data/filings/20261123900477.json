@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900477",
+ "rcept_dt": "20261123",
+ "corp_code": "00144243",
+ "corp_name": "유니슨",
+ "corp_name_eng": "UNISON CO., LTD.",
+ "stock_code": "018000",
+ "corp_cls": "K",
+ "report_nm": "유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900477",
+ "summary": {
+  "headline": "UNISON CO. subsidiary Unison Energy plans KRW 60bn third-party rights offering, 6m new shares at KRW 10,000",
+  "what_happened": "On Nov 23, 2026, the board of Unison Energy Co., Ltd., a subsidiary of UNISON CO., LTD., resolved to issue 6,000,000 new common shares at KRW 10,000 per share via a third-party allotment, with payment due Nov 23, 2026. The stated purpose of the funds is acquisition of securities of another company, with the specific investment target not yet determined. The filing states that after the offering the parent's stake will fall from 100% to about 20%, and Unison Energy will cease to be a subsidiary.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "6,000,000 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 10,000"
+   },
+   {
+    "label": "Funds raised (other-company securities acquisition)",
+    "value": "KRW 60bn"
+   },
+   {
+    "label": "Parent's stake after offering (approx.)",
+    "value": "about 20% (from 100%)"
+   },
+   {
+    "label": "Parent's consolidated total assets (end-2025)",
+    "value": "KRW 255,828,596,290"
+   }
+  ],
+  "why_it_matters": "Third-party allotment rights offerings by a subsidiary generally bring in new outside investors and can change the parent's ownership level and whether the entity remains consolidated. Shareholders typically look at how the proceeds will be used and how the change in control or stake affects the group's reported financials.",
+  "company_short": "UNISON CO."
+ }
+}

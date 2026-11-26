@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261126900132",
+ "rcept_dt": "20261126",
+ "corp_code": "00540447",
+ "corp_name": "유니테스트",
+ "corp_name_eng": "UniTestInc.",
+ "stock_code": "086390",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900132",
+ "summary": {
+  "headline": "UniTestInc. signs KRW 12.3bn chip test equipment supply deal with Micron India",
+  "what_happened": "On Nov 25, 2026, UniTestInc. entered a single supply contract for semiconductor test equipment (GEN6 SSD TESTER) with Micron Semiconductor Technology India, to be delivered in India. The contract period runs from Nov 25, 2026 to Mar 20, 2027, and the filing states the contract is not conditional and carries no advance payment, with payment due within 60 days after the end of the month in which the invoice and delivery confirmation are received.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 12.3bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "11.17% (vs. recent revenue of KRW 110.2bn, based on FY2025 consolidated statements)"
+   },
+   {
+    "label": "Contract amount in USD",
+    "value": "USD 9,159,800 (at KRW 1,343.60 per USD)"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Mar 20, 2027"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea report the size of a specific order relative to a company's recent revenue, which helps shareholders gauge how significant the order is to the business. The filing notes that the end date may change depending on customer circumstances and inspection schedules.",
+  "company_short": "UniTest"
+ }
+}

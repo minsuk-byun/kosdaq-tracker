@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000839",
+ "rcept_dt": "20261126",
+ "corp_code": "01504211",
+ "corp_name": "라메디텍",
+ "corp_name_eng": "LAMEDITECH Co., Ltd.",
+ "stock_code": "462510",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000839",
+ "summary": {
+  "headline": "LAMEDITECH launches KRW 1.5bn rights offering, 1,002,004 new common shares at KRW 1,497",
+  "what_happened": "LAMEDITECH Co., Ltd. board resolved on Nov 26, 2026 to issue 1,002,004 new common shares through a general public rights offering, with a provisional issue price of KRW 1,497 per share (a 20% discount to the reference price). The offering is intended to raise funds mainly for operating capital, and the subscription period runs from Dec 1 to Dec 2, 2026, with new shares scheduled to list on Dec 17, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "1,002,004 shares"
+   },
+   {
+    "label": "Provisional issue price",
+    "value": "KRW 1,497 per share (20% discount)"
+   },
+   {
+    "label": "Operating capital allocation",
+    "value": "KRW 1.5bn"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "8,802,965 common shares"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   }
+  ],
+  "why_it_matters": "A rights offering of this type adds new shares to the company's existing share count, which can dilute the ownership percentage of existing shareholders who do not subscribe. Subscription pricing at a discount to the market reference price is a standard feature of this kind of offering, and the final issue price and share count may still change before the confirmed price is set.",
+  "company_short": "LAMEDITECH"
+ }
+}

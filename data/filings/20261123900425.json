@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261123900425",
+ "rcept_dt": "20261123",
+ "corp_code": "01336762",
+ "corp_name": "스피어",
+ "corp_name_eng": "Sphere Corp.",
+ "stock_code": "347700",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900425",
+ "summary": {
+  "headline": "Sphere Corp. amends overseas special alloy supply contract; KRW 1.43bn, end date moved to Nov 23, 2026",
+  "what_happened": "Sphere Corp. filed a corrected disclosure on Nov 23, 2026 for its single-order supply contract for special alloys with a U.S. global aerospace launch company. The correction moves the contract end date from Dec 29, 2026 to Nov 23, 2026, because contract performance and payment collection have been completed early.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 1.43bn (USD 991,270.35)"
+   },
+   {
+    "label": "Contract period",
+    "value": "Dec 30, 2025 to Nov 23, 2026 (amended end date)"
+   },
+   {
+    "label": "Previous end date",
+    "value": "Dec 29, 2026"
+   },
+   {
+    "label": "Recent revenue (FY2024, consolidated)",
+    "value": "KRW 2.56bn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "55.90%"
+   },
+   {
+    "label": "Payment terms",
+    "value": "30 days from invoice date; no advance payment"
+   }
+  ],
+  "why_it_matters": "In Korea, corrections to supply contracts usually reflect changes to contract timing, amounts, or counterparty details, and are intended to keep shareholders informed of revenue expectations. Early completion and payment collection typically means the contract's revenue recognition timing has changed, which is relevant for investors tracking the company's order pipeline.",
+  "company_short": "Sphere Corp."
+ }
+}

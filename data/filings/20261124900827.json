@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900827",
+ "rcept_dt": "20261124",
+ "corp_code": "00287812",
+ "corp_name": "에코심플렉스",
+ "corp_name_eng": "EcoSimplex Co., Ltd",
+ "stock_code": "038870",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900827",
+ "summary": {
+  "headline": "EcoSimplex signs KRW 953m first-year Sudogwon landfill power/facility O&M contract (total KRW 24.7bn)",
+  "what_happened": "EcoSimplex Co., Ltd disclosed on Nov 24, 2026 that it signed a supply contract for the first phase of operation and management services for power generation and ancillary facilities at the Sudogwon Landfill with Sudogwon Landfill Corporation. The first-phase contract amount is KRW 953m (excluding VAT), against a total contract amount of KRW 24.7bn (excluding VAT) through Dec 3, 2028. The contract is paid on progress billings by period (quarterly).",
+  "key_numbers": [
+   {
+    "label": "First-phase contract amount (excl. VAT)",
+    "value": "KRW 953m"
+   },
+   {
+    "label": "Total contract amount (excl. VAT, through Dec 3, 2028)",
+    "value": "KRW 24.7bn"
+   },
+   {
+    "label": "Company's latest revenue (FY2025, consolidated)",
+    "value": "KRW 17.2bn"
+   },
+   {
+    "label": "First-phase contract as % of latest revenue",
+    "value": "5.53%"
+   },
+   {
+    "label": "First-phase contract period",
+    "value": "Nov 1, 2026 to Feb 2, 2027"
+   }
+  ],
+  "why_it_matters": "Supply contracts of this type are typically disclosed to show a company's new order intake and its scale relative to recent revenue, and multi-year contracts are usually reported in phases, so the first-phase amount may not reflect the full value. Shareholders often look at the total contract value, payment terms and the counterparty's standing when assessing such filings.",
+  "company_short": "EcoSimplex"
+ }
+}

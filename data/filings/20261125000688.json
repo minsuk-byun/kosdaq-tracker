@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261125000688",
+ "rcept_dt": "20261125",
+ "corp_code": "01453944",
+ "corp_name": "벡트로보틱스",
+ "corp_name_eng": "VECT Robotics Co., Ltd.",
+ "stock_code": "457600",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000688",
+ "summary": {
+  "headline": "VECT Robotics issues 518,941 shares via third-party allotment, KRW 1bn raised (corrected filing)",
+  "what_happened": "VECT Robotics Co., Ltd. decided on Nov 23, 2026 to issue 518,941 common shares through a third-party allotment to 베스타1호조합 (Vesta No. 1 Fund), with a fixed issue price of KRW 1,927 per share. This corrected filing (정정신고) revised the share count from 730,460 to 518,941 and the issue price from KRW 1,369 to KRW 1,927 after the final issue price was set based on the weighted average share price over the third to fifth trading days before the subscription date, less a 10% discount.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "518,941 shares (corrected from 730,460)"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,927 (corrected from KRW 1,369)"
+   },
+   {
+    "label": "Base share price (fixed)",
+    "value": "KRW 2,140"
+   },
+   {
+    "label": "Funds raised (operating funds)",
+    "value": "KRW 999,999,307 (approx. KRW 1bn)"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 10, 2026"
+   },
+   {
+    "label": "Expected listing date of new shares",
+    "value": "Dec 29, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to a selected investor rather than existing shareholders, which can increase the total number of shares outstanding and may dilute existing shareholders' ownership percentage. Corrections to such filings typically reflect changes in share count or issue price set by the pricing formula.",
+  "company_short": "VECT Robotics"
+ }
+}

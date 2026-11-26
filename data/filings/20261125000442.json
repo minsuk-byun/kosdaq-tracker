@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000442",
+ "rcept_dt": "20261125",
+ "corp_code": "01150515",
+ "corp_name": "대명에너지",
+ "corp_name_eng": "Dae Myoung Energy Co. Ltd.",
+ "stock_code": "389260",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000442",
+ "summary": {
+  "headline": "Dae Myoung Energy to buy back up to KRW 1bn of common shares for employee rewards",
+  "what_happened": "On Nov 25, 2026, the board of Dae Myoung Energy Co. Ltd. resolved to acquire treasury shares, with 83,822 common shares planned for purchase at a planned total amount of KRW 1bn. The buyback is scheduled to run from Nov 26, 2026 to Feb 25, 2027, through on-market purchases on the KOSDAQ via Samsung Securities, with the stated purpose of funding employee performance compensation.",
+  "key_numbers": [
+   {
+    "label": "Planned shares to acquire",
+    "value": "83,822 common shares"
+   },
+   {
+    "label": "Planned acquisition amount",
+    "value": "KRW 1bn"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 26, 2026 to Feb 25, 2027"
+   },
+   {
+    "label": "Daily buy order limit",
+    "value": "179,163 common shares"
+   },
+   {
+    "label": "Acquisition amount limit (based on distributable profit)",
+    "value": "KRW 131.0bn"
+   }
+  ],
+  "why_it_matters": "Share buybacks of this type generally allow a Korean company to repurchase its own shares on the open market, which can be used for purposes such as employee compensation as stated here. For shareholders, buybacks in general reduce the number of shares outstanding that are held by the public, though the actual number acquired may differ from the planned figure and the final amount will vary with share price movements.",
+  "company_short": "Dae Myoung Energy"
+ }
+}

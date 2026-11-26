@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261125900681",
+ "rcept_dt": "20261125",
+ "corp_code": "00113261",
+ "corp_name": "대한광통신",
+ "corp_name_eng": "TAIHAN Fiberoptics Co.,LTD",
+ "stock_code": "010170",
+ "corp_cls": "K",
+ "report_nm": "회사합병결정(종속회사의주요경영사항)",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900681",
+ "summary": {
+  "headline": "TAIHAN Fiberoptics to absorb subsidiary TFO Networks via small-scale merger; KRW 26.5bn subsidiary assets",
+  "what_happened": "The board of TAIHAN Fiberoptics approved on Nov 25, 2026 the absorption merger of its wholly owned subsidiary TFO Networks Co., Ltd., with TAIHAN Fiberoptics as the surviving company and TFO Networks dissolving; no new shares will be issued. The merger is planned as a small-scale merger and a simplified merger under the Commercial Act, with the merger date set for Feb 1, 2027 and registration expected on Feb 12, 2027.",
+  "key_numbers": [
+   {
+    "label": "TFO Networks total assets (2025 year-end, standalone)",
+    "value": "KRW 26.5bn"
+   },
+   {
+    "label": "Share of parent's consolidated total assets",
+    "value": "12.12%"
+   },
+   {
+    "label": "Parent consolidated total assets (2025 year-end)",
+    "value": "KRW 219.0bn"
+   },
+   {
+    "label": "Merger ratio",
+    "value": "1.0000000 : 0.0000000 (no new shares issued)"
+   },
+   {
+    "label": "Creditor objection period",
+    "value": "Dec 29, 2026 to Jan 29, 2027"
+   },
+   {
+    "label": "Merger date / registration",
+    "value": "Feb 1, 2027 / Feb 12, 2027 (expected)"
+   }
+  ],
+  "why_it_matters": "Absorption mergers of wholly owned subsidiaries are generally intended to streamline group structure and improve operational efficiency; because no new shares are issued, shareholders of the parent typically are not diluted by such a merger. Creditors of the merging companies usually have a statutory window to object, and schedules in such filings are often subject to change pending regulatory and procedural steps.",
+  "company_short": "TAIHAN Fiberoptics"
+ }
+}

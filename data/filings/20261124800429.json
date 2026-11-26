@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800429",
+ "rcept_dt": "20261124",
+ "corp_code": "00159209",
+ "corp_name": "한전기술",
+ "corp_name_eng": "KEPCO Engineering & Construction Company, Inc",
+ "stock_code": "052690",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800429",
+ "summary": {
+  "headline": "KEPCO E&C: amended contract for Shin Kori 5&6 reactor system design, KRW 214.8bn, term extended",
+  "what_happened": "KEPCO Engineering & Construction filed a corrected disclosure for its supply contract with Doosan Enerbility for reactor system design for the Shin Kori Nuclear Power Plant Units 5 and 6, originally signed on Aug 28, 2014. The correction concerns the contract period, which the company changed from an end date of Nov 30, 2026 to 'undetermined', with the reason given as an extension. The company states it is still negotiating the contract period and contract amount with the client and will file an additional correction once the final changes are confirmed.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (incl. VAT)",
+    "value": "KRW 214.8bn"
+   },
+   {
+    "label": "Recent revenue referenced",
+    "value": "KRW 490.2bn"
+   },
+   {
+    "label": "Contract revenue as % of recent revenue",
+    "value": "43.82%"
+   },
+   {
+    "label": "Contract start date",
+    "value": "Aug 28, 2014"
+   },
+   {
+    "label": "Previous contract end date",
+    "value": "Nov 30, 2026 (now undetermined)"
+   }
+  ],
+  "why_it_matters": "Supply contract disclosures in Korea inform shareholders of significant contract awards and changes that may affect a company's future revenue. Corrections to contract terms, such as extensions or amount changes, are typically filed when the final terms are still under negotiation and may be revised again.",
+  "company_short": "KEPCO E&C"
+ }
+}

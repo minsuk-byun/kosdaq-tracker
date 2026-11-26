@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900184",
+ "rcept_dt": "20261125",
+ "corp_code": "00626464",
+ "corp_name": "지엔씨에너지",
+ "corp_name_eng": "GnCenergy Co., Ltd.",
+ "stock_code": "119850",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900184",
+ "summary": {
+  "headline": "GnCenergy wins KRW 39.4bn supply contract for Gimpo data center gas turbine generators",
+  "what_happened": "On Nov 25, 2026, GnCenergy Co., Ltd. signed a single supply contract for gas turbine emergency generators and related items for the Gimpo Data Center with DL E&C Co., Ltd., a domestic construction company. The contract runs from Nov 25, 2026 to Oct 28, 2028, and is a firm contract with no conditional element. The filing states that the contract amount is exclusive of VAT and may change as the project progresses.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 39.4bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "15.0%"
+   },
+   {
+    "label": "Recent revenue (FY2025 consolidated)",
+    "value": "KRW 262.6bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Oct 28, 2028"
+   },
+   {
+    "label": "Payment terms",
+    "value": "Down payment 20%; interim payments 50%, 10%, 10%; balance 10%"
+   }
+  ],
+  "why_it_matters": "Supply contracts disclosed under Korean exchange rules are reported when they reach a materiality threshold relative to a company's revenue, and they give investors a view of the order backlog and contract scale. Investors typically look at the contract's size relative to revenue, its duration, and whether the amount is firm or conditional, since contract values and timing can change as projects progress.",
+  "company_short": "GnCenergy"
+ }
+}

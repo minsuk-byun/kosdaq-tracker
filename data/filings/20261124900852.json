@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900852",
+ "rcept_dt": "20261124",
+ "corp_code": "01160363",
+ "corp_name": "에코프로비엠",
+ "corp_name_eng": "ECOPRO BM CO.,LTD.",
+ "stock_code": "247540",
+ "corp_cls": "K",
+ "report_nm": "타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900852",
+ "summary": {
+  "headline": "ECOPRO BM to acquire 100% of ECOPRO GLOBAL INVESTMENT for KRW 622bn cash, targeting PT BNSI smelter stake",
+  "what_happened": "On Nov 24, 2026, the board of ECOPRO BM CO.,LTD. approved a cash capital contribution (rights offering) to acquire 596,750,130 shares of ECOPRO GLOBAL INVESTMENT PTE.LTD., a Singapore-based subsidiary, for a total acquisition amount of KRW 622.18bn. After the acquisition, the company will hold 596,750,230 shares, equal to 100.00% of the subsidiary. The stated purpose is to acquire an equity stake in the PT BNSI smelter and secure shareholder loans, with the expected acquisition date set for Jun 30, 2027.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 622.18bn"
+   },
+   {
+    "label": "Shares acquired",
+    "value": "596,750,130 shares"
+   },
+   {
+    "label": "Ownership after acquisition",
+    "value": "100.00%"
+   },
+   {
+    "label": "Acquisition as % of equity",
+    "value": "24.7%"
+   },
+   {
+    "label": "Expected acquisition date",
+    "value": "Jun 30, 2027"
+   }
+  ],
+  "why_it_matters": "Investments of this kind, where a listed Korean company injects cash into a subsidiary or overseas vehicle, are generally disclosed so shareholders can track how capital is being deployed, particularly when the amount is large relative to equity. Such filings often signal changes in a company's investment plans and may be followed by updates as the transaction progresses.",
+  "company_short": "ECOPRO BM"
+ }
+}

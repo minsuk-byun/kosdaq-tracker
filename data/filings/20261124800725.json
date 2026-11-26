@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800725",
+ "rcept_dt": "20261124",
+ "corp_code": "00156859",
+ "corp_name": "다올투자증권",
+ "corp_name_eng": "Daol Investment & Securities Co., Ltd.",
+ "stock_code": "030210",
+ "corp_cls": "Y",
+ "report_nm": "타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800725",
+ "summary": {
+  "headline": "Daol Investment & Securities to acquire 2.80m shares of Daol Savings Bank for KRW 22.2bn in cash",
+  "what_happened": "On Nov 24, 2026, the board of Daol Investment & Securities approved the acquisition of 2,804,346 shares of (주)다올저축은행 (Daol Savings Bank), a related company, for a scheduled cash consideration of KRW 22.2bn, with the expected acquisition date set for Nov 27, 2026. After the acquisition, the company will hold 36,272,606 shares, equal to 65.24% of the issued shares. The filing states the purpose is to perform rights and obligations under a previously concluded contract with the counterparty.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount (scheduled)",
+    "value": "KRW 22.2bn"
+   },
+   {
+    "label": "Shares acquired",
+    "value": "2,804,346"
+   },
+   {
+    "label": "Ownership after acquisition",
+    "value": "36,272,606 shares (65.24%)"
+   },
+   {
+    "label": "Acquisition as % of equity",
+    "value": "2.75%"
+   },
+   {
+    "label": "Scheduled acquisition date",
+    "value": "Nov 27, 2026"
+   }
+  ],
+  "why_it_matters": "In general, acquisitions of additional shares in a subsidiary or related company are disclosed so shareholders can see changes in ownership levels and the cash committed to such transactions. The final amount may differ from the scheduled figure, as the filing notes it is settled based on the actual payment date.",
+  "company_short": "Daol Investment & Securities"
+ }
+}

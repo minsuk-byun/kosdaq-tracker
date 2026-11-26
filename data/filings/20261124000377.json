@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261124000377",
+ "rcept_dt": "20261124",
+ "corp_code": "01288827",
+ "corp_name": "HPSP",
+ "corp_name_eng": "HPSP Co., Ltd.",
+ "stock_code": "403870",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000377",
+ "summary": {
+  "headline": "HPSP to buy back KRW 100bn of its own shares, through Feb 24, 2027",
+  "what_happened": "On Nov 24, 2026, HPSP's board resolved to acquire up to 2,688,172 common shares for an expected total of KRW 100bn, on the KOSDAQ market through direct on-exchange purchases via NH Investment & Securities, over the period Nov 25, 2026 to Feb 24, 2027. The company states the purpose is share price stabilization and shareholder value enhancement, and that acquired shares are, in principle, to be cancelled.",
+  "key_numbers": [
+   {
+    "label": "Expected acquisition amount",
+    "value": "KRW 100bn"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "2,688,172 common shares"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 25, 2026 to Feb 24, 2027"
+   },
+   {
+    "label": "Daily buy order limit",
+    "value": "366,054 shares"
+   },
+   {
+    "label": "Treasury shares held before resolution",
+    "value": "875,887 common shares (1.06%)"
+   },
+   {
+    "label": "Reference closing price (Nov 23, 2026)",
+    "value": "KRW 37,200 per share"
+   }
+  ],
+  "why_it_matters": "Share buybacks in Korea are typically announced to support the share price or return value to shareholders, and when acquired shares are cancelled they reduce the total number of shares outstanding. Actual quantities and amounts depend on market prices and may differ from the planned figures.",
+  "company_short": "HPSP"
+ }
+}

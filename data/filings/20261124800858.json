@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800858",
+ "rcept_dt": "20261124",
+ "corp_code": "00104388",
+ "corp_name": "국도화학",
+ "corp_name_eng": "KUKDO CHEMICAL CO.,LTD",
+ "stock_code": "007690",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800858",
+ "summary": {
+  "headline": "Kukdo Chemical's subsidiary Kukdo International plans KRW 100bn rights/third-party share issue, 158,000 new shares",
+  "what_happened": "Kukdo International Corp., a subsidiary of Kukdo Chemical, decided on Nov 24, 2026 to issue 158,000 new common shares, with a fixed issue price of KRW 1,666,667 per share on the rights-offering portion and KRW 390,625 on the third-party portion. The filing states that the total raise is KRW 100bn, with proceeds earmarked for the purchase of LG Chem's Daesan BPA business and for operating and other funds, and that payment will occur in two tranches, with the first on Nov 25, 2026 and the second expected in the first half of 2027.",
+  "key_numbers": [
+   {
+    "label": "New common shares to be issued",
+    "value": "158,000 shares"
+   },
+   {
+    "label": "Fixed rights-offering issue price (common)",
+    "value": "KRW 1,666,667 per share"
+   },
+   {
+    "label": "Total capital raised",
+    "value": "KRW 100bn"
+   },
+   {
+    "label": "First payment tranche",
+    "value": "KRW 10bn (Nov 25, 2026)"
+   },
+   {
+    "label": "Shares outstanding before issue",
+    "value": "98,000 shares"
+   }
+  ],
+  "why_it_matters": "In Korea, a rights offering gives existing shareholders the chance to subscribe to new shares in proportion to their holdings, while third-party allotments issue shares to selected investors, which can change ownership and dilute existing holdings. Filings like this are usually made to fund acquisitions or operations at a subsidiary level, and the filing notes that the allocation method, conditions and payment schedule may still change.",
+  "company_short": "Kukdo Chemical"
+ }
+}

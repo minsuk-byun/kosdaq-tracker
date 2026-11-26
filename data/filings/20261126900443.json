@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900443",
+ "rcept_dt": "20261126",
+ "corp_code": "01139035",
+ "corp_name": "티에스아이",
+ "corp_name_eng": "TSI Co., Ltd.",
+ "stock_code": "277880",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900443",
+ "summary": {
+  "headline": "TSI Co., Ltd. amends supply contract for battery mixing systems; contract value KRW 32.8bn",
+  "what_happened": "TSI Co., Ltd. filed a corrected disclosure on Nov 26, 2026 for a single supply contract for secondary battery mixing systems with an overseas secondary battery company. The correction changes the contract period end date from Nov 30, 2026 to Jun 30, 2027, and the contract was signed on Feb 7, 2025. The confirmed contract amount is KRW 32.8bn, equal to USD 22,682,452.00 at the Feb 7, 2025 base rate.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 32.8bn (USD 22,682,452.00)"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "12.6%"
+   },
+   {
+    "label": "Recent revenue (2023 consolidated)",
+    "value": "KRW 261.1bn"
+   },
+   {
+    "label": "Revised contract period end date",
+    "value": "Jun 30, 2027 (previously Nov 30, 2026)"
+   },
+   {
+    "label": "Payment terms",
+    "value": "30% deposit, 40% interim, 20% interim, 10% balance"
+   }
+  ],
+  "why_it_matters": "In Korea, supply contract disclosures report the value, period and terms of a company's major orders so shareholders can gauge future revenue visibility and counterparty risk. Amendments to contract periods are typically disclosed to show changes in expected delivery or payment timing, and filings that withhold counterparty details signal that investors should weigh possible changes or cancellation of the contract.",
+  "company_short": "TSI Co., Ltd."
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123800337",
+ "rcept_dt": "20261123",
+ "corp_code": "01649204",
+ "corp_name": "달바글로벌",
+ "corp_name_eng": "d'Alba Global Co., Ltd.",
+ "stock_code": "483650",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800337",
+ "summary": {
+  "headline": "d'Alba Global to cancel 227,701 treasury shares, worth KRW 39.8bn, on Nov 30, 2026",
+  "what_happened": "On Nov 23, 2026, d'Alba Global's board resolved to cancel 227,701 common shares that the company had already acquired as treasury stock, with a scheduled cancellation date of Nov 30, 2026. The filing states the cancellation is based on distributable profits under Article 343(1) of the Commercial Act and reduces the total number of issued shares without reducing capital; the company says the purpose is to enhance shareholder value.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "227,701 shares"
+   },
+   {
+    "label": "Scheduled cancellation amount (book value basis)",
+    "value": "KRW 39.76bn"
+   },
+   {
+    "label": "Total issued common shares before cancellation",
+    "value": "12,537,540 shares"
+   },
+   {
+    "label": "Total issued common shares after cancellation (as stated)",
+    "value": "12,309,839 shares"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Nov 30, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, treasury share cancellations generally reduce the total number of issued shares, which can change each remaining shareholder's proportional ownership, while leaving share capital unchanged. Such filings are typically issued by companies seeking to return value to shareholders, though the timing and effect can depend on further confirmation with regulators.",
+  "company_short": "d'Alba Global"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000415",
+ "rcept_dt": "20261124",
+ "corp_code": "00664181",
+ "corp_name": "인텔리안테크",
+ "corp_name_eng": "INTELLIAN TECHNOLOGIES Inc.",
+ "stock_code": "189300",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000415",
+ "summary": {
+  "headline": "Intellian Technologies signs KRW 5bn share buyback trust contract with NH Investment & Securities",
+  "what_happened": "On Nov 24, 2026, Intellian Technologies' board resolved to enter a share buyback trust contract with NH Investment & Securities, with a contract amount of KRW 5bn and a term from Nov 25, 2026 to May 24, 2027. The stated purpose is stabilizing the share price and enhancing shareholder value, and the planned acquisition is 123,609 common shares at an expected price of KRW 40,450 per share.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to May 24, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "123,609 common shares"
+   },
+   {
+    "label": "Expected acquisition price per share",
+    "value": "KRW 40,450"
+   },
+   {
+    "label": "Treasury shares held before contract",
+    "value": "504,330 common shares (4.70%)"
+   }
+  ],
+  "why_it_matters": "Share buyback trust contracts generally mean a company has entrusted a securities firm to repurchase its own shares over a set period, which can reduce shares in circulation if the shares are later cancelled and is often disclosed as a measure to support share price or shareholder value. Actual purchased quantities may differ from the planned figures depending on price movements.",
+  "company_short": "Intellian Technologies"
+ }
+}

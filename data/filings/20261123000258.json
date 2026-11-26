@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000258",
+ "rcept_dt": "20261123",
+ "corp_code": "01235296",
+ "corp_name": "셀리드",
+ "corp_name_eng": "Cellid Co., Ltd.",
+ "stock_code": "299660",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000258",
+ "summary": {
+  "headline": "Cellid Co., Ltd. announces third-party rights offering of 5,753,739 shares, KRW 10bn raise",
+  "what_happened": "Cellid's board on Sep 21, 2026 approved a third-party allotment rights offering of 5,753,739 common shares at KRW 1,738 per share, with payment due Dec 8, 2026. The corrected filing (Nov 23, 2026) changed the planned largest shareholder from (주)휴니버스글로벌 to 인사이트투자조합 제1호, and revised the issue price, share count and reference price. Proceeds are designated for operating funds, and the new shares are to be locked up for one year.",
+  "key_numbers": [
+   {
+    "label": "New common shares to be issued",
+    "value": "5,753,739 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,738"
+   },
+   {
+    "label": "Operating funds raised",
+    "value": "KRW 10bn (KRW 9,999,998,382)"
+   },
+   {
+    "label": "Pre-offering issued shares",
+    "value": "29,502,977 shares"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 8, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, third-party allotment rights offerings typically add new shares to a limited group of investors rather than existing shareholders, which can dilute existing holdings and may change who controls the company. Corrections to such filings often reflect changes in the price, share count or investor identity before the payment date.",
+  "company_short": "Cellid"
+ }
+}

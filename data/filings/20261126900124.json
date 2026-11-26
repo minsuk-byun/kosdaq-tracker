@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900124",
+ "rcept_dt": "20261126",
+ "corp_code": "00819374",
+ "corp_name": "나무가",
+ "corp_name_eng": "Namuga Co.,Ltd",
+ "stock_code": "190510",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900124",
+ "summary": {
+  "headline": "Namuga cancels 370,071 treasury common shares worth KRW 5.0bn, effective Dec 3, 2026",
+  "what_happened": "On Nov 26, 2026, Namuga's board approved the cancellation of 370,071 common shares that the company had already acquired as treasury stock. The estimated cancellation amount is KRW 4,998,914,970, based on the book value of those shares as of the board resolution date, and the scheduled cancellation date is Dec 3, 2026.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "370,071 shares"
+   },
+   {
+    "label": "Total issued common shares",
+    "value": "14,085,317 shares"
+   },
+   {
+    "label": "Estimated cancellation amount",
+    "value": "KRW 4.998bn (KRW 4,998,914,970)"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 3, 2026"
+   }
+  ],
+  "why_it_matters": "When a Korean company cancels treasury shares, its total issued share count falls while its share capital stays the same, which changes each remaining shareholder's proportional stake. The filing notes that the stated purpose is to enhance shareholder value, and that the cancellation date may change depending on coordination with authorities.",
+  "company_short": "Namuga"
+ }
+}

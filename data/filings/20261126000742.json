@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000742",
+ "rcept_dt": "20261126",
+ "corp_code": "00231707",
+ "corp_name": "비트컴퓨터",
+ "corp_name_eng": "BITComputer",
+ "stock_code": "032850",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000742",
+ "summary": {
+  "headline": "BITComputer to buy back up to KRW 1.0bn of common shares by Feb 17, 2027",
+  "what_happened": "BITComputer's board decided on Nov 26, 2026 to acquire 268,000 common shares on the KOSDAQ market through IBK Securities, with an expected acquisition period from Nov 27, 2026 to Feb 17, 2027. The planned acquisition amount is KRW 1,003,660,000, and the stated purpose is share price stabilization and enhancing shareholder value.",
+  "key_numbers": [
+   {
+    "label": "Planned shares to acquire",
+    "value": "268,000 common shares"
+   },
+   {
+    "label": "Planned acquisition amount",
+    "value": "KRW 1,003,660,000 (approx. KRW 1.0bn)"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 27, 2026 to Feb 17, 2027"
+   },
+   {
+    "label": "Shares held as treasury stock before this decision",
+    "value": "2,703,925 common shares (16.26%)"
+   },
+   {
+    "label": "Daily buy order limit",
+    "value": "26,800 shares"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback decision like this typically signals that the company intends to purchase its own shares in the open market, which can support the share price and reduce the number of shares outstanding for remaining shareholders. Such filings are generally disclosed so that investors can track the scale and timing of the planned purchases.",
+  "company_short": "BITComputer"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000784",
+ "rcept_dt": "20261126",
+ "corp_code": "01492688",
+ "corp_name": "드림인사이트",
+ "corp_name_eng": "DREAMINSIGHT Co., Ltd.",
+ "stock_code": "362990",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000784",
+ "summary": {
+  "headline": "DREAMINSIGHT approves KRW 3bn third-party rights offering at KRW 1,251 per share",
+  "what_happened": "On Nov 26, 2026, DREAMINSIGHT Co., Ltd.'s board resolved a third-party rights offering of 2,398,080 new common shares at KRW 1,251 per share, with a 10% discount applied to the reference price. The stated purpose of funds is operating capital, and the offering is structured as a small public offering not requiring a securities registration statement. Subscription is scheduled for Nov 30, 2026, and payment is due Dec 11, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "2,398,080"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,251"
+   },
+   {
+    "label": "Expected operating funds raised",
+    "value": "KRW 3.0bn (KRW 2,999,998,080)"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "16,800,574"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 11, 2026"
+   }
+  ],
+  "why_it_matters": "A third-party rights offering issues new shares to selected investors rather than to existing shareholders pro rata, which can dilute the ownership stake of existing shareholders if they do not participate. Such filings are typically made to raise capital quickly, and the price and allottee selection are generally disclosed so shareholders can assess dilution.",
+  "company_short": "DREAMINSIGHT"
+ }
+}

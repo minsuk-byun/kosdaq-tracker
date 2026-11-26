@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800330",
+ "rcept_dt": "20261125",
+ "corp_code": "00114792",
+ "corp_name": "동국홀딩스",
+ "corp_name_eng": "DONGKUK HOLDINGS CO.,LTD.",
+ "stock_code": "001230",
+ "corp_cls": "Y",
+ "report_nm": "자기주식취득결정(자회사의 주요경영사항)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800330",
+ "summary": {
+  "headline": "Dongkuk Holdings' subsidiary FERUM Infra to buy back KRW 3bn of redeemable preferred shares",
+  "what_happened": "On Nov 24, 2026, the board of FERUM INFRA, a subsidiary of DONGKUK HOLDINGS CO.,LTD., resolved to acquire 545,455 non-common (redeemable preferred) shares through an off-market purchase, with an expected acquisition amount of KRW 3,000,002,500. The acquired shares are to be redeemed and cancelled, with the acquisition and holding period set for Nov 27, 2026.",
+  "key_numbers": [
+   {
+    "label": "Shares to be acquired",
+    "value": "545,455 non-common (redeemable preferred) shares"
+   },
+   {
+    "label": "Expected acquisition amount",
+    "value": "KRW 3bn"
+   },
+   {
+    "label": "Redemption price per share",
+    "value": "KRW 5,500"
+   },
+   {
+    "label": "Expected acquisition and redemption date",
+    "value": "Nov 27, 2026"
+   },
+   {
+    "label": "Redeemable preferred shares before cancellation",
+    "value": "4,563,628 shares"
+   }
+  ],
+  "why_it_matters": "Share buybacks followed by cancellation in Korea generally involve a company acquiring its own or a subsidiary's shares to retire them, which can change the number of shares outstanding and the capital structure. Such filings are typically made to show the terms and funding basis of the transaction, which in this case is stated as retained earnings within distributable profit limits, with no reduction in registered capital.",
+  "company_short": "Dongkuk Holdings"
+ }
+}

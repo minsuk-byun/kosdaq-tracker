@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900207",
+ "rcept_dt": "20261126",
+ "corp_code": "00574611",
+ "corp_name": "SDN",
+ "corp_name_eng": "SDN Company Ltd.",
+ "stock_code": "099220",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900207",
+ "summary": {
+  "headline": "SDN Company Ltd. cancels 5,565 treasury common shares, worth KRW 30.3m at book value",
+  "what_happened": "On Nov 26, 2026, SDN Company Ltd.'s board approved the cancellation of 5,565 common shares that the company had already acquired as treasury stock, with a scheduled cancellation date of Dec 3, 2026. The filing states that the cancellation does not reduce capital, since it is made under the proviso of Article 343(1) of the Commercial Act, and that the scheduled cancellation amount of KRW 30.3m is the book value as of the board resolution date.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "5,565 shares"
+   },
+   {
+    "label": "Total issued common shares",
+    "value": "6,294,435 shares"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 5,000"
+   },
+   {
+    "label": "Scheduled cancellation amount (book value)",
+    "value": "KRW 30.3m"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 3, 2026"
+   }
+  ],
+  "why_it_matters": "A treasury share cancellation generally permanently retires shares the company already holds, reducing the total number of shares outstanding, while the filing states that capital is not reduced in this case. For shareholders, this type of filing typically changes the share count and per-share ownership proportions without a cash payment to shareholders.",
+  "company_short": "SDN Company Ltd."
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900874",
+ "rcept_dt": "20261124",
+ "corp_code": "00536541",
+ "corp_name": "에코프로",
+ "corp_name_eng": "ECOPRO CO.,LTD",
+ "stock_code": "086520",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900874",
+ "summary": {
+  "headline": "ECOPRO CO.,LTD: Subsidiary PT ECOPRO BNSI INVESTMENT Plans KRW 627bn Rights Offering",
+  "what_happened": "ECOPRO CO.,LTD filed a correction to its disclosure on a rights offering decided by its subsidiary PT ECOPRO BNSI INVESTMENT, with the board resolution dated Nov 10, 2026. The correction states the reason as a change in investment structure that withdrew the previous investment plan, and it lists 836,190,337 new shares to be allotted to ECOPRO BNSI (a major shareholder), with funds to be used for capex under the PT BNSI smelter JV agreement.",
+  "key_numbers": [
+   {
+    "label": "Funds raised for acquisition of other company securities",
+    "value": "KRW 627.14bn (as originally filed)"
+   },
+   {
+    "label": "New shares to be allotted (third-party allotment)",
+    "value": "836,190,337 common shares"
+   },
+   {
+    "label": "Par value and issue price per share",
+    "value": "KRW 750 (IDR-based conversion)"
+   },
+   {
+    "label": "Scheduled payment date",
+    "value": "Jun 30, 2027"
+   },
+   {
+    "label": "Parent's consolidated total assets (end of 2025)",
+    "value": "KRW 9.78tn"
+   }
+  ],
+  "why_it_matters": "In Korea, rights offerings and third-party allotments can change a company's share count and capital structure, and their terms, use of proceeds, and allottees are typically disclosed so shareholders can assess dilution and the purpose of the funds. Corrections to such filings usually indicate that previously disclosed terms or plans have been revised.",
+  "company_short": "ECOPRO"
+ }
+}

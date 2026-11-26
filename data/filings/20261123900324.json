@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900324",
+ "rcept_dt": "20261123",
+ "corp_code": "00765569",
+ "corp_name": "기가비스",
+ "corp_name_eng": "GigaVis Co., Ltd.",
+ "stock_code": "420770",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900324",
+ "summary": {
+  "headline": "GigaVis signs KRW 38.8bn supply contract for semiconductor substrate repair equipment",
+  "what_happened": "On Nov 23, 2026, GigaVis Co., Ltd. disclosed a single supply contract for semiconductor substrate repair equipment and related items, with a total contract amount of KRW 38.8bn (excluding VAT), to be supplied domestically to a Korean semiconductor substrate manufacturer. The contract period runs from Nov 23, 2026 to Dec 31, 2027, with payment terms of 50% advance, 30% interim and 20% balance.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (total, excl. VAT)",
+    "value": "KRW 38.8bn"
+   },
+   {
+    "label": "Ratio to latest revenue",
+    "value": "74.00%"
+   },
+   {
+    "label": "Latest revenue (2025 consolidated)",
+    "value": "KRW 52,434,995,936"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 23, 2026 to Dec 31, 2027"
+   },
+   {
+    "label": "Payment terms",
+    "value": "50% advance, 30% interim, 20% balance"
+   }
+  ],
+  "why_it_matters": "Supply contracts of this size relative to a company's revenue are typically disclosed under Korean rules so shareholders can gauge potential changes in order backlog and future sales. Contract amounts and periods may change during execution, and filings often note confidentiality-related limits on disclosed details.",
+  "company_short": "GigaVis"
+ }
+}

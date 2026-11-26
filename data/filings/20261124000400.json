@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261124000400",
+ "rcept_dt": "20261124",
+ "corp_code": "01230255",
+ "corp_name": "한울앤제주",
+ "corp_name_eng": "HanWool & Jeju, Inc.",
+ "stock_code": "276730",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000400",
+ "summary": {
+  "headline": "HanWool & Jeju issues KRW 10bn convertible bonds (14th series) to a private investor; conversion price KRW 928",
+  "what_happened": "HanWool & Jeju, Inc. announced a resolution to issue its 14th series unsecured private convertible bonds with a total face value of KRW 10bn, placed with KTV-listed investor 케이1프로메테우스조합... Note: the placee in the amended filing is 밸류에셋 신기술1호투자조합. The bonds carry a 5.0% coupon and mature on Dec 2, 2029, with a conversion price of KRW 928 per share and an investor subscription date of Nov 24, 2026. The company stated that the proceeds are intended for KRW 6.6bn of operating funds and KRW 3.4bn of debt repayment, and the filing is a corrected version of an earlier report first submitted on May 6, 2026.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 10bn"
+   },
+   {
+    "label": "Coupon (face and maturity rate)",
+    "value": "5.0%"
+   },
+   {
+    "label": "Conversion price",
+    "value": "KRW 928 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "10,775,862 shares (29.37% of total shares)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Dec 2, 2029"
+   },
+   {
+    "label": "Use of proceeds (operating / debt repayment)",
+    "value": "KRW 6.6bn operating funds; KRW 3.4bn debt repayment"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances of this type can allow bondholders to convert debt into new shares at a set price, which may dilute existing shareholders' ownership if conversion occurs. Such filings also typically set out early redemption and repurchase rights that determine when cash may need to be paid back.",
+  "company_short": "HanWool & Jeju"
+ }
+}

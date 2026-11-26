@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126800200",
+ "rcept_dt": "20261126",
+ "corp_code": "00633835",
+ "corp_name": "HJ중공업",
+ "corp_name_eng": "HJ SHIPBUILDING & CONSTRUCTION CO.,LTD",
+ "stock_code": "097230",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800200",
+ "summary": {
+  "headline": "HJ Shipbuilding wins KRW 51.8bn Bucheon residential redevelopment contract (2.60% of sales)",
+  "what_happened": "HJ Shipbuilding & Construction disclosed a contract for the Wonjong-dong Yurim·Sinyoung·Somang·Myeongjin street-home redevelopment project in Bucheon, Gyeonggi Province, with the Wonjong-dong redevelopment association as counterparty. The contract amount is KRW 51,812,866,780 (VAT excluded, 100% of the company's share); the company states the original contract of Jun 9, 2022 was KRW 35,509,073,200 and was below the disclosure threshold until this amended contract.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 51.8bn"
+   },
+   {
+    "label": "Share of recent sales",
+    "value": "2.60%"
+   },
+   {
+    "label": "Recent sales (2025 year-end consolidated)",
+    "value": "KRW 2.00tn"
+   },
+   {
+    "label": "Original contract amount (Jun 9, 2022)",
+    "value": "KRW 35.5bn"
+   },
+   {
+    "label": "Project scale",
+    "value": "170 households, 2 buildings, B2–14F"
+   },
+   {
+    "label": "Construction period",
+    "value": "30 months from actual start of construction"
+   }
+  ],
+  "why_it_matters": "Supply and construction contract disclosures in Korea are required when a contract exceeds a set share of recent sales, and they give shareholders a view of the order backlog and the scale of individual projects. Amendments that push a previously undisclosed contract above the threshold are typically disclosed for this reason.",
+  "company_short": "HJ Shipbuilding & Construction"
+ }
+}

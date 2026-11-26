@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124801000",
+ "rcept_dt": "20261124",
+ "corp_code": "01204056",
+ "corp_name": "하이브",
+ "corp_name_eng": "HYBE Co., Ltd.",
+ "stock_code": "352820",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124801000",
+ "summary": {
+  "headline": "HYBE acquires 280,853,801 HYBE Americas shares via in-kind contribution, KRW 378.2bn",
+  "what_happened": "HYBE Co., Ltd. contributed 861,004 common shares of Dunamu Inc. in kind to its wholly owned subsidiary HYBE Americas Inc. (HBA) and, in return, subscribed to common shares newly issued by HBA through a rights offering. Following the correction filed on Nov 24, 2026, the acquisition date is Nov 24, 2026, and HYBE's post-acquisition holding is 1,769,153,801 shares, equal to 100% of HBA.",
+  "key_numbers": [
+   {
+    "label": "Shares acquired",
+    "value": "280,853,801 shares"
+   },
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 378.2bn"
+   },
+   {
+    "label": "Shares held after acquisition",
+    "value": "1,769,153,801 shares (100%)"
+   },
+   {
+    "label": "Dunamu common shares contributed",
+    "value": "861,004 shares"
+   },
+   {
+    "label": "Acquisition as % of total assets",
+    "value": "6.89%"
+   }
+  ],
+  "why_it_matters": "Filings of this type report a company's acquisition of shares in another company, often through a capital increase or in-kind contribution within a corporate group. For shareholders in Korea, such filings typically disclose how investment assets are moved between group entities and the scale of the transaction relative to the company's balance sheet.",
+  "company_short": "HYBE"
+ }
+}

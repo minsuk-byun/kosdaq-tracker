@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000670",
+ "rcept_dt": "20261125",
+ "corp_code": "00122825",
+ "corp_name": "프리티",
+ "corp_name_eng": "FreeT, Inc.",
+ "stock_code": "006490",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000670",
+ "summary": {
+  "headline": "FreeT, Inc. amends rights offering: 1.6m new shares at KRW 2,500, payment moved to Mar 12, 2027",
+  "what_happened": "FreeT, Inc. filed a corrected disclosure for its third-party allotment rights offering, in which 1,600,004 new common shares are to be issued to Prime Light Investment Fund No. 1 at KRW 2,500 per share. The correction moves the subscription date to Nov 25, 2026, the payment date to Mar 12, 2027, the dividend start date and listing date to Jan 1, 2027 and Mar 29, 2027 respectively, and the proceeds are earmarked for operating funds and repayment of convertible bonds.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "1,600,004 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 2,500"
+   },
+   {
+    "label": "Operating funds",
+    "value": "KRW 1.813bn"
+   },
+   {
+    "label": "Convertible bond repayment funds",
+    "value": "KRW 2.187bn"
+   },
+   {
+    "label": "Payment date (corrected)",
+    "value": "Mar 12, 2027"
+   }
+  ],
+  "why_it_matters": "Third-party allotment rights offerings sell new shares to selected investors rather than existing shareholders, which can dilute the holdings of current shareholders and typically signal that the company is raising capital for specific uses. Corrections to dates and amounts are common in such filings and generally reflect changes in the schedule agreed with the allottee and regulators.",
+  "company_short": "FreeT"
+ }
+}

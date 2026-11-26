@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800613",
+ "rcept_dt": "20261124",
+ "corp_code": "00633835",
+ "corp_name": "HJ중공업",
+ "corp_name_eng": "HJ SHIPBUILDING & CONSTRUCTION CO.,LTD",
+ "stock_code": "097230",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800613",
+ "summary": {
+  "headline": "HJ Shipbuilding & Construction amends Boryeong power plant contract to KRW 264.40bn",
+  "what_happened": "HJ Shipbuilding & Construction filed a corrected disclosure (dated Nov 24, 2026) for a single supply contract for the Boryeong Shinbokhap Unit 1 construction project, a 500MW combined-cycle power plant in Chungnam, Korea. The filing states that the contract amount was revised from KRW 264,532,406,137 to KRW 264,397,390,304, following a change contract executed on Nov 6, 2026. The counterparty is Korea Midland Power Co., Ltd., and the stated contract period runs from Sep 18, 2023 to Mar 31, 2027.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 264.40bn (KRW 264,397,390,304)"
+   },
+   {
+    "label": "Previous contract amount",
+    "value": "KRW 264.53bn (KRW 264,532,406,137)"
+   },
+   {
+    "label": "Recent revenue (end-2022 consolidated basis)",
+    "value": "KRW 1,788.16bn"
+   },
+   {
+    "label": "Revenue ratio stated in filing",
+    "value": "14.80%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Sep 18, 2023 to Mar 31, 2027"
+   }
+  ],
+  "why_it_matters": "Large single supply or construction contracts disclosed in Korea are typically reported because their size relative to recent revenue is material to shareholders' understanding of a company's order backlog and future revenue. Corrections or amendments to such contracts are usually disclosed so investors can track changes to the stated contract value and terms.",
+  "company_short": "HJ Shipbuilding & Construction"
+ }
+}

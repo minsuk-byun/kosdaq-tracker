@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000790",
+ "rcept_dt": "20261126",
+ "corp_code": "01116502",
+ "corp_name": "아티스트컴퍼니",
+ "corp_name_eng": "Artist Company Inc.",
+ "stock_code": "321820",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(영업양도결정)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000790",
+ "summary": {
+  "headline": "Artist Company to transfer its platform business to Rainbow8 for KRW 5bn",
+  "what_happened": "Artist Company Inc. resolved on Sep 16, 2026 (after a board decision first made on Jul 22, 2026) to transfer all business of its platform division to Rainbow8 Co., Ltd. for a transfer price of KRW 5bn, with an external valuation finding the price not unreasonable. The filing is a corrected version that changes the timing of the second payment, with KRW 1.3bn received on Nov 25, 2026 and the remaining KRW 0.7bn agreed to be paid on Dec 2, 2026.",
+  "key_numbers": [
+   {
+    "label": "Transfer price",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Transferred business share of total assets",
+    "value": "2.97%"
+   },
+   {
+    "label": "Transferred business share of total sales",
+    "value": "21.01%"
+   },
+   {
+    "label": "Shareholder put option (share purchase claim) price per share",
+    "value": "KRW 2,634"
+   },
+   {
+    "label": "Shareholder put claim cap that allows deal termination",
+    "value": "KRW 3bn"
+   }
+  ],
+  "why_it_matters": "In Korea, business transfer filings like this one typically signal a restructuring of a company's business portfolio and can give dissenting shareholders the right to ask the company to buy back their shares at a court-reviewed or formula-based price, subject to statutory conditions. Such transfers usually require a shareholder meeting approval and may be subject to external valuation and changes in payment terms.",
+  "company_short": "Artist Company"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000731",
+ "rcept_dt": "20261126",
+ "corp_code": "00398701",
+ "corp_name": "엘앤에프",
+ "corp_name_eng": "L&F CO.,LTD",
+ "stock_code": "066970",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000731",
+ "summary": {
+  "headline": "L&F CO.,LTD issues KRW 4bn 12th convertible bond, 0.0% coupon, private placement",
+  "what_happened": "On Nov 26, 2026, L&F CO.,LTD's board decided to issue its 12th unsecured, non-guaranteed private convertible bond with a total face value of KRW 4bn, to be placed with Paratus Value-Up Private Investment LP. The bond has a 0.0% coupon, a 3.0% guaranteed yield to maturity compounded quarterly, and matures on Dec 14, 2056; the subscription and payment dates are both Dec 14, 2026, and the conversion price is KRW 72,496 per share.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 4bn"
+   },
+   {
+    "label": "Coupon rate / guaranteed yield to maturity",
+    "value": "0.0% / 3.0% (compounded quarterly)"
+   },
+   {
+    "label": "Conversion price",
+    "value": "KRW 72,496 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "55,175 shares (0.14% of total shares)"
+   },
+   {
+    "label": "Use of proceeds",
+    "value": "KRW 4bn for operating funds (NCM and LFP cathode material business expansion)"
+   }
+  ],
+  "why_it_matters": "Convertible bond issues can lead to new shares being issued if holders convert, which may dilute the ownership percentage of existing shareholders; the dilution depends on the number of shares issued relative to total shares outstanding. Terms such as early redemption options, interest deferral, and any conversion price adjustments set out in the filing determine how the bonds affect shareholders over time.",
+  "company_short": "L&F"
+ }
+}

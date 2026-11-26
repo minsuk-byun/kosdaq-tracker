@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900325",
+ "rcept_dt": "20261126",
+ "corp_code": "01142075",
+ "corp_name": "핑거",
+ "corp_name_eng": "Finger Inc.",
+ "stock_code": "163730",
+ "corp_cls": "K",
+ "report_nm": "타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900325",
+ "summary": {
+  "headline": "Finger Inc. acquires 603,483 shares of FG Investment No.2 via debt-to-equity swap for KRW 60.3bn",
+  "what_happened": "Finger Inc. decided on Nov 26, 2026 to acquire 603,483 new shares of its subsidiary FG Investment No.2 Co., Ltd. through a debt-to-equity conversion (set-off of loans and interest owed to Finger against the share subscription payment), for a total acquisition amount of KRW 60.3bn. After the acquisition, Finger will hold 613,483 shares, equal to 100.00% of FG Investment No.2, with the acquisition scheduled for Nov 26, 2026.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 60.3bn"
+   },
+   {
+    "label": "Shares acquired",
+    "value": "603,483 shares"
+   },
+   {
+    "label": "Shares held after acquisition / stake",
+    "value": "613,483 shares / 100.00%"
+   },
+   {
+    "label": "Acquisition as % of equity",
+    "value": "70.80%"
+   },
+   {
+    "label": "Acquisition as % of total assets (latest fiscal year-end)",
+    "value": "89.33%"
+   }
+  ],
+  "why_it_matters": "Share acquisitions and capital contributions into subsidiaries or other companies are generally disclosed so shareholders can see how a company is allocating capital and restructuring group entities. Debt-to-equity conversions like this one typically change a subsidiary's capital structure without new cash leaving the group, which shareholders may weigh when assessing the group's financial position.",
+  "company_short": "Finger Inc."
+ }
+}

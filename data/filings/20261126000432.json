@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000432",
+ "rcept_dt": "20261126",
+ "corp_code": "00231105",
+ "corp_name": "동성화인텍",
+ "corp_name_eng": "DONGSUNG FINETEC CO., Ltd",
+ "stock_code": "033500",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000432",
+ "summary": {
+  "headline": "Dongsung Finetec signs KRW 5bn share buyback trust deal, shares to be cancelled",
+  "what_happened": "On Nov 26, 2026, Dongsung Finetec's board resolved to enter a share buyback trust contract worth KRW 5bn with Mirae Asset Securities, running from Nov 27, 2026 to May 27, 2027. The company plans to buy back shares to stabilize the share price and enhance shareholder value, and to cancel them after acquisition. The filing states the buyback was not included in the semi-annual report's treasury stock plan published in August 2026.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 27, 2026 to May 27, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "458,295 common shares"
+   },
+   {
+    "label": "Reference price (closing price on Nov 25, 2026)",
+    "value": "KRW 10,910 per share"
+   },
+   {
+    "label": "Treasury shares held before contract",
+    "value": "48,231 common shares (0.16%)"
+   }
+  ],
+  "why_it_matters": "In Korea, share buyback trust contracts with planned cancellation generally signal a company's intent to return value to shareholders or support its share price, and cancellation reduces the total number of outstanding shares. Actual purchase volume and price may differ from the planned figures, depending on market movements.",
+  "company_short": "Dongsung Finetec"
+ }
+}

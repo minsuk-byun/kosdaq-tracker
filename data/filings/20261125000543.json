@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000543",
+ "rcept_dt": "20261125",
+ "corp_code": "00535676",
+ "corp_name": "테크윙",
+ "corp_name_eng": "Techwing, Inc.",
+ "stock_code": "089030",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000543",
+ "summary": {
+  "headline": "Techwing signs KRW 5bn share buyback trust contract with Samsung Securities",
+  "what_happened": "On Nov 25, 2026, Techwing's board resolved to enter into a share buyback trust contract worth KRW 5bn, running from Nov 25, 2026 to May 24, 2027, with Samsung Securities as the contracting institution. The company plans to acquire 146,413 common shares at KRW 34,150 per share, with the stated purpose of stabilizing the share price, enhancing shareholder value, and funding employee share bonuses; the acquired shares are to be used for employee stock bonuses after the acquisition is completed.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to May 24, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "146,413 common shares"
+   },
+   {
+    "label": "Planned acquisition price per share",
+    "value": "KRW 34,150"
+   },
+   {
+    "label": "Treasury shares held before contract",
+    "value": "1,313,171 common shares (3.54%)"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback trust contract generally means a company entrusts a securities firm to purchase its own shares over a set period, which can reduce shares available in the market and is often used for share price support or employee compensation. Shareholders should note that the actual number of shares acquired and prices may differ from the planned figures depending on market movements.",
+  "company_short": "Techwing"
+ }
+}

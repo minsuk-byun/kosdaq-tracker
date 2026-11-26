@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900270",
+ "rcept_dt": "20261125",
+ "corp_code": "00579971",
+ "corp_name": "칩스앤미디어",
+ "corp_name_eng": "Chips&Media, Inc.",
+ "stock_code": "094360",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주식소각결정",
+ "event": "buyback",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900270",
+ "summary": {
+  "headline": "Chips&Media cancels 1,095,451 treasury shares, est. KRW 12.96bn, with cancellation set for Dec 2, 2026",
+  "what_happened": "Chips&Media, Inc. filed a corrected share cancellation decision, approved by its board on Sep 28, 2026, to cancel 1,095,451 treasury common shares. The corrected filing reflects changes to the number of shares and to the scheduled cancellation date, which is now Dec 2, 2026, following the completion of share purchases under a trust agreement running from Sep 29, 2026 to Nov 13, 2026.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "1,095,451 shares"
+   },
+   {
+    "label": "Total issued shares after cancellation basis",
+    "value": "21,366,974 shares"
+   },
+   {
+    "label": "Estimated cancellation amount",
+    "value": "KRW 12.96bn (KRW 12,963,874,360)"
+   },
+   {
+    "label": "Treasury share acquisition period",
+    "value": "Sep 29, 2026 to Nov 13, 2026"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 2, 2026"
+   }
+  ],
+  "why_it_matters": "A share cancellation reduces the total number of issued shares, so each remaining shareholder's proportional stake in the company rises, while share capital is not reduced. Such filings generally indicate that a company has repurchased its own shares and is permanently retiring them, and the stated amounts may change with the share price and actual purchase costs.",
+  "company_short": "Chips&Media"
+ }
+}

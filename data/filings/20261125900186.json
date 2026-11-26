@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900186",
+ "rcept_dt": "20261125",
+ "corp_code": "00838005",
+ "corp_name": "서진시스템",
+ "corp_name_eng": "SEOJIN SYSTEM CO.,LTD",
+ "stock_code": "178320",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900186",
+ "summary": {
+  "headline": "Seojin System signs KRW 165.6bn SOFC fuel cell module supply deal with Bloom Energy",
+  "what_happened": "Seojin System Co., Ltd. disclosed a single supply contract to produce solid oxide fuel cell (SOFC) modules and parts for Bloom Energy Corporation, a US counterparty, for a total contract amount of KRW 165.6bn, equal to USD 122,988,000 at the Seoul rate of 1,346.60 KRW/USD. The contract period runs from Nov 24, 2026 to Dec 19, 2027, with the order received on Nov 24, 2026, and production is outsourced to the company's overseas subsidiary in Vietnam.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 165.6bn (USD 122,988,000)"
+   },
+   {
+    "label": "Share of recent revenue (as stated in filing)",
+    "value": "15.53%"
+   },
+   {
+    "label": "Recent revenue (FY2025 consolidated)",
+    "value": "KRW 1.07tn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Dec 19, 2027"
+   },
+   {
+    "label": "Payment terms",
+    "value": "Payment within 45 days of invoice; EXW delivery from Vietnam plant; no advance payment"
+   }
+  ],
+  "why_it_matters": "Large supply contracts disclosed under Korean exchange rules show the size of a company's order backlog and can indicate changes in its future revenue, though amounts, timing and terms may still be adjusted through later negotiations with the customer. Investors typically look at the contract size relative to the company's revenue and at whether the contract has conditions or payment risks.",
+  "company_short": "Seojin System"
+ }
+}

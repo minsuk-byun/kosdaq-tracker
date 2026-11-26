@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000602",
+ "rcept_dt": "20261126",
+ "corp_code": "00391197",
+ "corp_name": "하이퍼코퍼레이션",
+ "corp_name_eng": "Hyper Corporation Inc.",
+ "stock_code": "065650",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000602",
+ "summary": {
+  "headline": "Hyper Corporation Inc. approves KRW 5bn third-party rights offering at KRW 1,317 per share",
+  "what_happened": "On Oct 13, 2026, Hyper Corporation Inc.'s board approved a third-party rights offering of 8,352,315 common shares at KRW 1,317 per share, with payment due Dec 23, 2026. The filing states that upon payment, the largest shareholder is expected to change to AI Value Creation New Technology Investment Partnership, and the shares issued will be locked up for one year. This amended filing (dated Nov 26, 2026) changes the payment date from Nov 30, 2026 to Dec 23, 2026 and the listing date for the new shares from Dec 21, 2026 to Jan 13, 2027.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "8,352,315 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,317"
+   },
+   {
+    "label": "Funds for operations",
+    "value": "KRW 6bn"
+   },
+   {
+    "label": "Funds for new business development (other funds)",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Payment date (amended)",
+    "value": "Dec 23, 2026"
+   },
+   {
+    "label": "Expected listing date of new shares (amended)",
+    "value": "Jan 13, 2027"
+   }
+  ],
+  "why_it_matters": "A third-party rights offering issues new shares to a selected investor rather than to existing shareholders in proportion to their holdings, which can dilute existing shareholders' stake and may change the controlling shareholder. Filings of this type are often amended when payment or listing schedules shift, so investors typically track the corrected dates.",
+  "company_short": "Hyper Corporation"
+ }
+}

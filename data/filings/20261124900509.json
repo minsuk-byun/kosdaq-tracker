@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900509",
+ "rcept_dt": "20261124",
+ "corp_code": "00530556",
+ "corp_name": "예스티",
+ "corp_name_eng": "YEST Co.,Ltd.",
+ "stock_code": "122640",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900509",
+ "summary": {
+  "headline": "YEST wins KRW 7.26bn eFurnace supply contract with G Engineering for Amkor",
+  "what_happened": "YEST Co., Ltd. signed a single supply contract to supply eFurnace equipment for Amkor with counterparty G Engineering, Inc., a semiconductor equipment company with no prior relationship to YEST, on Nov 23, 2026 (the date of the purchase order). The contract runs from Nov 23, 2026 to Dec 31, 2027, is unconditional, and is supplied domestically in South Korea.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 7.26bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "8.34% of YEST's recent revenue of KRW 87.06bn (2025 year-end consolidated)"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 23, 2026 to Dec 31, 2027"
+   },
+   {
+    "label": "Payment terms",
+    "value": "10% advance payment; 90% after delivery and setup, within 90 days"
+   },
+   {
+    "label": "Counterparty recent revenue",
+    "value": "KRW 466.36bn (as of Jun 30, 2026, consolidated)"
+   }
+  ],
+  "why_it_matters": "Supply contract disclosures like this one show the size of a company's order backlog and how much a single contract adds relative to its recent revenue. In Korea, such voluntary disclosures are generally reported so shareholders can gauge near-term business activity, though the actual revenue impact depends on delivery and payment timing.",
+  "company_short": "YEST"
+ }
+}

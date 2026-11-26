@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900464",
+ "rcept_dt": "20261124",
+ "corp_code": "01405585",
+ "corp_name": "윙스풋",
+ "corp_name_eng": "WING'S FOOT INC.",
+ "stock_code": "335870",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900464",
+ "summary": {
+  "headline": "Wing's Foot to cancel 477 treasury common shares, worth KRW 2.56m, on Dec 8, 2026",
+  "what_happened": "Wing's Foot Inc.'s board approved on Nov 24, 2026 the cancellation of 477 common shares held as treasury stock, with an estimated cancellation amount of KRW 2,564,712 and a scheduled cancellation date of Dec 8, 2026. The shares arose from fractional shares generated during a share consolidation, and the filing notes that the scheduled date may change depending on consultations with relevant authorities.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "477 shares"
+   },
+   {
+    "label": "Total issued common shares",
+    "value": "3,350,094 shares"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Estimated cancellation amount",
+    "value": "KRW 2,564,712 (about KRW 2.56m)"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 8, 2026"
+   }
+  ],
+  "why_it_matters": "A treasury share cancellation of this type reduces the total number of issued shares outstanding but does not reduce share capital, so shareholders' proportional holdings are affected only through the lower share count. Such filings are generally administrative in nature when they cancel shares already held by the company.",
+  "company_short": "Wing's Foot"
+ }
+}

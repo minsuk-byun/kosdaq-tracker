@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900892",
+ "rcept_dt": "20261124",
+ "corp_code": "00536541",
+ "corp_name": "에코프로",
+ "corp_name_eng": "ECOPRO CO.,LTD",
+ "stock_code": "086520",
+ "corp_cls": "K",
+ "report_nm": "유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900892",
+ "summary": {
+  "headline": "ECOPRO CO.,LTD subsidiary plans KRW 622bn rights offering to fund PT BNSI smelter stake",
+  "what_happened": "On Nov 24, 2026, the board of ECOPRO GLOBAL INVESTMENT PTE. LTD., a subsidiary of ECOPRO BM Co., Ltd., resolved a rights offering of 596,750,130 common shares via shareholder allotment at a fixed issue price of KRW 1,042.62 per share, with payment scheduled for Jun 30, 2027. The filing states the proceeds will be used to acquire an equity stake in the PT BNSI smelter and to secure shareholder loans, and that this notice replaces the rights offering notice filed on Nov 11, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares to be issued",
+    "value": "596,750,130 shares"
+   },
+   {
+    "label": "Fixed issue price per share",
+    "value": "KRW 1,042.62"
+   },
+   {
+    "label": "Funds allocated to acquisition of other companies' securities",
+    "value": "KRW 622bn (KRW 622,183,620,541)"
+   },
+   {
+    "label": "Payment date",
+    "value": "Jun 30, 2027"
+   },
+   {
+    "label": "Shares outstanding before the offering (common)",
+    "value": "100"
+   }
+  ],
+  "why_it_matters": "A rights offering allots new shares to existing shareholders in proportion to their holdings, and when the parent company does not take up its full entitlement, its stake may be diluted. For investors in the parent, the key questions are the allocation basis, subscription decisions and how the raised funds are used, as set out in the filing.",
+  "company_short": "EcoPro"
+ }
+}

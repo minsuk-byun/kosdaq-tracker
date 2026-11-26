@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900679",
+ "rcept_dt": "20261124",
+ "corp_code": "00137915",
+ "corp_name": "엠엑스로보틱스",
+ "corp_name_eng": "MX Robotics Inc.",
+ "stock_code": "007820",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900679",
+ "summary": {
+  "headline": "MX Robotics amends KRW 63.2bn ASRS warehouse supply deal with Reliance New Solar, extending end date to Mar 31, 2027",
+  "what_happened": "MX Robotics Inc. filed a corrected disclosure for its single supply contract for an ASRS (automated storage and retrieval system) for a product warehouse, with counterparty Reliance New Solar Energy Limited in India. The correction extends the contract end date from Dec 31, 2026 to Mar 31, 2027, which the company attributes to local circumstances affecting the delivery schedule.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 63.2bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "54.99%"
+   },
+   {
+    "label": "Contract start date",
+    "value": "Feb 12, 2024"
+   },
+   {
+    "label": "Revised contract end date",
+    "value": "Mar 31, 2027 (previously Dec 31, 2026)"
+   },
+   {
+    "label": "Contract signing date",
+    "value": "Feb 15, 2024"
+   }
+  ],
+  "why_it_matters": "In Korea, corrected supply-contract filings typically signal changes to delivery or completion timelines, which can affect when a company recognizes revenue from a contract. Shareholders generally look at such amendments alongside the contract's size relative to the company's revenue and the reason given for the change.",
+  "company_short": "MX Robotics"
+ }
+}

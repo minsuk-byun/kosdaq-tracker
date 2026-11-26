@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000191",
+ "rcept_dt": "20261126",
+ "corp_code": "00163761",
+ "corp_name": "한창제지",
+ "corp_name_eng": "HANCHANG PAPER CO.,LTD",
+ "stock_code": "009460",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000191",
+ "summary": {
+  "headline": "Hanchang Paper to buy back KRW 500m of common shares via open market, Nov 27, 2026 – Feb 26, 2027",
+  "what_happened": "Hanchang Paper Co., Ltd. resolved on Nov 26, 2026 to acquire its own common shares through direct on-exchange purchases, with an expected acquisition period from Nov 27, 2026 to Feb 26, 2027. The planned acquisition amount is KRW 500m, for an expected 235,849 common shares, with the stated purpose of stabilizing the share price and enhancing shareholder value. The company stated that shares acquired after completion of the buyback will be fully cancelled in the future.",
+  "key_numbers": [
+   {
+    "label": "Planned acquisition amount",
+    "value": "KRW 500m"
+   },
+   {
+    "label": "Planned acquisition shares (common)",
+    "value": "235,849 shares"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 27, 2026 – Feb 26, 2027"
+   },
+   {
+    "label": "Treasury shares held before this resolution (common)",
+    "value": "694,187 shares (5.63%)"
+   },
+   {
+    "label": "Daily buy order limit (common)",
+    "value": "23,584 shares"
+   }
+  ],
+  "why_it_matters": "Share buybacks in Korea are generally announced to support the share price or return value to shareholders, and the actual amount and number of shares acquired may differ from the planned figures depending on price movements. Shares that are cancelled reduce the total number of outstanding shares, while shares held in treasury do not carry voting rights until they are sold or cancelled.",
+  "company_short": "Hanchang Paper"
+ }
+}

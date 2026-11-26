@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800170",
+ "rcept_dt": "20261124",
+ "corp_code": "00148276",
+ "corp_name": "제일기획",
+ "corp_name_eng": "Cheil Worldwide Inc",
+ "stock_code": "030000",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800170",
+ "summary": {
+  "headline": "Cheil Worldwide cancels 2,080,938 treasury shares worth KRW 40.0bn, effective Dec 1, 2026",
+  "what_happened": "On Nov 24, 2026, Cheil Worldwide's board resolved to cancel 2,080,938 common shares that the company had already acquired as treasury stock, with a scheduled cancellation date of Dec 1, 2026. The filing states the scheduled cancellation amount as KRW 40,019,984,930, based on the book value of the treasury shares as of the board resolution date, and says the cancellation does not reduce capital because it is made within distributable profits under Article 343(1) of the Commercial Act.",
+  "key_numbers": [
+   {
+    "label": "Shares to be cancelled (common)",
+    "value": "2,080,938"
+   },
+   {
+    "label": "Total issued common shares",
+    "value": "101,278,725"
+   },
+   {
+    "label": "Scheduled cancellation amount",
+    "value": "KRW 40.02bn"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 200"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 1, 2026"
+   }
+  ],
+  "why_it_matters": "Treasury share cancellations of this kind generally reduce the number of shares outstanding without reducing registered capital, and companies typically announce them as part of shareholder-value measures. Shareholders' proportional ownership can change as a result of a reduced share count.",
+  "company_short": "Cheil Worldwide"
+ }
+}

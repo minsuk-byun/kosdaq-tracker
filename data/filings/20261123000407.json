@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000407",
+ "rcept_dt": "20261123",
+ "corp_code": "01116502",
+ "corp_name": "아티스트컴퍼니",
+ "corp_name_eng": "Artist Company Inc.",
+ "stock_code": "321820",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(영업양도결정)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000407",
+ "summary": {
+  "headline": "Artist Company to transfer its platform business for KRW 5bn; second payment moved to Nov 25, 2026",
+  "what_happened": "Artist Company Inc. resolved to transfer its entire platform business to Rainbow8 Inc. for KRW 5bn, with a contract date of Jul 22, 2026 and an expected transfer date of Dec 21, 2026. On Nov 23, 2026, the second payment of KRW 2bn was rescheduled from Nov 20 to Nov 25, 2026 by an amended agreement, and this correction filing reflects that change.",
+  "key_numbers": [
+   {
+    "label": "Transfer price",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Transferred business share of total assets",
+    "value": "2.97%"
+   },
+   {
+    "label": "Transferred business share of total revenue",
+    "value": "21.01%"
+   },
+   {
+    "label": "Second payment (rescheduled)",
+    "value": "KRW 2bn, due Nov 25, 2026 (previously Nov 20, 2026)"
+   },
+   {
+    "label": "Shareholder meeting for approval",
+    "value": "Sep 2, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, business transfer filings like this typically describe a sale of a business division, with the price, timing and payment schedule disclosed to shareholders. Such transfers may also trigger shareholder rights, such as appraisal (share purchase) claims, which are set out in the filing's procedures.",
+  "company_short": "Artist Company"
+ }
+}

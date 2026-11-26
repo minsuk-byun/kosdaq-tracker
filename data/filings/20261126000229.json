@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000229",
+ "rcept_dt": "20261126",
+ "corp_code": "01498576",
+ "corp_name": "유디엠텍",
+ "corp_name_eng": "UDMTEK Co.,Ltd.",
+ "stock_code": "389680",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000229",
+ "summary": {
+  "headline": "UDMTEK to issue 1,031,636 new shares via third-party allotment, raising KRW 3.0bn",
+  "what_happened": "UDMTEK's board on Nov 26, 2026 approved a third-party allotment rights offering of 1,031,636 common shares at KRW 2,908 per share, with payment due Dec 17, 2026. The shares are allotted to Pinnacle Logis Investment Fund No. 2, and the company plans to use the proceeds for working capital and other funds for management purposes. The offering is a small-amount public offering under which no securities registration statement is filed, as the public offering amount is below KRW 3bn.",
+  "key_numbers": [
+   {
+    "label": "New common shares",
+    "value": "1,031,636"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 2,908"
+   },
+   {
+    "label": "Working capital allocation",
+    "value": "KRW 2.1bn"
+   },
+   {
+    "label": "Other funds allocation",
+    "value": "KRW 900m"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 17, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to a designated investor rather than to existing shareholders pro rata, so existing shareholders may face dilution and their ownership percentage may fall unless they participate. Issue price is typically set by reference to recent market prices, and the final price may be revised by a later correction filing.",
+  "company_short": "UDMTEK"
+ }
+}

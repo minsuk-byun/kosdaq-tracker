@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261125800178",
+ "rcept_dt": "20261125",
+ "corp_code": "00152880",
+ "corp_name": "코오롱글로벌",
+ "corp_name_eng": "KolonGlobalCorporation CO.,LTD",
+ "stock_code": "003070",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800178",
+ "summary": {
+  "headline": "Kolon Global amends Samsung Electronics Pyeongtaek office contract to KRW 1.02tn",
+  "what_happened": "Kolon Global Corporation filed a corrected disclosure on Nov 25, 2026, for its construction contract with Samsung Electronics for the Pyeongtaek office building No. 6 project in Gyeonggi-do. The contract amount was increased from KRW 518bn to KRW 1.02tn, and the contract end date was changed from Apr 30, 2029 to Jan 31, 2029, according to the filing.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 1.02tn (KRW 1,015,012,900,000)"
+   },
+   {
+    "label": "Previous contract amount",
+    "value": "KRW 518bn (KRW 518,346,400,000)"
+   },
+   {
+    "label": "Revenue ratio (revised)",
+    "value": "39.01% of recent revenue"
+   },
+   {
+    "label": "Contract period",
+    "value": "Feb 28, 2023 to Jan 31, 2029"
+   }
+  ],
+  "why_it_matters": "Corrected supply or construction contract disclosures of this kind typically reflect changes in contract value or schedule agreed between the parties, and shareholders usually use them to gauge changes in a construction company's order backlog and expected revenue. The amounts and timing stated in such filings may still change as construction progresses.",
+  "company_short": "Kolon Global"
+ }
+}

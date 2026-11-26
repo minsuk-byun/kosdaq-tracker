@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261125000596",
+ "rcept_dt": "20261125",
+ "corp_code": "00110884",
+ "corp_name": "엠젠솔루션",
+ "corp_name_eng": "MGEN SOLUTIONS CO., LTD.",
+ "stock_code": "032790",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000596",
+ "summary": {
+  "headline": "MGEN Solutions issues KRW 10bn private convertible bonds (Series 26) with Dec 9, 2026 payment",
+  "what_happened": "MGEN Solutions Co., Ltd. filed a corrected notice on Nov 25, 2026 for its 26th series of unsecured, private convertible bonds, with a total face value of KRW 10bn, whose payment date was changed from Nov 25, 2026 to Dec 9, 2026. The corrections moved the maturity date to Dec 9, 2029, shifted the conversion period, put option and call option dates, and updated the interest payment schedule accordingly.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 10bn"
+   },
+   {
+    "label": "Payment date (corrected)",
+    "value": "Dec 9, 2026"
+   },
+   {
+    "label": "Maturity date (corrected)",
+    "value": "Dec 9, 2029"
+   },
+   {
+    "label": "Conversion price per share",
+    "value": "KRW 1,046"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "9,560,229 common shares"
+   },
+   {
+    "label": "Surface interest rate / maturity interest rate",
+    "value": "2% / 6%"
+   }
+  ],
+  "why_it_matters": "Convertible bonds can be converted into new shares under the stated terms, which may dilute existing shareholders' ownership if conversion occurs. Corrections to issuance terms such as dates and option schedules are typically filed to align the bond terms with the revised payment timing.",
+  "company_short": "MGEN Solutions"
+ }
+}

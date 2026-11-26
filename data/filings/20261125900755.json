@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900755",
+ "rcept_dt": "20261125",
+ "corp_code": "00363486",
+ "corp_name": "로체시스템즈",
+ "corp_name_eng": "RORZE SYSTEMS CORPORATION",
+ "stock_code": "071280",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900755",
+ "summary": {
+  "headline": "Rorze Systems signs KRW 24.6bn manufacturing equipment supply contract with US customer",
+  "what_happened": "Rorze Systems Corporation disclosed a single supply contract for manufacturing equipment, with the contract running from Nov 24, 2026 to Nov 10, 2027 and delivery in the United States. The fixed contract amount is KRW 24.6bn, equal to 19.70% of the company's 2025 consolidated revenue, and the counterparty has requested that its identity be kept confidential.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 24.6bn"
+   },
+   {
+    "label": "Share of 2025 consolidated revenue",
+    "value": "19.70%"
+   },
+   {
+    "label": "2025 consolidated revenue",
+    "value": "KRW 124.9bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Nov 10, 2027"
+   },
+   {
+    "label": "Contract value in USD",
+    "value": "USD 18.27m (at USD 1.0 = KRW 1,346.6)"
+   }
+  ],
+  "why_it_matters": "Large supply contracts disclosed under Korean exchange rules indicate a company's order intake relative to its revenue and can inform shareholders about future business volume. Contract terms, timing and final amounts may still change as the project progresses.",
+  "company_short": "Rorze Systems"
+ }
+}

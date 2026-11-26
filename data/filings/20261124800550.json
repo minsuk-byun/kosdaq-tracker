@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800550",
+ "rcept_dt": "20261124",
+ "corp_code": "00107066",
+ "corp_name": "남광토건",
+ "corp_name_eng": "NAMKWANG ENGINEERING & CONSTRUCTION CO.,LTD",
+ "stock_code": "001260",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800550",
+ "summary": {
+  "headline": "Namkwang Engineering & Construction to cancel 8,858 treasury shares, worth KRW 62m, on Dec 2, 2026",
+  "what_happened": "On Nov 24, 2026, the board of Namkwang Engineering & Construction resolved to cancel 8,858 common shares it already holds as treasury stock, without a capital reduction procedure, under Article 343 of the Korean Commercial Act. The estimated cancellation amount is KRW 61.9m, calculated from the Nov 23, 2026 closing price of KRW 6,990, and the cancellation is scheduled for Dec 2, 2026, subject to change depending on coordination with authorities.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "8,858 shares"
+   },
+   {
+    "label": "Estimated cancellation amount",
+    "value": "KRW 61.9m"
+   },
+   {
+    "label": "Total issued shares before cancellation",
+    "value": "9,832,572 shares"
+   },
+   {
+    "label": "Total issued shares after cancellation (expected)",
+    "value": "9,823,714 shares"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 2, 2026"
+   }
+  ],
+  "why_it_matters": "When a Korean company cancels treasury shares, the total number of issued shares falls, so each remaining shareholder's proportional stake rises slightly, while the company's capital stock is not reduced. Such filings are generally made to retire shares the company already holds rather than to change its capital base.",
+  "company_short": "Namkwang Engineering & Construction"
+ }
+}

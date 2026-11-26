@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000390",
+ "rcept_dt": "20261123",
+ "corp_code": "01397903",
+ "corp_name": "엔젠바이오",
+ "corp_name_eng": "NGeneBio Co., Ltd.",
+ "stock_code": "354200",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000390",
+ "summary": {
+  "headline": "NGeneBio plans KRW 2bn third-party rights offering of 2,000,000 common shares at KRW 1,000",
+  "what_happened": "On Nov 10, 2026, NGeneBio's board approved a third-party allotment rights offering of 2,000,000 common shares at KRW 1,000 per share, with the proceeds designated for debt repayment. The sole subscriber named is SH Healthcare Investment Fund No. 1, described as the company's largest shareholder, and the new shares are to be held for one year. This corrected filing (Nov 23, 2026) changed the payment date to Dec 21, 2026 and the listing date to Jan 7, 2027.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "2,000,000 shares"
+   },
+   {
+    "label": "Issue price per share (par value)",
+    "value": "KRW 1,000"
+   },
+   {
+    "label": "Funds for debt repayment",
+    "value": "KRW 2bn"
+   },
+   {
+    "label": "Payment date (corrected)",
+    "value": "Dec 21, 2026"
+   },
+   {
+    "label": "Expected listing date (corrected)",
+    "value": "Jan 7, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to selected investors rather than existing shareholders, which can dilute the holdings of existing shareholders depending on the number of shares issued relative to shares outstanding. Corrections to payment or listing dates in such filings are typically administrative and affect the timing of the share issuance.",
+  "company_short": "NGeneBio"
+ }
+}

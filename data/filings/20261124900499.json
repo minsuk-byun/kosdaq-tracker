@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900499",
+ "rcept_dt": "20261124",
+ "corp_code": "01407158",
+ "corp_name": "이노테나",
+ "corp_name_eng": "Innotena, Inc.",
+ "stock_code": "333050",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]현금ㆍ현물배당결정",
+ "event": "dividend",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900499",
+ "summary": {
+  "headline": "Innotena corrects Q-dividend filing: total payout cut to KRW 86.4m, KRW 19 per share",
+  "what_happened": "Innotena, Inc. filed a correction to its quarterly cash dividend decision, which was originally submitted on Nov 10, 2026. The correction was made because the treasury share count was calculated incorrectly, and the total dividend amount was revised from KRW 88,006,955 to KRW 86,379,092. The dividend is KRW 19 per common share, with a record date of Oct 28, 2026 and scheduled payment on Nov 24, 2026.",
+  "key_numbers": [
+   {
+    "label": "Dividend per common share",
+    "value": "KRW 19"
+   },
+   {
+    "label": "Total cash dividend (corrected)",
+    "value": "KRW 86.4m (previously KRW 88.0m)"
+   },
+   {
+    "label": "Market dividend yield",
+    "value": "0.34%"
+   },
+   {
+    "label": "Record date",
+    "value": "Oct 28, 2026"
+   },
+   {
+    "label": "Scheduled payment date",
+    "value": "Nov 24, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, corrections to dividend filings usually reflect updates to the number of shares eligible for payment, such as treasury shares excluded from the calculation, and shareholders should check the corrected per-share and total amounts. Dividend decisions by the board set the record date and payment schedule that determine which shareholders receive the payout.",
+  "company_short": "Innotena"
+ }
+}

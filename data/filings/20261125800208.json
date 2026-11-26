@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800208",
+ "rcept_dt": "20261125",
+ "corp_code": "00143527",
+ "corp_name": "경동인베스트",
+ "corp_name_eng": "KYUNGDONG INVEST CO., LTD.",
+ "stock_code": "012320",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800208",
+ "summary": {
+  "headline": "Kyungdong Invest: subsidiary wins KRW 36.25bn Onsan PM Project construction contract",
+  "what_happened": "On Nov 25, 2026, Kyungdong Invest disclosed that its subsidiary Kyungdong E&S signed a construction contract for the Onsan PM Project in Ulsan, with counterparty K&JPM Co., Ltd. The contract runs from Nov 24, 2026 to Nov 15, 2027 and covers plant and auxiliary facility construction plus commissioning support.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 36.25bn"
+   },
+   {
+    "label": "Subsidiary's latest revenue (FY2025, standalone)",
+    "value": "KRW 69.23bn"
+   },
+   {
+    "label": "Contract as % of latest revenue",
+    "value": "52.36%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Nov 15, 2027"
+   },
+   {
+    "label": "Subsidiary's share-book value vs. parent's total assets (FY2025 year-end)",
+    "value": "about 13.20%"
+   }
+  ],
+  "why_it_matters": "For a holding company, a large contract at a subsidiary is typically a disclosure of operating activity that can affect the group's revenue and the subsidiary's order backlog. Filings like this are often watched by shareholders as indicators of how much business a subsidiary has secured relative to its size.",
+  "company_short": "Kyungdong Invest"
+ }
+}

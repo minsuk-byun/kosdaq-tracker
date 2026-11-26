@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000540",
+ "rcept_dt": "20261126",
+ "corp_code": "00416414",
+ "corp_name": "넥스턴앤롤코리아",
+ "corp_name_eng": "NEXTURN&ROLLKOREA Co., Ltd",
+ "stock_code": "089140",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000540",
+ "summary": {
+  "headline": "NEXTURN&ROLLKOREA issues KRW 6bn convertible bond (7th series, private placement) due Dec 13, 2027",
+  "what_happened": "On Nov 28, 2024, the board of NEXTURN&ROLLKOREA Co., Ltd resolved to issue its 7th series of unregistered, unguaranteed private convertible bonds with a total face value of KRW 6bn, to be subscribed by Sangsangin Savings Bank Co., Ltd, with payment due Dec 13, 2024. The November 26, 2026 amendment changed only the collateral item: the pledged shares of Mirae Industrial Co., Ltd common stock were increased from 900,000 to 1,200,000 shares.",
+  "key_numbers": [
+   {
+    "label": "Bond total face value (private placement)",
+    "value": "KRW 6bn"
+   },
+   {
+    "label": "Conversion price per share",
+    "value": "KRW 3,896"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Dec 13, 2027"
+   },
+   {
+    "label": "Coupon / yield to maturity",
+    "value": "1.00% coupon / 4.00% maturity yield"
+   },
+   {
+    "label": "Collateral (amended)",
+    "value": "1,200,000 shares of Mirae Industrial Co., Ltd common stock (previously 900,000)"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances generally create the possibility of new shares being issued upon conversion, which can dilute existing shareholders' ownership, and their conversion price may be adjusted under the terms set out in the filing. Amendments to collateral or other terms are typically disclosed so that investors can update their understanding of the bond's security and obligations.",
+  "company_short": "NEXTURN&ROLLKOREA"
+ }
+}

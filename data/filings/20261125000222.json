@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000222",
+ "rcept_dt": "20261125",
+ "corp_code": "00819374",
+ "corp_name": "나무가",
+ "corp_name_eng": "Namuga Co.,Ltd",
+ "stock_code": "190510",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000222",
+ "summary": {
+  "headline": "Namuga signs KRW 5bn share buyback trust contract with Samsung Securities, runs to May 24, 2027",
+  "what_happened": "On Nov 25, 2026, Namuga's board approved a new trust contract for the acquisition of its own common shares, with Samsung Securities Co., Ltd as the contracting institution and investment broker. The contract amount is KRW 5bn, the contract period runs from Nov 25, 2026 to May 24, 2027, and the stated purpose is stabilizing the share price to enhance shareholder value. The filing states the planned acquisition is 307,503 common shares, based on the Nov 24, 2026 closing price, and that shares are to be held until after the trust contract ends and then cancelled.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Planned shares to acquire (common)",
+    "value": "307,503 shares"
+   },
+   {
+    "label": "Acquisition price (common)",
+    "value": "KRW 16,260 per share"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to May 24, 2027"
+   },
+   {
+    "label": "Treasury shares held before contract (common)",
+    "value": "370,071 shares (2.63%)"
+   }
+  ],
+  "why_it_matters": "In Korea, share buyback trust contracts are generally disclosed when a company entrusts a securities firm to repurchase its own shares, often with a stated aim such as share price stabilization. Repurchased shares may later be cancelled, which reduces the total number of outstanding shares.",
+  "company_short": "Namuga"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000166",
+ "rcept_dt": "20261123",
+ "corp_code": "00166227",
+ "corp_name": "화승인더스트리",
+ "corp_name_eng": "HS INDUSTRIES CO.,LTD",
+ "stock_code": "006060",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000166",
+ "summary": {
+  "headline": "HS Industries signs KRW 2bn share buyback trust deal, runs Nov 23, 2026 to Nov 22, 2027",
+  "what_happened": "On Nov 23, 2026, HS Industries' board approved a share buyback trust agreement worth KRW 2bn with Korea Investment & Securities, running from Nov 23, 2026 to Nov 22, 2027, for the stated purpose of stabilising the share price and enhancing shareholder value. The filing states the company planned to acquire 1,162,790 common shares at KRW 1,720 per share, based on the Nov 20, 2026 closing price, and that the actual number of shares acquired may change with future share price movements.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 2bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 23, 2026 to Nov 22, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "1,162,790 common shares"
+   },
+   {
+    "label": "Reference share price",
+    "value": "KRW 1,720"
+   },
+   {
+    "label": "Treasury shares held before contract",
+    "value": "7,400,879 common shares (13.38% of total issued shares)"
+   }
+  ],
+  "why_it_matters": "In Korea, share buyback trust agreements are typically entered into to stabilise a company's share price or return value to shareholders, with the bought-back shares often later cancelled or retained as treasury stock. Such arrangements generally reduce the number of shares outstanding if shares are cancelled, and the actual purchases depend on market prices during the contract period.",
+  "company_short": "HS Industries"
+ }
+}

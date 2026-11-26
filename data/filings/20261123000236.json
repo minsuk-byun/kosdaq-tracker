@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000236",
+ "rcept_dt": "20261123",
+ "corp_code": "00116426",
+ "corp_name": "이렘",
+ "corp_name_eng": "IREM Co.,Ltd.",
+ "stock_code": "009730",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000236",
+ "summary": {
+  "headline": "IREM to raise capital via KRW 4.8m-share rights offering; fixed issue price KRW 1,060 per share",
+  "what_happened": "IREM Co., Ltd. filed a corrected disclosure (amended on Nov 23, 2026) for its rights offering decided by the board on Apr 24, 2026. The amendment updates the new share issue price: the fixed issue price is KRW 1,060 per common share, with the price confirmation scheduled for Nov 20, 2026. The offering consists of 4,800,000 new common shares allocated to existing shareholders, with payment due Nov 30, 2026 and new shares scheduled to list on Dec 11, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "4,800,000 shares"
+   },
+   {
+    "label": "Fixed issue price per common share",
+    "value": "KRW 1,060"
+   },
+   {
+    "label": "Planned use of funds: operating funds",
+    "value": "KRW 4.328bn"
+   },
+   {
+    "label": "Planned use of funds: facility funds",
+    "value": "KRW 760m"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "8,065,537 shares"
+   }
+  ],
+  "why_it_matters": "A rights offering gives existing shareholders the first opportunity to subscribe to new shares, usually in proportion to their holdings, and it can dilute the ownership of those who do not participate. Shareholders typically need to decide whether to subscribe, sell their rights, or let them lapse within the stated subscription window.",
+  "company_short": "IREM"
+ }
+}

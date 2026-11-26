@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000020",
+ "rcept_dt": "20261124",
+ "corp_code": "00148276",
+ "corp_name": "제일기획",
+ "corp_name_eng": "Cheil Worldwide Inc",
+ "stock_code": "030000",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000020",
+ "summary": {
+  "headline": "Cheil Worldwide to buy back shares worth KRW 60bn on the KOSPI market, Nov 25, 2026 to Jan 29, 2027",
+  "what_happened": "Cheil Worldwide Inc announced a decision on Nov 24, 2026 to acquire up to 3,291,278 ordinary shares for an expected amount of KRW 60bn through open-market purchases on the KOSPI market, with the acquisition period running from Nov 25, 2026 to Jan 29, 2027. The company stated that it plans to cancel all of the acquired shares, and three brokers (Samsung Securities, Shinhan Securities and KB Securities) will execute the purchases.",
+  "key_numbers": [
+   {
+    "label": "Expected acquisition amount",
+    "value": "KRW 60bn"
+   },
+   {
+    "label": "Expected number of shares to acquire",
+    "value": "3,291,278 ordinary shares"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Nov 25, 2026 to Jan 29, 2027"
+   },
+   {
+    "label": "Shares held before this decision",
+    "value": "2,080,938 ordinary shares (2.05%)"
+   },
+   {
+    "label": "Daily buy order limit (base)",
+    "value": "329,127 shares"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback with a stated plan to cancel the shares typically reduces the total number of outstanding shares, which can affect per-share metrics for existing shareholders. The actual number of shares acquired may differ from the planned figure depending on share price movements, as the filing notes.",
+  "company_short": "Cheil Worldwide"
+ }
+}

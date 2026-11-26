@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000297",
+ "rcept_dt": "20261126",
+ "corp_code": "00531829",
+ "corp_name": "엠아이텍",
+ "corp_name_eng": "MITECH CO.,LTD.",
+ "stock_code": "179290",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000297",
+ "summary": {
+  "headline": "MITECH signs KRW 10bn share buyback trust contract with NH Investment & Securities",
+  "what_happened": "On Nov 26, 2026, MITECH CO.,LTD. resolved by board decision to enter a treasury share acquisition trust contract worth KRW 10bn with NH Investment & Securities, running from Nov 26, 2026 to May 26, 2027, with the stated purpose of enhancing shareholder value and stabilizing the share price. The filing states the company plans to cancel the acquired shares within one year of each acquisition date, with the specific cancellation schedule to be decided later by the board.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 10bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to May 26, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "2,805,049 common shares"
+   },
+   {
+    "label": "Reference share price (close on Nov 25, 2026)",
+    "value": "KRW 3,565"
+   },
+   {
+    "label": "Acquisition limit under distributable profit",
+    "value": "KRW 71,126,203,310"
+   }
+  ],
+  "why_it_matters": "Share buyback trust contracts generally mean a company entrusts a securities firm to repurchase its own shares over a set period, which can affect the number of shares in circulation and may be used to support the share price; cancelling repurchased shares typically reduces total shares outstanding. The actual amount acquired may differ from the planned figures depending on share price movements.",
+  "company_short": "MITECH"
+ }
+}

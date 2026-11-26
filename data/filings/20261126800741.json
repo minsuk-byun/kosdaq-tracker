@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126800741",
+ "rcept_dt": "20261126",
+ "corp_code": "00152862",
+ "corp_name": "코오롱",
+ "corp_name_eng": "KOLON CORPORATION",
+ "stock_code": "002020",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800741",
+ "summary": {
+  "headline": "Kolon Corporation's subsidiary Kolon Global amends Sewoon 4-zone redevelopment construction contract, KRW 481.06bn",
+  "what_happened": "This is a corrected filing for a supply contract held by Kolon Global, a subsidiary of Kolon Corporation, for the Sewoon 4-zone urban redevelopment construction project in Seoul, with the counterparty Seoul Housing & Communities Corporation. The correction concerns a change to the contract period, and the company states that the construction period is about 70 months from the construction start date, which is expected on Nov 26, 2026, and that discussions with the client on the construction period are ongoing.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (incl. VAT)",
+    "value": "KRW 481.06bn"
+   },
+   {
+    "label": "Latest revenue (end-2017, consolidated, as stated in filing)",
+    "value": "KRW 3.65tn"
+   },
+   {
+    "label": "Contract amount as % of latest revenue",
+    "value": "13.17%"
+   },
+   {
+    "label": "Expected construction start date",
+    "value": "Nov 26, 2026"
+   },
+   {
+    "label": "Approximate construction period",
+    "value": "about 70 months"
+   },
+   {
+    "label": "Contract date",
+    "value": "Jan 15, 2019"
+   }
+  ],
+  "why_it_matters": "Large construction contracts reported by Korean listed companies typically signal a major project award that can affect a company's order backlog and future revenue recognition. Filings that amend contract periods or timing are generally disclosed so shareholders can track changes to expected project schedules, and contract amounts and periods may change as construction progresses.",
+  "company_short": "Kolon Corporation"
+ }
+}

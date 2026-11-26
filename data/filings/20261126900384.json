@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900384",
+ "rcept_dt": "20261126",
+ "corp_code": "00991298",
+ "corp_name": "씨이랩",
+ "corp_name_eng": "XIIlab Co., Ltd",
+ "stock_code": "189330",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900384",
+ "summary": {
+  "headline": "XIIlab signs KRW 5.4bn AI infrastructure system supply contract, equal to 52.57% of revenue",
+  "what_happened": "XIIlab Co., Ltd (씨이랩) disclosed on Nov 26, 2026 a single supply contract for AI infrastructure systems in South Korea, with a fixed contract amount of KRW 5.4bn (excluding VAT) and a contract period from Nov 26, 2026 to Feb 5, 2027. The filing states that the counterparty requested confidentiality, so its name and details were not disclosed, and the company noted that the contract terms may change depending on progress and negotiations.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 5.4bn (excl. VAT)"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "52.57%"
+   },
+   {
+    "label": "Recent revenue (FY2025 consolidated)",
+    "value": "KRW 10,272,320,511"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Feb 5, 2027"
+   },
+   {
+    "label": "Payment terms",
+    "value": "Advance of 30% of contract amount; balance of 70% paid in cash within 3 days of tax invoice issuance"
+   }
+  ],
+  "why_it_matters": "Large single supply contracts disclosed in Korea are typically reported because they can materially affect a company's revenue outlook and order backlog. Shareholders generally look at the contract size relative to recent revenue, its duration, and whether terms are firm or conditional.",
+  "company_short": "XIIlab"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900635",
+ "rcept_dt": "20261123",
+ "corp_code": "01397903",
+ "corp_name": "엔젠바이오",
+ "corp_name_eng": "NGeneBio Co., Ltd.",
+ "stock_code": "354200",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]타법인주식및출자증권취득결정(자율공시)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900635",
+ "summary": {
+  "headline": "NGeneBio to acquire 100% of Sola AM Holdings for KRW 2bn cash, completion set for Dec 21, 2026",
+  "what_happened": "NGeneBio's board approved on Nov 10, 2026 the acquisition of 22,000 shares, a 100% stake, in Sola AM Holdings Co., Ltd., a solar power EPC and power generation company, for KRW 2bn in cash via purchase of existing shares. The filing was amended on Nov 23, 2026 to change the scheduled acquisition date from Nov 23, 2026 to Dec 21, 2026, which is the date of the final balance payment for the existing shares.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 2bn"
+   },
+   {
+    "label": "Stake acquired after transaction",
+    "value": "100% (22,000 shares)"
+   },
+   {
+    "label": "Equity as share of NGeneBio's equity",
+    "value": "6.71%"
+   },
+   {
+    "label": "Scheduled acquisition date (revised)",
+    "value": "Dec 21, 2026"
+   },
+   {
+    "label": "Acquisition as share of latest total assets",
+    "value": "2.76%"
+   }
+  ],
+  "why_it_matters": "Acquisitions of other companies' shares disclosed under Korea's KOSDAQ self-disclosure rules typically signal a company's entry into or expansion of a business line, and they can affect the company's financial position and future earnings depending on the size of the deal relative to its equity and assets. Shareholders generally watch the purchase price, funding method and timing, as these determine the financial impact and any dilution risk.",
+  "company_short": "NGeneBio"
+ }
+}

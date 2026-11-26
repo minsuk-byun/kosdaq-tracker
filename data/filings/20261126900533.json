@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900533",
+ "rcept_dt": "20261126",
+ "corp_code": "01114586",
+ "corp_name": "셀레믹스",
+ "corp_name_eng": "Celemics, Inc.",
+ "stock_code": "331920",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]최대주주변경을수반하는주식담보제공계약체결",
+ "event": "control",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900533",
+ "summary": {
+  "headline": "Celemics: Largest shareholder Park Jong-gap pledges shares for KRW 3.5bn loan refinancing with Eltron",
+  "what_happened": "Largest shareholder Park Jong-gap pledged 487,425 shares of Celemics as collateral for a KRW 3.5bn loan taken by G&M, where he acts as pledgor and joint guarantor. The filing was corrected on Nov 26, 2026 because G&M refinanced its existing borrowing, changing the secured creditor from Blue C Investment Fund to Eltron Co., Ltd. under a contract dated Oct 13, 2026, with a pledge period from Oct 14, 2026 to Dec 15, 2026.",
+  "key_numbers": [
+   {
+    "label": "Loan / secured amount",
+    "value": "KRW 3.5bn"
+   },
+   {
+    "label": "Shares pledged",
+    "value": "487,425 shares"
+   },
+   {
+    "label": "Largest shareholder's stake (as of filing)",
+    "value": "11.16% (1,248,171 shares)"
+   },
+   {
+    "label": "Stake if all pledged shares are foreclosed",
+    "value": "6.80% (760,746 shares)"
+   },
+   {
+    "label": "Share price trigger for enforcement",
+    "value": "Intraday trading price below KRW 9,000"
+   }
+  ],
+  "why_it_matters": "Share pledges by major shareholders are generally disclosed so investors can see whether a controlling holder's stock could be sold to satisfy a debt if loan terms are breached, which could change ownership levels. Such filings typically reflect financing arrangements of the shareholder and do not by themselves indicate the company's operating performance.",
+  "company_short": "Celemics"
+ }
+}

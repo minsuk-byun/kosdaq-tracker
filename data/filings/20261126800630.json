@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126800630",
+ "rcept_dt": "20261126",
+ "corp_code": "00107066",
+ "corp_name": "남광토건",
+ "corp_name_eng": "NAMKWANG ENGINEERING & CONSTRUCTION CO.,LTD",
+ "stock_code": "001260",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800630",
+ "summary": {
+  "headline": "Namkwang E&C wins KRW 55.9bn public housing contract in Pyeongtaek Godeok project",
+  "what_happened": "Namkwang Engineering & Construction signed a construction contract on Nov 26, 2026 for the Pyeongtaek Godeok A-70BL private-participation public housing project in Pyeongtaek, Gyeonggi-do, with Korea Land & Housing Corporation as the counterparty. The contract period runs from Nov 26, 2026 to Sep 30, 2030, with payment on a progress-payment basis and no advance payment.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT, company share 15%)",
+    "value": "KRW 55.9bn"
+   },
+   {
+    "label": "Total contract amount (excl. VAT)",
+    "value": "KRW 372.5bn"
+   },
+   {
+    "label": "Recent revenue (end-2025 consolidated)",
+    "value": "KRW 357.4bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "15.63%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Sep 30, 2030"
+   }
+  ],
+  "why_it_matters": "Large supply or construction contract disclosures in Korea show the size of a company's newly won orders relative to its recent revenue, which can indicate future work volume. Such filings are typically made so shareholders can assess how a contract may affect a company's order backlog and business activity.",
+  "company_short": "Namkwang E&C"
+ }
+}

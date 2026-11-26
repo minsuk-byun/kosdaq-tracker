@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900347",
+ "rcept_dt": "20261125",
+ "corp_code": "00616962",
+ "corp_name": "린드먼아시아",
+ "corp_name_eng": "Lindeman Asia Investment Corporation",
+ "stock_code": "277070",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900347",
+ "summary": {
+  "headline": "Lindeman Asia cancels 684,600 treasury common shares worth KRW 3.48bn, effective Dec 2, 2026",
+  "what_happened": "On Nov 25, 2026, Lindeman Asia Investment Corporation's board resolved to cancel 684,600 common shares that it had already acquired as treasury stock, with a scheduled cancellation date of Dec 2, 2026. The filing states the planned cancellation amount is KRW 3.48bn, based on the book value of the treasury shares, and that the shares are being cancelled under the proviso of Article 343(1) of the Commercial Act using distributable earnings. The filing states there is no reduction in capital stock, and that the cancellation date may change depending on consultations with relevant authorities.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "684,600"
+   },
+   {
+    "label": "Total issued common shares (before cancellation, as stated)",
+    "value": "13,692,000"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Planned cancellation amount (book value basis)",
+    "value": "KRW 3.48bn"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 2, 2026"
+   }
+  ],
+  "why_it_matters": "Share cancellations of treasury stock in Korea generally reduce the number of shares outstanding without reducing capital stock, and the company may use distributable earnings to fund them. Shareholders typically see the change in total issued shares once the cancellation takes effect.",
+  "company_short": "Lindeman Asia Investment Corporation"
+ }
+}

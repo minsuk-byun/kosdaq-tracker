@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000966",
+ "rcept_dt": "20261127",
+ "corp_code": "00618410",
+ "corp_name": "KS인더스트리",
+ "corp_name_eng": "KS Industry Co., Ltd.",
+ "stock_code": "101000",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000966",
+ "summary": {
+  "headline": "KS Industry plans KRW 5bn third-party rights offering at KRW 685 per share",
+  "what_happened": "On Nov 26, 2026, KS Industry's board approved a third-party allotment rights offering of 7,299,270 common shares at KRW 685 per share, with payment due Dec 4, 2026. The shares are to be allotted to Prime Light Investment Fund No. 1, and the proceeds are designated entirely for operating funds. The company stated that the new shares will be subject to a one-year mandatory lock-up and expects listing on Dec 21, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "7,299,270 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 685"
+   },
+   {
+    "label": "Base share price",
+    "value": "KRW 761"
+   },
+   {
+    "label": "Discount to base price",
+    "value": "-9.99%"
+   },
+   {
+    "label": "Operating funds raised",
+    "value": "KRW 5bn (KRW 4,999,999,950)"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 4, 2026"
+   }
+  ],
+  "why_it_matters": "Third-party allotment rights offerings in Korea give new shares to selected investors rather than existing shareholders pro rata, which can dilute existing holders' ownership and per-share value depending on the issue price relative to market price. Lock-up periods limit when new holders can resell those shares.",
+  "company_short": "KS Industry"
+ }
+}

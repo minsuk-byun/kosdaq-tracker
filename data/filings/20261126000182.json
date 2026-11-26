@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000182",
+ "rcept_dt": "20261126",
+ "corp_code": "00365387",
+ "corp_name": "AJ네트웍스",
+ "corp_name_eng": "AJ Networks Co.,Ltd.",
+ "stock_code": "095570",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000182",
+ "summary": {
+  "headline": "AJ Networks signs KRW 2.3bn share buyback trust contract, to repurchase up to 612,516 common shares",
+  "what_happened": "On Nov 26, 2026, AJ Networks Co.,Ltd. resolved to enter into a new self-share acquisition trust contract worth KRW 2.3bn with Korea Investment & Securities Co., Ltd., running from Nov 26, 2026 to Nov 25, 2027. The stated purpose is shareholder value enhancement and employee share compensation, and the planned acquisition is 612,516 common shares at a price of KRW 3,755 per share.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 2.3bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Nov 25, 2027"
+   },
+   {
+    "label": "Planned shares to acquire (common)",
+    "value": "612,516 shares"
+   },
+   {
+    "label": "Acquisition price per share (common)",
+    "value": "KRW 3,755"
+   },
+   {
+    "label": "Self-shares held before contract (common)",
+    "value": "501,709 shares (1.11%)"
+   },
+   {
+    "label": "Remaining acquisition limit after this contract",
+    "value": "KRW 320.1bn"
+   }
+  ],
+  "why_it_matters": "In Korea, share buyback trust contracts generally mean a company entrusts a securities firm to repurchase its own shares over a set period, which can reduce the number of shares outstanding and may be used for shareholder returns or employee compensation. The filing notes that the actual number of shares acquired may differ depending on future share price movements.",
+  "company_short": "AJ Networks"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900885",
+ "rcept_dt": "20261124",
+ "corp_code": "01160363",
+ "corp_name": "에코프로비엠",
+ "corp_name_eng": "ECOPRO BM CO.,LTD.",
+ "stock_code": "247540",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900885",
+ "summary": {
+  "headline": "ECOPRO BM: Subsidiary PT ECOPRO BNSI INVESTMENT approves rights offering, KRW 627.1bn for PT BNSI smelter stake",
+  "what_happened": "On Nov 10, 2026, the board of directors of ECOPRO BM's subsidiary PT ECOPRO BNSI INVESTMENT resolved a third-party allotment rights offering of 836,190,337 common shares at KRW 750 per share, with payment scheduled for Jun 30, 2027. The filing was corrected on Nov 24, 2026, to reflect a change in investment structure that withdrew the previous investment plan. The proceeds are stated to be used for acquiring an equity stake in the PT BNSI smelter and securing shareholder loans.",
+  "key_numbers": [
+   {
+    "label": "New common shares to be issued",
+    "value": "836,190,337 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 750"
+   },
+   {
+    "label": "Funds to be raised for acquisition of other company securities",
+    "value": "KRW 627.1bn"
+   },
+   {
+    "label": "Acquisition amount (USD)",
+    "value": "USD 462,597,000"
+   },
+   {
+    "label": "Scheduled payment date",
+    "value": "Jun 30, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering by a company or its subsidiary generally means new shares are issued to selected investors rather than existing shareholders, which can dilute existing holdings and is typically disclosed with the purpose of funds raised. Corrections to such filings often reflect changes in the planned transaction structure or timing.",
+  "company_short": "ECOPRO BM"
+ }
+}

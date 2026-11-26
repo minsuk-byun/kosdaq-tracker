@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900335",
+ "rcept_dt": "20261123",
+ "corp_code": "00288343",
+ "corp_name": "삼영이엔씨",
+ "corp_name_eng": "Samyung ENC Co., Ltd.",
+ "stock_code": "065570",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900335",
+ "summary": {
+  "headline": "Samyung ENC amends KRW 13.2bn defense radio supply contract after scope reduction",
+  "what_happened": "Samyung ENC Co., Ltd. filed a corrected disclosure for its single supply contract with the Defense Acquisition Program Administration (방위사업청) for a short-wave communication system. The contract amount was revised from KRW 13,268,000,000 to KRW 13,248,885,115 (about KRW 13.2bn) due to a change in the contract, including the closure of a wireless DMHF communication network that reduced the scope of supply.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 13.2bn (KRW 13,248,885,115)"
+   },
+   {
+    "label": "Original contract amount",
+    "value": "KRW 13.27bn (KRW 13,268,000,000)"
+   },
+   {
+    "label": "Ratio to recent revenue (as stated)",
+    "value": "39.8%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Dec 20, 2024 to Nov 30, 2027"
+   },
+   {
+    "label": "Contract amount reduction",
+    "value": "KRW 19,114,885"
+   }
+  ],
+  "why_it_matters": "In Korea, corrected supply-contract filings typically indicate that the value or scope of a previously disclosed contract has changed, which can affect the revenue expectations that investors may have associated with it. Shareholders usually review such corrections to understand the revised contract size and any conditions attached to it.",
+  "company_short": "Samyung ENC"
+ }
+}

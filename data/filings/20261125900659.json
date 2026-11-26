@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900659",
+ "rcept_dt": "20261125",
+ "corp_code": "00389998",
+ "corp_name": "한성크린텍",
+ "corp_name_eng": "HANSUNG CLEANTECH CO., LTD.",
+ "stock_code": "066980",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900659",
+ "summary": {
+  "headline": "Hansung Cleantech signs KRW 17.8bn supply contract for Pyeongtaek P4 Ph4 ultrapure water plant",
+  "what_happened": "Hansung Cleantech disclosed a revised single supply contract, with the contract amount changed to KRW 17.77bn from KRW 17.64bn, for the 'Pyeongtaek P4 Ph4 ultrapure water complex facility construction project A' with Samsung E&A Co., Ltd. The contract period runs from Nov 5, 2025 to Dec 31, 2026, and the filing notes the contract amount and period may change as construction progresses.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount (excl. VAT)",
+    "value": "KRW 17.77bn"
+   },
+   {
+    "label": "Previous contract amount (as per original disclosure)",
+    "value": "KRW 17.64bn"
+   },
+   {
+    "label": "Share of recent revenue (2024 consolidated)",
+    "value": "11.45%"
+   },
+   {
+    "label": "Recent revenue (2024 consolidated)",
+    "value": "KRW 155.2bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 5, 2025 to Dec 31, 2026"
+   }
+  ],
+  "why_it_matters": "Supply contract disclosures of this type generally report the size and duration of a company's contracted work, which shareholders may use to understand its order backlog and revenue visibility. Amendments to contract amounts are typically disclosed to correct or update previously reported figures.",
+  "company_short": "Hansung Cleantech"
+ }
+}

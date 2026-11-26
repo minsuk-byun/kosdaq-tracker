@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900555",
+ "rcept_dt": "20261124",
+ "corp_code": "00989664",
+ "corp_name": "코아스템켐온",
+ "corp_name_eng": "CORESTEMCHEMON Inc.",
+ "stock_code": "166480",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900555",
+ "summary": {
+  "headline": "CORESTEMCHEMON signs KRW 2.27bn supply contract for 2026 chemical hazard test data production",
+  "what_happened": "On Nov 23, 2026, CORESTEMCHEMON Inc. signed a single supply contract for the production of 2026 chemical substance hazard test data (environmental energy research and survey services) with Incheon Regional Public Procurement Service, with the Korea Environment Corporation as the end-user agency. The contract period runs from Nov 23, 2026 to Nov 18, 2027, and the end date is the delivery deadline. The contract is not conditional, and it is produced in-house.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 2.27bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "11.3%"
+   },
+   {
+    "label": "Recent revenue (FY2025 consolidated)",
+    "value": "KRW 20.16bn"
+   },
+   {
+    "label": "Advance payment",
+    "value": "30% of contract amount, paid within 5 days of tax invoice issuance"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 23, 2026 to Nov 18, 2027"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea are filed when a company wins a contract above a set size threshold, so shareholders can track the company's order flow and revenue visibility. Contract amounts and timing are often subject to change as projects progress, so the figures disclosed at signing may not reflect final results.",
+  "company_short": "CORESTEMCHEMON"
+ }
+}

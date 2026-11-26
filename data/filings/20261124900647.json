@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900647",
+ "rcept_dt": "20261124",
+ "corp_code": "00389110",
+ "corp_name": "지어소프트",
+ "corp_name_eng": "GAEASOFT",
+ "stock_code": "051160",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900647",
+ "summary": {
+  "headline": "GAEASOFT cancels 947,500 treasury common shares, ~KRW 10.0bn book value, Dec 1, 2026",
+  "what_happened": "On Nov 24, 2026, GAEASOFT's board resolved to cancel 947,500 common shares that the company already holds as treasury stock, with an expected cancellation date of Dec 1, 2026. The estimated cancellation amount is KRW 10,012,475,690, based on the book value of the treasury shares as of the board resolution date. After cancellation, the total number of issued common shares is expected to change from 13,482,648 to 12,535,148, with no reduction in share capital.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "947,500"
+   },
+   {
+    "label": "Estimated cancellation amount (book value)",
+    "value": "KRW 10,012,475,690"
+   },
+   {
+    "label": "Issued common shares before cancellation",
+    "value": "13,482,648"
+   },
+   {
+    "label": "Expected issued common shares after cancellation",
+    "value": "12,535,148"
+   },
+   {
+    "label": "Expected cancellation date",
+    "value": "Dec 1, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, cancelling treasury shares reduces the total number of issued shares, so each remaining share represents a larger proportion of the company, while share capital is unchanged. Such cancellations are generally disclosed as a shareholder-value measure, and the filing notes the cancellation date may change depending on coordination with authorities.",
+  "company_short": "GAEASOFT"
+ }
+}

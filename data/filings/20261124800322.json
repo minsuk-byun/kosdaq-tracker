@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261124800322",
+ "rcept_dt": "20261124",
+ "corp_code": "00193328",
+ "corp_name": "수산인더스트리",
+ "corp_name_eng": "SOOSAN INDUSTRIES CO., LTD.",
+ "stock_code": "126720",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800322",
+ "summary": {
+  "headline": "Soosan Industries amends KRW 73.3bn nuclear plant maintenance supply contract with KHNP",
+  "what_happened": "Soosan Industries Co., Ltd. filed a corrected disclosure for a single supply contract for electrical and mechanical maintenance work on Shin-Kori Units 1 and 2, with Korea Hydro & Nuclear Power as the counterparty. The correction follows a change agreement that raised the contract amount from KRW 70.06bn to KRW 73.29bn, and the contract period runs from Aug 1, 2024 to Jul 31, 2027.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 73.29bn (previously KRW 70.06bn)"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "22.57% (previously 21.58%)"
+   },
+   {
+    "label": "Recent revenue (2023 consolidated)",
+    "value": "KRW 324.74bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Aug 1, 2024 to Jul 31, 2027"
+   }
+  ],
+  "why_it_matters": "Single supply or construction contracts of this size are typically disclosed so shareholders can gauge the scale of a company's order backlog relative to its revenue. The filing notes that amounts and periods may change as the work progresses.",
+  "company_short": "Soosan Industries"
+ }
+}

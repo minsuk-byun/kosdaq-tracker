@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900227",
+ "rcept_dt": "20261126",
+ "corp_code": "00611736",
+ "corp_name": "엑시콘",
+ "corp_name_eng": "Exicon Co., Ltd.",
+ "stock_code": "092870",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900227",
+ "summary": {
+  "headline": "Exicon signs KRW 8.04bn CLT Interface Board supply contract with Samsung Electronics",
+  "what_happened": "Exicon Co., Ltd. disclosed on Nov 26, 2026 that it signed a single supply contract to supply CLT Interface Boards to Samsung Electronics, with a contract period from Nov 25, 2026 to Feb 28, 2027. The fixed contract amount is KRW 8.04bn (excluding VAT), with no conditional portion, and payment is due 100% after product supply, with no advance payment. The filing states the contract equals 12.2% of Exicon's most recent revenue (KRW 66.03bn, based on 2025 consolidated financials).",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount (excl. VAT)",
+    "value": "KRW 8.04bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "12.2%"
+   },
+   {
+    "label": "Exicon recent revenue (2025 consolidated)",
+    "value": "KRW 66.03bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Feb 28, 2027"
+   },
+   {
+    "label": "Counterparty recent revenue",
+    "value": "KRW 333.61tn"
+   }
+  ],
+  "why_it_matters": "Single-supply contracts disclosed under Korean exchange rules are typically material revenue announcements that show a company's order flow and the size of a deal relative to its sales. Investors generally use them to gauge near-term revenue visibility, though the scale and terms of each contract vary.",
+  "company_short": "Exicon"
+ }
+}

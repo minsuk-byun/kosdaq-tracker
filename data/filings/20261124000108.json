@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000108",
+ "rcept_dt": "20261124",
+ "corp_code": "00956028",
+ "corp_name": "엑세스바이오",
+ "corp_name_eng": "Access Bio, Inc.",
+ "stock_code": "950130",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000108",
+ "summary": {
+  "headline": "Access Bio to buy back KRW 10bn of shares via trust contract, Nov 30, 2026 – Nov 29, 2027",
+  "what_happened": "On Nov 24, 2026, Access Bio's board resolved to enter into a share buyback trust contract worth KRW 10bn with Korea Investment & Securities as the trust institution, with the contract running from Nov 30, 2026 to Nov 29, 2027 and aimed at stabilizing the share price and enhancing shareholder value. The filing states the company plans to resolve on cancelling the repurchased shares at a shareholders' meeting held after the buyback is completed.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 10bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 30, 2026 – Nov 29, 2027"
+   },
+   {
+    "label": "Planned shares to be acquired (common)",
+    "value": "6,146,281 shares"
+   },
+   {
+    "label": "Expected acquisition price (common)",
+    "value": "KRW 1,627 per share"
+   },
+   {
+    "label": "Distributable profit limit for buybacks",
+    "value": "KRW 461.7bn"
+   }
+  ],
+  "why_it_matters": "In Korea, share buyback trust contracts typically mean a company entrusts a securities firm to purchase its own shares over a set period, which can reduce the number of shares in circulation if the shares are later cancelled. Shareholders are generally affected through changes in share count and per-share value, and such programs are usually framed as measures to support the share price or return value to shareholders.",
+  "company_short": "Access Bio"
+ }
+}

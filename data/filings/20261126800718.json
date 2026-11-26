@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126800718",
+ "rcept_dt": "20261126",
+ "corp_code": "00152880",
+ "corp_name": "코오롱글로벌",
+ "corp_name_eng": "KolonGlobalCorporation CO.,LTD",
+ "stock_code": "003070",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800718",
+ "summary": {
+  "headline": "Kolon Global wins KRW 481.06bn Sejun 4-district redevelopment construction contract with Seoul Housing & Communities Corp.",
+  "what_happened": "Kolon Global filed a corrected disclosure of a single supply contract for the Sejun 4-district urban environment redevelopment construction project in Jongno-gu, Seoul, with Seoul Housing & Communities Corporation as the counterparty. The contract was signed on Jan 15, 2019, and the correction concerns the construction period, which the company says is under discussion with the client, with a construction start planned for Nov 26, 2026 and a period of about 70 months from commencement.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (VAT included)",
+    "value": "KRW 481.06bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "13.17%"
+   },
+   {
+    "label": "Recent revenue (end-2017, consolidated)",
+    "value": "KRW 3.65tn"
+   },
+   {
+    "label": "Planned construction start",
+    "value": "Nov 26, 2026"
+   },
+   {
+    "label": "Construction period from start",
+    "value": "About 70 months"
+   }
+  ],
+  "why_it_matters": "Large construction contract disclosures in Korea typically indicate a sizeable order backlog that can support future revenue for the contractor, and corrections to contract terms such as schedules are commonly made as project details are finalized with the client. Figures in such filings may change as construction progresses.",
+  "company_short": "Kolon Global"
+ }
+}

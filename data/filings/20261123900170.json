@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900170",
+ "rcept_dt": "20261123",
+ "corp_code": "01043853",
+ "corp_name": "아인스팩씨엔에스",
+ "corp_name_eng": "AinsFac CNS Co.,Ltd",
+ "stock_code": "206400",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900170",
+ "summary": {
+  "headline": "AinsFac CNS signs KRW 1.44bn supply contract for battery control controllers with YHT",
+  "what_happened": "AinsFac CNS Co.,Ltd signed a single supply contract worth KRW 1.44bn to design and manufacture secondary battery control controllers domestically, with counterparty YHT Co., Ltd. The contract covers supply to the United States, runs from Oct 1, 2026 to Jul 31, 2027, and was signed on Nov 20, 2026, with the filing dated Nov 23, 2026.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 1.44bn"
+   },
+   {
+    "label": "Recent revenue of AinsFac CNS (FY2025 consolidated)",
+    "value": "KRW 4.77bn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "30.16%"
+   },
+   {
+    "label": "Counterparty recent revenue (FY2025 consolidated)",
+    "value": "KRW 7.81bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Oct 1, 2026 to Jul 31, 2027"
+   }
+  ],
+  "why_it_matters": "Single supply contracts disclosed by Korean listed companies typically show the scale of a new order relative to recent revenue, helping shareholders gauge its potential contribution to future sales. The payment terms, delivery period and counterparty details in such filings are generally used to assess the contract's timing and counterparty relationship.",
+  "company_short": "AinsFac CNS"
+ }
+}

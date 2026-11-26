@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900725",
+ "rcept_dt": "20261126",
+ "corp_code": "01492688",
+ "corp_name": "드림인사이트",
+ "corp_name_eng": "DREAMINSIGHT Co., Ltd.",
+ "stock_code": "362990",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]최대주주변경을수반하는주식양수도계약체결",
+ "event": "control",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900725",
+ "summary": {
+  "headline": "DREAMINSIGHT signs KRW 18bn deal to transfer 41.73% stake, changing largest shareholder",
+  "what_happened": "DREAMINSIGHT Co., Ltd. filed a corrected disclosure on Nov 26, 2026 for a share transfer agreement signed on Nov 20, 2026, under which the former largest shareholder Kim Ki-cheol and three related parties agreed to sell 7,010,710 shares (41.73%) to KBiotech No.1 New Technology Business Investment Fund and Ad Biotech Co., Ltd. for a total of KRW 18bn. The corrected filing changed the payment schedule and transfer dates to reflect an amended agreement with Ad Biotech, and KBiotech No.1 is expected to become the new largest shareholder with 23.18% on Dec 1, 2026.",
+  "key_numbers": [
+   {
+    "label": "Shares transferred",
+    "value": "7,010,710 shares (41.73%)"
+   },
+   {
+    "label": "Total sale price",
+    "value": "KRW 18bn"
+   },
+   {
+    "label": "Expected new largest shareholder stake",
+    "value": "3,894,839 shares (23.18%)"
+   },
+   {
+    "label": "Expected change date",
+    "value": "Dec 1, 2026"
+   },
+   {
+    "label": "Initial deposit",
+    "value": "KRW 500m (paid Nov 20, 2026)"
+   }
+  ],
+  "why_it_matters": "A change of largest shareholder through a share transfer typically signals that control of the listed company is expected to pass to a new party, usually subject to completion of payment and shareholder meeting approvals. Shareholders in Korea generally watch for the final completion disclosure, since schedules and terms can change, as this filing itself shows.",
+  "company_short": "DREAMINSIGHT"
+ }
+}

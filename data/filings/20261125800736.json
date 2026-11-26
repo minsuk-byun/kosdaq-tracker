@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800736",
+ "rcept_dt": "20261125",
+ "corp_code": "00168331",
+ "corp_name": "온타이드",
+ "corp_name_eng": "ONTIDE Corp.",
+ "stock_code": "005320",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주식소각결정",
+ "event": "buyback",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800736",
+ "summary": {
+  "headline": "ONTIDE Corp. cancels 2,087,682 redeemable preferred shares for KRW 4.28bn",
+  "what_happened": "ONTIDE Corp. filed a corrected share cancellation decision, changing the scheduled cancellation date to Nov 25, 2026, with the registration of the change in progress. The board approved the cancellation on Nov 18, 2026, covering 2,087,682 redeemable convertible preferred shares issued on May 18, 2023, for a scheduled cancellation amount of KRW 4.28bn. The filing states the cancellation partly redeems those preferred shares.",
+  "key_numbers": [
+   {
+    "label": "Preferred shares to be cancelled",
+    "value": "2,087,682 shares"
+   },
+   {
+    "label": "Scheduled cancellation amount",
+    "value": "KRW 4.28bn"
+   },
+   {
+    "label": "Principal portion of redemption",
+    "value": "KRW 4.0bn"
+   },
+   {
+    "label": "Interest portion of redemption",
+    "value": "KRW 280m"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Nov 25, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, share cancellations of this kind typically mean a company is retiring shares, which reduces its total issued share count and may affect per-share metrics for shareholders. For redeemable preferred shares, the cancellation usually reflects repayment of the principal and accrued interest to the holders under the original issuance terms.",
+  "company_short": "ONTIDE Corp."
+ }
+}

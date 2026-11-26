@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261125800726",
+ "rcept_dt": "20261125",
+ "corp_code": "00128980",
+ "corp_name": "삼호개발",
+ "corp_name_eng": "SAMHO DEVELOPMENT CO",
+ "stock_code": "010960",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800726",
+ "summary": {
+  "headline": "Samho Development amends KRW 81.4bn Donbu Expressway underground project contract after design change",
+  "what_happened": "Samho Development filed a corrected disclosure on Nov 25, 2026, revising the contract amount for the civil works on the vertical shafts and main tunnel of the Donbu Expressway underground private investment project. The amount was raised from KRW 79.3bn to KRW 81.4bn due to a design change, with the contract counterparty being Hyundai E&C and the work located in Jangan-dong, Dongdaemun-gu, Seoul. The contract runs from Nov 27, 2024 to Sep 1, 2029.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 81.44bn (previously KRW 79.31bn)"
+   },
+   {
+    "label": "Ratio to recent revenue",
+    "value": "22.50% (previously 21.91%)"
+   },
+   {
+    "label": "Recent revenue (FY2023, K-IFRS consolidated)",
+    "value": "KRW 361.92bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 27, 2024 to Sep 1, 2029"
+   }
+  ],
+  "why_it_matters": "Corrected supply contract filings in Korea typically signal a change in the value or scope of an existing contract, such as a design modification, and are generally intended to keep shareholders informed of revisions to previously disclosed contract figures. Contract amounts and work periods may still change as construction progresses.",
+  "company_short": "Samho Development"
+ }
+}

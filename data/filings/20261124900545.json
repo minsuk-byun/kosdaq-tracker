@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900545",
+ "rcept_dt": "20261124",
+ "corp_code": "00942131",
+ "corp_name": "앤디포스",
+ "corp_name_eng": "NDFOS CO., LTD.",
+ "stock_code": "238090",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900545",
+ "summary": {
+  "headline": "NDFOS to cancel 780,757 treasury common shares, KRW 3.16bn book value, on Nov 30, 2026",
+  "what_happened": "On Nov 24, 2026, the board of NDFOS CO., LTD. resolved to cancel 780,757 common shares that the company already held as treasury stock, under the proviso of Article 343(1) of the Korean Commercial Act. The scheduled cancellation date is Nov 30, 2026, and the filing notes this date may change depending on consultations with relevant authorities.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "780,757 shares"
+   },
+   {
+    "label": "Total issued common shares before cancellation",
+    "value": "30,490,440 shares"
+   },
+   {
+    "label": "Scheduled cancellation amount (book value)",
+    "value": "KRW 3.16bn"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Nov 30, 2026"
+   },
+   {
+    "label": "Board resolution date",
+    "value": "Nov 24, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, cancelling treasury shares generally reduces the total number of issued shares, which changes each remaining shareholder's proportional stake, while the filing states that share capital is not reduced. Such cancellations are typically disclosed as a capital-efficiency or shareholder-value measure, and the filing itself gives this purpose.",
+  "company_short": "NDFOS"
+ }
+}

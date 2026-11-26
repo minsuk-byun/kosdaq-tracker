@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900156",
+ "rcept_dt": "20261125",
+ "corp_code": "00577335",
+ "corp_name": "대성하이텍",
+ "corp_name_eng": "Daesung Hi-Tech Co., Ltd.",
+ "stock_code": "129920",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900156",
+ "summary": {
+  "headline": "Daesung Hi-Tech signs KRW 22.5bn chip test-parts equipment supply deal with China's Jiangsu Hanchuang",
+  "what_happened": "On Nov 24, 2026, Daesung Hi-Tech Co., Ltd. signed a single supply contract with JIANGSU HANCHUANG MACHINERY CO., LTD for equipment used to manufacture parts for semiconductor back-end testing, with 100% of the deal being exports to China. The contract period runs from Nov 24, 2026 to Aug 31, 2028, and includes an advance payment of CNY 9,000,000 due Nov 30, 2026.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (KRW)",
+    "value": "KRW 22.5bn"
+   },
+   {
+    "label": "Contract amount (CNY)",
+    "value": "CNY 111,500,000"
+   },
+   {
+    "label": "Share of latest revenue",
+    "value": "23.63% (vs. KRW 95.2bn latest revenue)"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Aug 31, 2028"
+   },
+   {
+    "label": "Advance payment",
+    "value": "CNY 9,000,000 (due Nov 30, 2026)"
+   }
+  ],
+  "why_it_matters": "Large supply contracts disclosed under Korean exchange rules typically indicate a company's order backlog and the scale of a deal relative to its recent sales, which investors often use to gauge near-term business activity. The filing also notes that the KRW amount is converted at the Nov 24, 2026 exchange rate and that the price may be renegotiated if the KRW/CNY rate moves more than ±10%.",
+  "company_short": "Daesung Hi-Tech"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800356",
+ "rcept_dt": "20261125",
+ "corp_code": "00858364",
+ "corp_name": "BNK금융지주",
+ "corp_name_eng": "BNK Financial Group Inc.",
+ "stock_code": "138930",
+ "corp_cls": "Y",
+ "report_nm": "현금ㆍ현물배당결정(자회사의 주요경영사항)",
+ "event": "dividend",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800356",
+ "summary": {
+  "headline": "BNK Financial Group unit BNK Investment & Securities declares KRW 27bn interim cash dividend",
+  "what_happened": "On Nov 25, 2026, the board of BNK Investment & Securities, a subsidiary of BNK Financial Group Inc., resolved an interim cash dividend of KRW 737 per common share, with total dividends of KRW 27bn. The record date is Nov 25, 2026, and payment is scheduled for Dec 10, 2026. The dividend is paid to the parent holding company, BNK Financial Group Inc., and no shareholders' meeting was held for this decision.",
+  "key_numbers": [
+   {
+    "label": "Dividend per common share",
+    "value": "KRW 737"
+   },
+   {
+    "label": "Total dividend amount",
+    "value": "KRW 27bn"
+   },
+   {
+    "label": "Record date",
+    "value": "Nov 25, 2026"
+   },
+   {
+    "label": "Scheduled payment date",
+    "value": "Dec 10, 2026"
+   },
+   {
+    "label": "Subsidiary's share of total assets",
+    "value": "10.79% (as of Dec 31, 2025)"
+   }
+  ],
+  "why_it_matters": "In Korea, interim cash dividends declared by a subsidiary are typically paid to its parent company, and they can affect the cash flow available to the group at holding-company level. For shareholders, such filings generally indicate a distribution of earnings within the group rather than a direct payout to public investors.",
+  "company_short": "BNK Financial Group"
+ }
+}

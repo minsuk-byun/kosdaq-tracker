@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000421",
+ "rcept_dt": "20261125",
+ "corp_code": "01448544",
+ "corp_name": "셀로맥스사이언스",
+ "corp_name_eng": "Cellromax Science Co., Ltd.",
+ "stock_code": "471820",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000421",
+ "summary": {
+  "headline": "Cellromax Science approves KRW 700m share buyback trust contract with Shinyoung Securities",
+  "what_happened": "On Nov 25, 2026, Cellromax Science's board resolved to enter into a share buyback trust contract with Shinyoung Securities, with a contract amount of KRW 700m, running from Nov 26, 2026 to May 25, 2027. The stated purpose is share price stabilization and enhancing shareholder value, and the company plans to acquire 234,899 common shares at a reference price of KRW 2,980 (the prior day's closing price), with the actual number of shares depending on price movements.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 700m"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to May 25, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "234,899 common shares"
+   },
+   {
+    "label": "Reference acquisition price",
+    "value": "KRW 2,980 per share"
+   },
+   {
+    "label": "Treasury shares held before contract (current holdings)",
+    "value": "206,607 common shares (1.83%)"
+   }
+  ],
+  "why_it_matters": "Share buyback trust contracts generally mean a company entrusts a securities firm to repurchase its own shares over a set period, which can reduce the number of shares in circulation and is often used to support the share price or return value to shareholders. The final number of shares acquired and the holding period may differ from the planned figures depending on market prices and company circumstances.",
+  "company_short": "Cellromax Science"
+ }
+}

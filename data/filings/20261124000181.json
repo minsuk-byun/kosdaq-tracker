@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000181",
+ "rcept_dt": "20261124",
+ "corp_code": "01207716",
+ "corp_name": "앱코",
+ "corp_name_eng": "ABKO CO., LTD.",
+ "stock_code": "129890",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000181",
+ "summary": {
+  "headline": "ABKO CO., LTD. signs KRW 3bn share buyback trust contract with KB Securities",
+  "what_happened": "On Nov 24, 2026, ABKO CO., LTD. decided to enter into a share buyback trust contract worth KRW 3bn with KB Securities, running from Nov 24, 2026 to May 23, 2027. The stated purpose is to enhance shareholder value and stabilize the share price, and the filing estimates acquisition of 3,508,771 common shares at KRW 855 per share.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 3bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to May 23, 2027"
+   },
+   {
+    "label": "Estimated common shares to be acquired",
+    "value": "3,508,771 shares"
+   },
+   {
+    "label": "Price per share (reference)",
+    "value": "KRW 855"
+   },
+   {
+    "label": "Maximum buyback limit under distributable profit",
+    "value": "KRW 39.7bn"
+   }
+  ],
+  "why_it_matters": "A share buyback trust contract means a company entrusts a securities firm to repurchase its own shares over a set period, which can support the share price and reduce shares outstanding if the shares are later cancelled. Actual quantities and prices may differ from the estimates in the filing depending on market movements.",
+  "company_short": "ABKO"
+ }
+}

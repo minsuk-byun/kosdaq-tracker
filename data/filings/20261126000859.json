@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000859",
+ "rcept_dt": "20261126",
+ "corp_code": "00618410",
+ "corp_name": "KS인더스트리",
+ "corp_name_eng": "KS Industry Co., Ltd.",
+ "stock_code": "101000",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000859",
+ "summary": {
+  "headline": "KS Industry corrects rights offering: 4,170,141 new shares to (주)이메디슨, payment moved to Jan 15, 2027",
+  "what_happened": "KS Industry Co., Ltd. filed a corrected disclosure (정정신고) for its third-party allotment rights offering, first submitted on Oct 15, 2026. The correction moves the payment date from Nov 26, 2026 to Jan 15, 2027, the dividend start date to Jan 1, 2027, and the listing date of the new shares to Feb 1, 2027. The company says the schedule change was made in coordination with the allottee and that the new shares are to be issued to (주)이메디슨 at KRW 1,199 per share.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "4,170,141 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,199"
+   },
+   {
+    "label": "Payment date (corrected)",
+    "value": "Jan 15, 2027 (previously Nov 26, 2026)"
+   },
+   {
+    "label": "Planned operating funds",
+    "value": "KRW 2,400m"
+   },
+   {
+    "label": "Debt repayment funds",
+    "value": "KRW 2.6bn"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to a selected party rather than to existing shareholders, which can change the share count and ownership structure. Corrections to payment or listing dates are typically disclosed to update the timetable for investors and the allottee.",
+  "company_short": "KS Industry"
+ }
+}

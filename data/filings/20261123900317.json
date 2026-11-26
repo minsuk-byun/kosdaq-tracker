@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900317",
+ "rcept_dt": "20261123",
+ "corp_code": "01141599",
+ "corp_name": "아리바이오LAB",
+ "corp_name_eng": "ARIBIOLAB",
+ "stock_code": "261780",
+ "corp_cls": "K",
+ "report_nm": "최대주주변경을수반하는주식담보제공계약체결",
+ "event": "control",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900317",
+ "summary": {
+  "headline": "ARIBIOLAB's largest shareholder pledges 3.95m shares as collateral for KRW 4bn loan",
+  "what_happened": "On Nov 23, 2026, ARIBIOLAB's largest shareholder, Aribio Holdings Co., Ltd., entered into a share pledge agreement covering 3,948,813 shares of ARIBIOLAB, equal to 13.64% of the company. The pledge secures a loan from Aribio Co., Ltd. with a collateral amount of KRW 6bn against borrowings of KRW 4bn, with the pledge period running from Nov 23, 2026 to Nov 22, 2027. The filing states the loan purpose as repayment of existing borrowings, and the disclosure is classified as involving a change of largest shareholder.",
+  "key_numbers": [
+   {
+    "label": "Shares pledged",
+    "value": "3,948,813 shares (13.64%)"
+   },
+   {
+    "label": "Borrowings (debt amount)",
+    "value": "KRW 4bn"
+   },
+   {
+    "label": "Collateral amount secured",
+    "value": "KRW 6bn"
+   },
+   {
+    "label": "Pledge period",
+    "value": "Nov 23, 2026 to Nov 22, 2027"
+   },
+   {
+    "label": "Largest shareholder's stake after full enforcement",
+    "value": "0 shares (0%)"
+   }
+  ],
+  "why_it_matters": "Share pledges by major shareholders are commonly used to secure loans; shareholders should note that if the borrower defaults, the pledged shares may be enforced and could change ownership. Filings involving a change of largest shareholder are typically disclosed so that investors can track potential shifts in control of a listed company.",
+  "company_short": "ARIBIOLAB"
+ }
+}

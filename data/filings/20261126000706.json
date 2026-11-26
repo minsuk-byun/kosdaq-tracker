@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000706",
+ "rcept_dt": "20261126",
+ "corp_code": "00398701",
+ "corp_name": "엘앤에프",
+ "corp_name_eng": "L&F CO.,LTD",
+ "stock_code": "066970",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000706",
+ "summary": {
+  "headline": "L&F Co., Ltd. approves KRW 30.3bn 10th private convertible bond issue, due Nov 27, 2056",
+  "what_happened": "L&F CO., LTD's board approved on Nov 19, 2026 the issuance of its 10th unregistered, unsecured, private convertible bond with a total face value of KRW 30.3bn, with funds to be used for operating expenses. The filing corrects earlier versions (filed Nov 19, 2026) on the maturity redemption rate, the compounding basis of the guaranteed yield and related early-redemption terms, and it was resubmitted on Nov 26, 2026. Subscription and payment are scheduled for Nov 27, 2026.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 30.3bn"
+   },
+   {
+    "label": "Conversion price per share",
+    "value": "KRW 78,937"
+   },
+   {
+    "label": "Maximum shares issuable on conversion",
+    "value": "383,850 shares (0.93% of total shares)"
+   },
+   {
+    "label": "Coupon rate / guaranteed yield",
+    "value": "0.0% coupon; 3.0% guaranteed yield (compounded every 3 months)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Nov 27, 2056"
+   },
+   {
+    "label": "Maturity redemption rate (corrected)",
+    "value": "245.1357%"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances can lead to new shares if bondholders convert, which may dilute existing shareholders' holdings, and their terms (conversion price, redemption and interest features) determine how that dilution could occur. Shareholders typically review such filings for the conversion price relative to the market and any early-redemption or interest-deferral provisions.",
+  "company_short": "L&F"
+ }
+}

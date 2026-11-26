@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000908",
+ "rcept_dt": "20261126",
+ "corp_code": "00367695",
+ "corp_name": "에이전트AI",
+ "corp_name_eng": "Agent AI Co.,Ltd.",
+ "stock_code": "060900",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000908",
+ "summary": {
+  "headline": "Agent AI Co.,Ltd. decides KRW 7bn third-party rights offering of 3,426,334 common shares",
+  "what_happened": "On Oct 26, 2026, Agent AI Co.,Ltd.'s board approved a third-party allotment rights offering of 3,426,334 common shares at KRW 2,043 per share, with a par value of KRW 500. The proceeds are to be used for operating funds, including renewable energy development projects and general operations, and the offering was allocated to Prime Value Investment Partnership, identified as the largest shareholder. The filing amends the payment date to Dec 16, 2026 and the listing date of the new shares to Jan 8, 2027.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "3,426,334 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 2,043"
+   },
+   {
+    "label": "Total operating funds raised",
+    "value": "KRW 7bn"
+   },
+   {
+    "label": "Payment date (amended)",
+    "value": "Dec 16, 2026"
+   },
+   {
+    "label": "Expected listing date of new shares (amended)",
+    "value": "Jan 8, 2027"
+   }
+  ],
+  "why_it_matters": "A third-party allotment rights offering issues new shares to a selected investor rather than to existing shareholders in proportion to their holdings, which can dilute the ownership of existing shareholders. Such filings typically indicate how the company intends to raise capital and what restrictions, such as lock-up periods, apply to the newly issued shares.",
+  "company_short": "Agent AI"
+ }
+}

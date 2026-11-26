@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000593",
+ "rcept_dt": "20261125",
+ "corp_code": "00104120",
+ "corp_name": "광진실업",
+ "corp_name_eng": "KwangjinInd",
+ "stock_code": "026910",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000593",
+ "summary": {
+  "headline": "KwangjinInd issues KRW 10bn convertible bonds; maturity and conversion terms revised in correction filing",
+  "what_happened": "KwangjinInd (광진실업) filed a corrected report on Nov 25, 2026 on its convertible bond issuance decided on Nov 2, 2026. The corrected filing changes the maturity date from Nov 26, 2029 to Jan 14, 2030, the conversion price from KRW 3,850 to KRW 1,518 per share, and the conversion period and payment date, which is now Jan 14, 2027.",
+  "key_numbers": [
+   {
+    "label": "Total bond issue amount",
+    "value": "KRW 10bn"
+   },
+   {
+    "label": "Conversion price (before → after correction)",
+    "value": "KRW 3,850 → KRW 1,518 per share"
+   },
+   {
+    "label": "Maturity date (after correction)",
+    "value": "Jan 14, 2030"
+   },
+   {
+    "label": "Coupon rate",
+    "value": "3.0% per year"
+   },
+   {
+    "label": "Shares issuable on conversion (after correction)",
+    "value": "6,587,617 shares (76.48% of total shares)"
+   }
+  ],
+  "why_it_matters": "In Korea, convertible bond filings and corrections generally signal potential future dilution, since bonds may be converted into new shares at a set price, and changes to conversion price or share count can affect existing shareholders' ownership percentage. Corrections typically reflect changes in subscriber details or issuance terms, which shareholders may want to review in the full filing.",
+  "company_short": "KwangjinInd"
+ }
+}

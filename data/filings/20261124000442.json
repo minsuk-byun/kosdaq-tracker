@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000442",
+ "rcept_dt": "20261124",
+ "corp_code": "00116426",
+ "corp_name": "이렘",
+ "corp_name_eng": "IREM Co.,Ltd.",
+ "stock_code": "009730",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000442",
+ "summary": {
+  "headline": "IREM Co.,Ltd. issues KRW 2.5bn private convertible bonds (25th series), conversion price KRW 2,130",
+  "what_happened": "IREM Co.,Ltd. decided on Aug 7, 2026 to issue its 25th series of unlisted, unguaranteed convertible bonds via private placement, with a total face value of KRW 2.5bn (KRW 2,499,000,000) and a maturity date of Aug 18, 2031. The initial conversion price is KRW 2,130 per share, and the filing states the bonds will be paid for in part by transferring shares of a company named 원픽이앤씨 (Onepick E&C). This report is a corrected filing (정정신고) that amends the original filing first submitted on Aug 7, 2026.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 2.5bn (KRW 2,499,000,000)"
+   },
+   {
+    "label": "Initial conversion price",
+    "value": "KRW 2,130 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "1,173,239 shares (14.55% of total shares)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Aug 18, 2031"
+   },
+   {
+    "label": "Lowest adjusted conversion price",
+    "value": "KRW 1,491"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances can lead to dilution of existing shareholders if the bonds are converted into new shares, and conversion price adjustment clauses can change the number of shares issued over time. Private placements of this kind are generally sold to a limited group of investors rather than the public.",
+  "company_short": "IREM"
+ }
+}

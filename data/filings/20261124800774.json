@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800774",
+ "rcept_dt": "20261124",
+ "corp_code": "00158501",
+ "corp_name": "에스원",
+ "corp_name_eng": "S-1 CORPORATION",
+ "stock_code": "012750",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800774",
+ "summary": {
+  "headline": "S-1 Corporation to cancel 4,188,939 treasury shares, worth KRW 155.8bn, on Nov 30, 2026",
+  "what_happened": "On Nov 24, 2026, S-1 Corporation's board resolved to cancel 4,188,939 common shares, all previously acquired treasury shares, with the cancellation scheduled for Nov 30, 2026. The estimated cancellation amount is KRW 155.8bn, based on the book value of the treasury shares as of the board resolution date. The filing states that the cancellation does not reduce share capital.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "4,188,939"
+   },
+   {
+    "label": "Total issued common shares",
+    "value": "37,999,178"
+   },
+   {
+    "label": "Estimated cancellation amount",
+    "value": "KRW 155.8bn"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Nov 30, 2026"
+   }
+  ],
+  "why_it_matters": "When a Korean company cancels treasury shares, the total number of issued shares falls, which can change each remaining shareholder's proportional ownership. Companies typically announce such cancellations as a way to return value to shareholders, and under Korean Commercial Act Article 343, cancellation without a capital reduction is limited to distributable profits.",
+  "company_short": "S-1 Corporation"
+ }
+}

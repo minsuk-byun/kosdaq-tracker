@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261125900570",
+ "rcept_dt": "20261125",
+ "corp_code": "01787355",
+ "corp_name": "나라스페이스테크놀로지",
+ "corp_name_eng": "Nara Space Technology Inc.",
+ "stock_code": "478340",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900570",
+ "summary": {
+  "headline": "Nara Space Technology wins KRW 10.1bn satellite development contract with K-water, 76.39% of recent revenue",
+  "what_happened": "Nara Space Technology signed a single supply contract on Nov 25, 2026 with Korea Water Resources Corporation (K-water) to develop the K-waterSAT small constellation satellite for water resources. The contract runs from Nov 25, 2026 to Mar 8, 2030, with a contract amount of KRW 10.12bn excluding VAT, and the company will produce it in-house.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 10.12bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "76.39%"
+   },
+   {
+    "label": "Recent revenue (FY2025, standalone)",
+    "value": "KRW 13.24bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Mar 8, 2030"
+   }
+  ],
+  "why_it_matters": "Large supply contracts disclosed under Korean exchange rules generally indicate a significant order relative to a company's revenue, and they typically set out the expected revenue schedule and payment terms, which can affect future reported sales. Contract amounts and periods may change as projects progress.",
+  "company_short": "Nara Space Technology"
+ }
+}

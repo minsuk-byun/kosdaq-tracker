@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900254",
+ "rcept_dt": "20261126",
+ "corp_code": "00524421",
+ "corp_name": "테스",
+ "corp_name_eng": "TESCO.,LTD.",
+ "stock_code": "095610",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900254",
+ "summary": {
+  "headline": "TESCO Ltd. cancels 200,000 common treasury shares, KRW 5.1bn book value, effective Dec 4, 2026",
+  "what_happened": "On Nov 26, 2026, the board of TESCO., LTD. resolved to cancel 200,000 common shares it already held as treasury stock, under the proviso of Article 343(1) of the Korean Commercial Act, out of distributable profits. The estimated cancellation amount is KRW 5.1bn, based on book value (acquisition cost) as of the board resolution date, and the scheduled cancellation date is Dec 4, 2026, which may change through consultation with authorities. The filing states that only the total number of issued shares decreases, with no reduction in capital stock.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "200,000"
+   },
+   {
+    "label": "Total issued common shares (before cancellation)",
+    "value": "19,360,000"
+   },
+   {
+    "label": "Estimated cancellation amount (book value)",
+    "value": "KRW 5.1bn"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 4, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, cancelling treasury shares generally reduces the total number of issued shares, which can change each remaining shareholder's proportional ownership, while capital stock typically stays the same. Such cancellations are often made to reduce the outstanding share count, and the scheduled date may be adjusted during regulatory coordination.",
+  "company_short": "TESCO"
+ }
+}

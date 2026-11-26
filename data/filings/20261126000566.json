@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000566",
+ "rcept_dt": "20261126",
+ "corp_code": "00302582",
+ "corp_name": "캐스텍코리아",
+ "corp_name_eng": "CASTEC KOREA CO.,LTD",
+ "stock_code": "071850",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000566",
+ "summary": {
+  "headline": "CASTEC KOREA plans KRW 3.0bn rights offering of 2,516,778 common shares at KRW 1,192",
+  "what_happened": "On Nov 26, 2026, CASTEC KOREA's board resolved a public rights offering of 2,516,778 new common shares at a fixed issue price of KRW 1,192 per share, with subscriptions scheduled for Nov 30 to Dec 1, 2026. The offering is being conducted as a small-scale public offering (under KRW 3bn), so no securities registration statement or prospectus is required, and funds raised are earmarked for operating capital.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "2,516,778 shares"
+   },
+   {
+    "label": "Fixed issue price per share",
+    "value": "KRW 1,192"
+   },
+   {
+    "label": "Funds for operating capital",
+    "value": "KRW 3.0bn (2,999,999,376 won)"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "24,260,938 common shares"
+   },
+   {
+    "label": "Subscription period",
+    "value": "Nov 30, 2026 to Dec 1, 2026"
+   },
+   {
+    "label": "Payment date / listing date",
+    "value": "Dec 4, 2026 / Dec 18, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a rights offering of new shares to the public can dilute the ownership percentage of existing shareholders who do not participate, and the issue price relative to the market price affects the dilution impact. Small-scale public offerings are subject to lighter disclosure requirements, so investors typically review the company's periodic and ad hoc disclosures on DART before deciding to subscribe.",
+  "company_short": "CASTEC KOREA"
+ }
+}

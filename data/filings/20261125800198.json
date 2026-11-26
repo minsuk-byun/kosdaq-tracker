@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800198",
+ "rcept_dt": "20261125",
+ "corp_code": "00152862",
+ "corp_name": "코오롱",
+ "corp_name_eng": "KOLON CORPORATION",
+ "stock_code": "002020",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800198",
+ "summary": {
+  "headline": "Kolon Corporation's subsidiary Kolon Global raises Pyeongtaek office construction contract to KRW 1.02tn",
+  "what_happened": "Kolon Global, a subsidiary of KOLON CORPORATION, filed a corrected disclosure for its construction contract for the Pyeongtaek office building No. 6 project with Samsung Electronics Co., Ltd. The contract amount was increased from KRW 518bn to KRW 1.02tn, and the contract end date was changed from Apr 30, 2029 to Jan 31, 2029, due to a change in construction amount and period.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 1.02tn (previously KRW 518bn)"
+   },
+   {
+    "label": "Share of recent revenue (revised)",
+    "value": "39.01% (previously 19.92%)"
+   },
+   {
+    "label": "Revised contract end date",
+    "value": "Jan 31, 2029 (previously Apr 30, 2029)"
+   },
+   {
+    "label": "Construction start date",
+    "value": "Feb 28, 2023"
+   },
+   {
+    "label": "Contract signing date",
+    "value": "Dec 19, 2023"
+   }
+  ],
+  "why_it_matters": "Large construction supply contracts disclosed by a subsidiary generally indicate changes in the size and timing of a group company's order backlog, which can affect expected future revenue. Corrected filings typically reflect amendments to contract value or schedule that shareholders may wish to review against the original disclosure.",
+  "company_short": "Kolon Corporation"
+ }
+}

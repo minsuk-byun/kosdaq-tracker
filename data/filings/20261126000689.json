@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000689",
+ "rcept_dt": "20261126",
+ "corp_code": "01095722",
+ "corp_name": "심텍",
+ "corp_name_eng": "SIMMTECH Co., Ltd.",
+ "stock_code": "222800",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000689",
+ "summary": {
+  "headline": "SIMMTECH issues KRW 150bn private convertible bonds (Round 11) to fund AI-related substrate capacity",
+  "what_happened": "On Nov 26, 2026, SIMMTECH's board approved the issuance of its 11th series of unsecured, subordinated-type perpetual convertible bonds through a private placement, with a total face value of KRW 150bn. The bonds carry a 3.0% coupon, and the proceeds are designated entirely as facility funding for expanding production capacity of SOCAMM module substrates and high-layer MSAP substrates for AI applications, over the period Dec 2026 to Dec 2027. The bonds are convertible into 1,409,906 common shares at an initial conversion price of KRW 106,390, and the subscriber payment date is Dec 4, 2026.",
+  "key_numbers": [
+   {
+    "label": "Total bond issuance amount",
+    "value": "KRW 150bn"
+   },
+   {
+    "label": "Coupon (face and maturity yield)",
+    "value": "3.0%"
+   },
+   {
+    "label": "Initial conversion price",
+    "value": "KRW 106,390 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "1,409,906 (3.54% of total issued shares)"
+   },
+   {
+    "label": "Facility funding investment period",
+    "value": "Dec 2026 to Dec 2027, KRW 150bn"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances can dilute existing shareholders if bondholders convert into new shares, and can be used by companies to raise capital without immediate cash repayment obligations. Terms such as put/call options, interest deferral rights, and conversion price adjustments affect the potential future impact on shareholders and should be reviewed in the full filing.",
+  "company_short": "SIMMTECH"
+ }
+}

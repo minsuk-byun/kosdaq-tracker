@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126900606",
+ "rcept_dt": "20261126",
+ "corp_code": "01114586",
+ "corp_name": "셀레믹스",
+ "corp_name_eng": "Celemics, Inc.",
+ "stock_code": "331920",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]최대주주변경을수반하는주식담보제공계약체결",
+ "event": "control",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900606",
+ "summary": {
+  "headline": "Celemics: Largest shareholder Park Jong-gap pledges 487,425 shares as collateral for KRW 3.5bn loan",
+  "what_happened": "On Nov 26, 2026, Celemics filed a corrected report on a share pledge agreement involving its largest shareholder, Park Jong-gap, who pledged part of his holdings as collateral and guarantor for a loan taken by G&M Co., Ltd. The collateral type was changed from an assignment of collateral to a pledge (질권) on Nov 17, 2026, and the creditor changed following a refinancing of existing debt on Oct 13, 2026. Park retains voting rights over the pledged shares during the pledge period.",
+  "key_numbers": [
+   {
+    "label": "Loan / secured amount",
+    "value": "KRW 3.5bn"
+   },
+   {
+    "label": "Shares pledged",
+    "value": "487,425 shares"
+   },
+   {
+    "label": "Largest shareholder's holding at filing date",
+    "value": "1,248,171 shares (11.16%)"
+   },
+   {
+    "label": "Holding if all pledged shares were enforced",
+    "value": "760,746 shares (6.80%)"
+   },
+   {
+    "label": "Pledge period",
+    "value": "Oct 14, 2026 to Dec 15, 2026"
+   },
+   {
+    "label": "Enforcement trigger: share price",
+    "value": "Intraday trade price below KRW 9,000"
+   }
+  ],
+  "why_it_matters": "In Korea, share pledges by major shareholders are disclosed because, if the loan defaults and the pledge is enforced, the pledged shares could be transferred to the creditor, potentially changing the largest shareholder's stake and control. Investors typically watch the size of pledged shares relative to holdings and the price levels that trigger enforcement.",
+  "company_short": "Celemics"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900699",
+ "rcept_dt": "20261123",
+ "corp_code": "01492688",
+ "corp_name": "드림인사이트",
+ "corp_name_eng": "DREAMINSIGHT Co., Ltd.",
+ "stock_code": "362990",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]최대주주변경을수반하는주식양수도계약체결",
+ "event": "control",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900699",
+ "summary": {
+  "headline": "DREAMINSIGHT: Largest shareholder to change via KRW 18bn share sale agreement (41.73%)",
+  "what_happened": "On Nov 20, 2026, DREAMINSIGHT Co., Ltd. disclosed a share sale and purchase agreement under which Kim Gi-cheol and three other sellers, all related parties of the current largest shareholder, will transfer 7,010,710 shares (41.73%) to KCapital Biotech Fund No. 1 and another buyer for KRW 18bn. The filing amends the expected closing date from Nov 23, 2026 to Nov 26, 2026, the date on which the balance payment and share transfer are scheduled to complete and the largest shareholder change is expected to take effect.",
+  "key_numbers": [
+   {
+    "label": "Total purchase price",
+    "value": "KRW 18bn"
+   },
+   {
+    "label": "Shares transferred",
+    "value": "7,010,710 shares (41.73%)"
+   },
+   {
+    "label": "Down payment (paid Nov 20, 2026)",
+    "value": "KRW 500m"
+   },
+   {
+    "label": "Balance payment (expected Nov 26, 2026)",
+    "value": "KRW 17.5bn"
+   },
+   {
+    "label": "Expected largest shareholder post-closing",
+    "value": "KCapital Biotech Fund No. 1 – 3,894,839 shares (23.18%)"
+   }
+  ],
+  "why_it_matters": "A change of largest shareholder usually signals that control of a listed company is moving to a new party, which can affect management appointments and the company's future direction. Such transactions are typically disclosed in advance with a closing date, and shareholders often watch for the final completion filing that confirms the change.",
+  "company_short": "DREAMINSIGHT"
+ }
+}

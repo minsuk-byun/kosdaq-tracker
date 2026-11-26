@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800619",
+ "rcept_dt": "20261124",
+ "corp_code": "00119195",
+ "corp_name": "동화약품",
+ "corp_name_eng": "DONGWHA PHARM.CO.,LTD",
+ "stock_code": "000020",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800619",
+ "summary": {
+  "headline": "Dongwha Pharm to cancel 213,540 treasury common shares, worth KRW 1.66bn, on Dec 7, 2026",
+  "what_happened": "On Nov 24, 2026, Dongwha Pharm's board resolved to cancel 213,540 common shares held as treasury stock, with an expected cancellation amount of KRW 1.66bn based on the book value of treasury shares on the balance sheet. The cancellation is scheduled for Dec 7, 2026, subject to change depending on consultations with relevant authorities, and the filing states there is no reduction in share capital.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "213,540 shares"
+   },
+   {
+    "label": "Total issued common shares before cancellation",
+    "value": "27,931,470 shares"
+   },
+   {
+    "label": "Expected cancellation amount",
+    "value": "KRW 1.66bn"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 1,000"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 7, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a treasury share cancellation generally removes shares the company already holds from the total number of issued shares, which can change each remaining shareholder's proportional ownership. Such filings typically do not change share capital when the cancellation is made from distributable earnings, as this filing states.",
+  "company_short": "Dongwha Pharm"
+ }
+}

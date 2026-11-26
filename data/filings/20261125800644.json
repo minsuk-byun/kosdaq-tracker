@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800644",
+ "rcept_dt": "20261125",
+ "corp_code": "00480455",
+ "corp_name": "STX엔진",
+ "corp_name_eng": "STX Engine Co,.Ltd",
+ "stock_code": "077970",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800644",
+ "summary": {
+  "headline": "STX Engine amends marine engine supply contract to KRW 137.5bn after option deal takes effect",
+  "what_happened": "STX Engine Co., Ltd filed a corrected disclosure on Nov 25, 2026 for its marine engine supply contract with New Times Shipbuilding Co., Ltd of China, signed on Jul 27, 2026. The correction follows the taking effect of an additional option contract, which raised the contract amount from KRW 78.6bn to KRW 137.5bn and extended the contract end date from Jul 25, 2029 to Jun 16, 2030. The company states the amount is converted from USD 93.8m at the Jul 27, 2026 base exchange rate of 1,466.30 won and excludes VAT.",
+  "key_numbers": [
+   {
+    "label": "Corrected contract amount",
+    "value": "KRW 137.5bn (previously KRW 78.6bn)"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "17.4% (previously 9.96%)"
+   },
+   {
+    "label": "Total contract value in USD",
+    "value": "USD 93.8m"
+   },
+   {
+    "label": "Contract end date",
+    "value": "Jun 16, 2030 (previously Jul 25, 2029)"
+   },
+   {
+    "label": "Payment terms",
+    "value": "20% advance payment, 80% balance"
+   }
+  ],
+  "why_it_matters": "In Korea, supply contract disclosures and corrections typically inform shareholders about changes in a company's order backlog, expected contract scale, and the timing of future revenue. Corrections like this one generally reflect updated contract values or terms, and the filing notes that amounts and periods may change as projects progress.",
+  "company_short": "STX Engine"
+ }
+}

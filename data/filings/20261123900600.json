@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900600",
+ "rcept_dt": "20261123",
+ "corp_code": "01708163",
+ "corp_name": "엔알비",
+ "corp_name_eng": "NRB, inc",
+ "stock_code": "475230",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900600",
+ "summary": {
+  "headline": "NRB Inc. amends modular barracks supply contract, KRW 3.87bn; end date extended to Dec 31, 2027",
+  "what_happened": "NRB Inc. filed a corrected disclosure for its single supply contract with a military unit for the construction and installation of modular officer quarters in Muan, Jeollanam-do, under a change agreement. The contract end date was revised from Dec 1, 2026 to Dec 31, 2027, and the contract was awarded on Dec 23, 2025, with a fixed contract amount of KRW 3.87bn. The filing states that the contract is performed by manufacturing prefabricated building modules and transporting and installing them on site.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 3.87bn"
+   },
+   {
+    "label": "Ratio to recent revenue (as stated)",
+    "value": "7.33%"
+   },
+   {
+    "label": "Recent revenue (FY2024 consolidated, as stated)",
+    "value": "KRW 52.8bn"
+   },
+   {
+    "label": "Revised contract end date",
+    "value": "Dec 31, 2027 (previously Dec 1, 2026)"
+   },
+   {
+    "label": "Contract start date",
+    "value": "Dec 23, 2025"
+   }
+  ],
+  "why_it_matters": "Supply contract disclosures of this type report the value, term and scope of a company's order backlog, which helps shareholders gauge the scale and timing of expected future revenue. Corrections that extend contract end dates typically indicate a change in the performance schedule agreed with the client.",
+  "company_short": "NRB Inc."
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900422",
+ "rcept_dt": "20261124",
+ "corp_code": "01170865",
+ "corp_name": "네오셈",
+ "corp_name_eng": "Neosem Inc.",
+ "stock_code": "253590",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900422",
+ "summary": {
+  "headline": "Neosem Inc. signs KRW 14.2bn semiconductor test equipment supply contract, 22.2% of recent revenue",
+  "what_happened": "On Nov 24, 2026, Neosem Inc. disclosed a single supply contract for semiconductor test equipment, including GEN6 SSD Tester, with a counterparty, NEOSEM TECHNOLOGY INC., a subsidiary of the company. The contract is for overseas supply, runs from Nov 24, 2026 to Jun 30, 2027, and is not conditional; the filing states no advance payment and payment is due within 60 days after delivery and inspection are completed.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 14.21bn"
+   },
+   {
+    "label": "Contract amount in USD",
+    "value": "USD 10,552,688"
+   },
+   {
+    "label": "Recent revenue (2025 consolidated)",
+    "value": "KRW 63.94bn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "22.2%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Jun 30, 2027"
+   }
+  ],
+  "why_it_matters": "Supply contracts disclosed under Korean exchange rules are typically reported when they are material relative to a company's revenue, giving shareholders information on the size and timing of expected sales. Actual revenue recognition depends on delivery, inspection and payment, and the stated end date may change.",
+  "company_short": "Neosem"
+ }
+}

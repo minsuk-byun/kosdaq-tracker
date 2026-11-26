@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000735",
+ "rcept_dt": "20261125",
+ "corp_code": "00113261",
+ "corp_name": "대한광통신",
+ "corp_name_eng": "TAIHAN Fiberoptics Co.,LTD",
+ "stock_code": "010170",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(회사합병결정)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000735",
+ "summary": {
+  "headline": "TAIHAN Fiberoptics to absorb wholly-owned unit TP One Networks in small merger, no new shares, Feb 1, 2027",
+  "what_happened": "TAIHAN Fiberoptics Co., Ltd. (대한광통신) decided on Nov 25, 2026 to absorb-merge its 100%-owned subsidiary TP One Networks Co., Ltd. (주)티에프오네트웍스 as a small merger under Korean Commercial Act Article 527-3, with TAIHAN Fiberoptics surviving and TP One Networks dissolving. No new shares will be issued (merger ratio 1.0000000 : 0.0000000), and the merger date is set for Feb 1, 2027, subject to change.",
+  "key_numbers": [
+   {
+    "label": "Subsidiary's total assets (2025 year-end)",
+    "value": "KRW 26,542,950,789"
+   },
+   {
+    "label": "Subsidiary's net profit (2025)",
+    "value": "KRW 476,692,354"
+   },
+   {
+    "label": "Ownership before merger",
+    "value": "100%"
+   },
+   {
+    "label": "Merger date",
+    "value": "Feb 1, 2027"
+   },
+   {
+    "label": "Creditor objection period end",
+    "value": "Jan 29, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, mergers of this type (a parent absorbing a wholly-owned subsidiary without issuing new shares) generally do not change shareholders' holdings or share count, and they often proceed without a shareholder vote, though a sufficiently large shareholder can object and block the simplified procedure. Shareholders typically look at whether the merger changes the company's capital structure or ownership, which the filing states it does not.",
+  "company_short": "TAIHAN Fiberoptics"
+ }
+}

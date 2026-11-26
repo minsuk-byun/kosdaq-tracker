@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000342",
+ "rcept_dt": "20261123",
+ "corp_code": "01453944",
+ "corp_name": "벡트로보틱스",
+ "corp_name_eng": "VECT Robotics Co., Ltd.",
+ "stock_code": "457600",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000342",
+ "summary": {
+  "headline": "VECT Robotics to issue 730,460 shares to Besta No.1 fund at KRW 1,369 via third-party allotment",
+  "what_happened": "On Nov 23, 2026, VECT Robotics' board resolved a third-party allotment rights offering of 730,460 common shares at a planned issue price of KRW 1,369 per share, to the investor Besta No.1 fund. The offering is a small public offering under the Financial Investment Services and Capital Markets Act, without a securities registration statement, and proceeds are designated for operating funds, with payment due Dec 10, 2026.",
+  "key_numbers": [
+   {
+    "label": "New shares offered",
+    "value": "730,460 common shares"
+   },
+   {
+    "label": "Planned issue price",
+    "value": "KRW 1,369 per share"
+   },
+   {
+    "label": "Operating funds raised",
+    "value": "KRW 999,999,740 (about KRW 1.0bn)"
+   },
+   {
+    "label": "Discount to reference price",
+    "value": "10%"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 10, 2026"
+   }
+  ],
+  "why_it_matters": "A third-party allotment issues new shares to selected investors rather than existing shareholders, which can dilute the holdings of current shareholders in proportion to the new shares issued. Shareholders typically assess the issue price against the market price and how the raised funds are used.",
+  "company_short": "VECT Robotics"
+ }
+}

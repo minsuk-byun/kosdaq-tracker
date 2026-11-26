@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126000585",
+ "rcept_dt": "20261126",
+ "corp_code": "00105156",
+ "corp_name": "극동유화",
+ "corp_name_eng": "KUKDONG OIL & CHEMICALS CO.,LTD",
+ "stock_code": "014530",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000585",
+ "summary": {
+  "headline": "Kukdong Oil & Chemicals issues KRW 30bn private convertible bonds due 2031 (5th series)",
+  "what_happened": "On Nov 26, 2026, Kukdong Oil & Chemicals' board resolved to issue its 5th series of unregistered, unsecured private convertible bonds totalling KRW 30bn, with a 1% coupon, a 2.5% maturity yield, and maturity on Nov 4, 2031. The bonds are convertible into common shares at an initial conversion price of KRW 3,037, with a stated period of 9,878,169 shares (28.33% of total shares) and funds earmarked for new business development, investment and operations.",
+  "key_numbers": [
+   {
+    "label": "Bond issue amount",
+    "value": "KRW 30bn"
+   },
+   {
+    "label": "Coupon / maturity yield",
+    "value": "1% / 2.5%"
+   },
+   {
+    "label": "Initial conversion price",
+    "value": "KRW 3,037 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "9,878,169 shares (28.33% of total shares)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Nov 4, 2031"
+   },
+   {
+    "label": "Minimum adjusted conversion price",
+    "value": "KRW 2,430"
+   }
+  ],
+  "why_it_matters": "Convertible bond issues allow a company to raise debt that can later convert into new shares, so existing shareholders may face dilution if conversion occurs and conversion price adjustments can change how many shares are issued. Private placements are typically sold to selected investors rather than offered to the public, and terms such as put and call options can affect when and how the bonds are repaid or transferred.",
+  "company_short": "Kukdong Oil & Chemicals"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000724",
+ "rcept_dt": "20261126",
+ "corp_code": "00398701",
+ "corp_name": "엘앤에프",
+ "corp_name_eng": "L&F CO.,LTD",
+ "stock_code": "066970",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000724",
+ "summary": {
+  "headline": "L&F CO.,LTD sets terms for KRW 16bn private convertible bond issuance (Round 11)",
+  "what_happened": "On Nov 26, 2026, L&F CO.,LTD's board approved the issuance of its 11th series of unsecured, private convertible bonds with a total face value of KRW 16bn, placed with Paratus Value-Up Private Investment LP. The bonds carry a 0.0% coupon and mature on Dec 14, 2031, with proceeds designated as operating funds for NCM and LFP cathode material business expansion, and conversion into common shares may begin on Dec 14, 2027.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 16bn"
+   },
+   {
+    "label": "Conversion price per share",
+    "value": "KRW 72,496"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "220,701 shares (0.54% of total shares)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Dec 14, 2031"
+   },
+   {
+    "label": "Early redemption put option first date",
+    "value": "Jun 14, 2029 (30 months after issuance)"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances generally create the possibility of future new share issuance upon conversion, which can dilute existing shareholders' ownership, and their terms (conversion price adjustments, put options, default clauses) determine how that dilution and repayment obligation may evolve. Private placements of this kind are typically not subject to a securities registration statement and carry a one-year restriction on conversion and division of the bonds after issuance.",
+  "company_short": "L&F"
+ }
+}

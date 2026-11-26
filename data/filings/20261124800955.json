@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261124800955",
+ "rcept_dt": "20261124",
+ "corp_code": "00128980",
+ "corp_name": "삼호개발",
+ "corp_name_eng": "SAMHO DEVELOPMENT CO",
+ "stock_code": "010960",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800955",
+ "summary": {
+  "headline": "SAMHO DEVELOPMENT: Revised KRW 35.98bn highway construction contract (Asan–Cheongju Section 2) after design change",
+  "what_happened": "Samho Development amended a previously disclosed construction contract for the Asan–Cheongju expressway (Inju–Yeomchi section, Section 2), with the revision stemming from a design change. The contract amount was revised from KRW 35.65bn to KRW 35.98bn, and the counterparty is Hanshin Public Works Co., Ltd. The original contract was signed on Feb 24, 2022, with a contract period running through Dec 31, 2026.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 35.98bn (previously KRW 35.65bn)"
+   },
+   {
+    "label": "Share of recent revenue (revised)",
+    "value": "9.90%"
+   },
+   {
+    "label": "Recent revenue (2020 K-IFRS consolidated)",
+    "value": "KRW 363.38bn"
+   },
+   {
+    "label": "Contract period end",
+    "value": "Dec 31, 2026"
+   }
+  ],
+  "why_it_matters": "Supply and construction contract disclosures in Korea show the size of a company's order backlog relative to its revenue, and amendments like this one indicate changes in contract value during project execution. Shareholders typically use such filings to gauge the scale and timing of future revenue, though the final impact depends on project progress and payment terms.",
+  "company_short": "Samho Development"
+ }
+}

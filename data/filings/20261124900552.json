@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900552",
+ "rcept_dt": "20261124",
+ "corp_code": "01234507",
+ "corp_name": "매일유업",
+ "corp_name_eng": "Maeil Dairies Co., Ltd.",
+ "stock_code": "267980",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900552",
+ "summary": {
+  "headline": "Maeil Dairies to cancel 100,000 treasury common shares, KRW 6.14bn, on Dec 7, 2026",
+  "what_happened": "On Nov 24, 2026, the board of Maeil Dairies Co., Ltd. resolved to cancel 100,000 common shares that the company had previously acquired as treasury stock, with a scheduled cancellation amount of KRW 6,142,878,955. The cancellation is scheduled for Dec 7, 2026, and the filing states it is subject to change depending on consultations with relevant authorities; after cancellation, the total common shares outstanding are stated to change from 7,663,638 to 7,563,638.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "100,000 shares"
+   },
+   {
+    "label": "Scheduled cancellation amount",
+    "value": "KRW 6.14bn"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 7, 2026"
+   },
+   {
+    "label": "Common shares outstanding before cancellation",
+    "value": "7,663,638 shares"
+   },
+   {
+    "label": "Common shares outstanding after cancellation (as stated)",
+    "value": "7,563,638 shares"
+   }
+  ],
+  "why_it_matters": "Share cancellations of previously repurchased treasury stock reduce the total number of shares outstanding, which can change each remaining shareholder's proportional ownership, and the filing states that no reduction of registered capital is involved. In Korea, such cancellations are generally disclosed as a shareholder-value measure, though the actual effect depends on the specifics of each company's filing.",
+  "company_short": "Maeil Dairies"
+ }
+}

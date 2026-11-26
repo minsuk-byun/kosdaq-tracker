@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900218",
+ "rcept_dt": "20261126",
+ "corp_code": "01142075",
+ "corp_name": "핑거",
+ "corp_name_eng": "Finger Inc.",
+ "stock_code": "163730",
+ "corp_cls": "K",
+ "report_nm": "유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900218",
+ "summary": {
+  "headline": "Finger Inc. subsidiary FG Investment No. 2 approves KRW 60.3bn rights offering, fully subscribed by parent",
+  "what_happened": "On Nov 26, 2026, the board of Finger Inc.'s subsidiary FG Investment No. 2 (주식회사 에프지투자2호) approved a rights offering of 603,483 common shares at KRW 100,000 per share, allocated to shareholders at a ratio of 60.3483 new shares per existing share. Finger Inc., the sole shareholder, will subscribe to all of the new shares, and payment will be made by offsetting a loan receivable from the subsidiary against the subscription obligation.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "603,483 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 100,000"
+   },
+   {
+    "label": "Funds raised for debt repayment",
+    "value": "KRW 60.3bn"
+   },
+   {
+    "label": "Pre-offering shares outstanding",
+    "value": "10,000 common shares"
+   },
+   {
+    "label": "Record date / payment date",
+    "value": "Nov 26, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, rights offerings by a subsidiary generally involve existing shareholders being offered new shares in proportion to their holdings, and they can change a company's share capital and capital structure. Where the parent company subscribes in full, as stated here, the offering mainly affects the subsidiary's internal capital and debt arrangements rather than outside shareholders.",
+  "company_short": "Finger Inc."
+ }
+}

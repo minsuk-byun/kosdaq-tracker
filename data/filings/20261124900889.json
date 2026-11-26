@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124900889",
+ "rcept_dt": "20261124",
+ "corp_code": "01160363",
+ "corp_name": "에코프로비엠",
+ "corp_name_eng": "ECOPRO BM CO.,LTD.",
+ "stock_code": "247540",
+ "corp_cls": "K",
+ "report_nm": "유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124900889",
+ "summary": {
+  "headline": "ECOPRO BM's subsidiary ECOPRO Global Investment approves rights offering of KRW 622bn",
+  "what_happened": "On Nov 24, 2026, the board of ECOPRO GLOBAL INVESTMENT PTE.LTD., a subsidiary of ECO PRO BM CO.,LTD., resolved a rights offering of 596,750,130 common shares at KRW 1,042.62 per share, with payment scheduled for Jun 30, 2027. The offering is a shareholder allotment (rights offering) and the proceeds are to be used for acquiring a stake in the PT BNSI smelter and securing shareholder loans. This filing replaces the subsidiary's rights offering disclosure submitted on Nov 10, 2026, reflecting a change in investment plans.",
+  "key_numbers": [
+   {
+    "label": "New common shares to be issued",
+    "value": "596,750,130 shares"
+   },
+   {
+    "label": "Issue price per share (fixed)",
+    "value": "KRW 1,042.62"
+   },
+   {
+    "label": "Funds for other-company securities acquisition",
+    "value": "KRW 622bn"
+   },
+   {
+    "label": "Payment date",
+    "value": "Jun 30, 2027"
+   },
+   {
+    "label": "Board resolution date",
+    "value": "Nov 24, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a rights offering by a subsidiary typically means new shares are offered to existing shareholders at a set price, and the parent company's ownership and funding of the subsidiary can change depending on whether shareholders subscribe. Filings like this are generally made so investors can track how a group is raising and deploying capital through its subsidiaries.",
+  "company_short": "EcoPro BM"
+ }
+}

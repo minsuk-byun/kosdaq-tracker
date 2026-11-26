@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900187",
+ "rcept_dt": "20261126",
+ "corp_code": "00141246",
+ "corp_name": "SGC E&C",
+ "corp_name_eng": "SGC E&C Co., Ltd.",
+ "stock_code": "016250",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900187",
+ "summary": {
+  "headline": "SGC E&C signs KRW 117.2bn Yongin CAMPUS construction contract with PSK Inc.",
+  "what_happened": "SGC E&C Co., Ltd. signed a single supply contract for the Yongin CAMPUS construction project with PSK Inc., a semiconductor manufacturing equipment maker, on Nov 25, 2026. The contract amount is KRW 117.2bn excluding VAT, and the contract period runs from Nov 25, 2026 to May 25, 2028, with the end date provisionally set 18 months after signing pending confirmation of the construction start date.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 117.2bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "8.73%"
+   },
+   {
+    "label": "Recent revenue (2025, consolidated)",
+    "value": "KRW 1.342tn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to May 25, 2028"
+   },
+   {
+    "label": "Payment terms",
+    "value": "Advance 5%, progress payments 90%, completion payment 5%"
+   }
+  ],
+  "why_it_matters": "Single large supply contracts disclosed in Korea show the size of a company's order backlog relative to its revenue, and the filing notes that terms and schedule may change under the construction contract. Such filings are generally informational for shareholders about future project revenue, subject to later corrections such as confirmation of the construction start date.",
+  "company_short": "SGC E&C"
+ }
+}

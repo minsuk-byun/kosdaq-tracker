@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124800494",
+ "rcept_dt": "20261124",
+ "corp_code": "00146232",
+ "corp_name": "일성건설",
+ "corp_name_eng": "ILSUNG CONSTRUCTION CO.,LTD",
+ "stock_code": "013360",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800494",
+ "summary": {
+  "headline": "Ilsung Construction wins KRW 84.1bn Onyang welfare building contract from Samsung Electronics",
+  "what_happened": "On Nov 24, 2026, Ilsung Construction signed a construction contract for the new construction of the Onyang welfare building in Asan, South Chungcheong Province, with Samsung Electronics Co., Ltd. The contract period runs from Nov 24, 2026 to Apr 30, 2028, and the project covers a building of B1 to 5 floors with a total floor area of 5,802 pyeong.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 84.12bn"
+   },
+   {
+    "label": "Ratio to latest revenue",
+    "value": "18.58%"
+   },
+   {
+    "label": "Latest revenue (FY2025 consolidated)",
+    "value": "KRW 452.67bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Apr 30, 2028"
+   },
+   {
+    "label": "Total floor area",
+    "value": "5,802 pyeong"
+   }
+  ],
+  "why_it_matters": "Major supply contracts disclosed in Korea are typically reported when they exceed a set share of a company's revenue, giving shareholders information on new project backlog that may contribute to future revenue. Payment terms and amounts can change with the client's budget and the final construction agreement.",
+  "company_short": "Ilsung Construction"
+ }
+}

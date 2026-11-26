@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261126800722",
+ "rcept_dt": "20261126",
+ "corp_code": "00178754",
+ "corp_name": "동아지질",
+ "corp_name_eng": "Dong-Ah Geological Engineering Company LTD.",
+ "stock_code": "028100",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800722",
+ "summary": {
+  "headline": "Dong-Ah Geological wins Busan Metro Line 2 Sasang-Hadan construction, KRW 27.2bn share",
+  "what_happened": "Dong-Ah Geological Engineering Company LTD. filed a corrected disclosure for a construction contract to build Section 2 of the Busan Metro Sasang-Hadan Line with Busan Transportation Corporation, located in Hakjang-dong, Sasang-gu, Busan. The correction changes the contract end date from Nov 30, 2026 to Jun 30, 2027, with the contract period starting May 19, 2017. The filing states the company's share is 29% of the total contract amount of KRW 93.8bn.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (company share, excl. VAT)",
+    "value": "KRW 27.2bn"
+   },
+   {
+    "label": "Total contract amount",
+    "value": "KRW 93.8bn"
+   },
+   {
+    "label": "Company share of total contract",
+    "value": "29%"
+   },
+   {
+    "label": "Recent revenue (end-2016 consolidated)",
+    "value": "KRW 323.2bn"
+   },
+   {
+    "label": "Contract revenue as % of recent revenue",
+    "value": "8.42%"
+   },
+   {
+    "label": "Revised contract end date",
+    "value": "Jun 30, 2027"
+   }
+  ],
+  "why_it_matters": "Corrections to supply or construction contract disclosures generally indicate that the contract period or terms have changed from what was previously reported, which can affect the timing of expected revenue recognition for shareholders. Such filings are typically read alongside the company's contract size relative to its revenue and the stated caveat that amounts may change as construction progresses.",
+  "company_short": "Dong-Ah Geological Engineering"
+ }
+}

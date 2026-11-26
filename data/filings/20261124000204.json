@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000204",
+ "rcept_dt": "20261124",
+ "corp_code": "01335578",
+ "corp_name": "애니플러스",
+ "corp_name_eng": "ANIPLUS INC.",
+ "stock_code": "310200",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000204",
+ "summary": {
+  "headline": "ANIPLUS signs KRW 1bn share buyback trust contract, runs Nov 24, 2026 to Feb 23, 2027",
+  "what_happened": "ANIPLUS INC. resolved on Nov 24, 2026 to enter into a self-share acquisition trust contract with Samsung Securities Co., Ltd., with a contract amount of KRW 1bn and a contract period from Nov 24, 2026 to Feb 23, 2027. The stated purposes are enhancing shareholder value and stock compensation for employees, and the company plans to use part of the acquired shares for employee compensation and cancel the rest.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 1bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 24, 2026 to Feb 23, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "533,902 common shares"
+   },
+   {
+    "label": "Reference price (Nov 23, 2026 close)",
+    "value": "KRW 1,873 per share"
+   },
+   {
+    "label": "Self-shares held before contract",
+    "value": "960,757 common shares (1.84%)"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback trust contract means a company entrusts a securities firm to buy its own shares, which can support the share price and return value to shareholders or be used for employee stock compensation. Shares that are cancelled reduce the total number of shares outstanding, while shares kept for employee compensation remain subject to shareholder meeting approval.",
+  "company_short": "ANIPLUS"
+ }
+}

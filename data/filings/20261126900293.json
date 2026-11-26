@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900293",
+ "rcept_dt": "20261126",
+ "corp_code": "01011368",
+ "corp_name": "에이치브이엠",
+ "corp_name_eng": "HVM CO.,LTD.",
+ "stock_code": "295310",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900293",
+ "summary": {
+  "headline": "HVM Co., Ltd. signs KRW 10.99bn Super Alloy supply contract with overseas aerospace metals distributor",
+  "what_happened": "On Nov 26, 2026, HVM Co., Ltd. disclosed a single supply contract for Super Alloy, with a fixed contract amount of KRW 10.99bn, equal to 16.52% of its recent revenue of KRW 66.53bn. The contract runs from Nov 25, 2026 to Dec 31, 2027, is for overseas delivery, and is produced in-house with payment due at the end of the month following delivery; no down payment applies.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 10.99bn (USD 8,178,203.40)"
+   },
+   {
+    "label": "Recent revenue (FY2025, standalone)",
+    "value": "KRW 66.53bn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "16.52%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Dec 31, 2027"
+   },
+   {
+    "label": "Exchange rate applied",
+    "value": "KRW 1,343.60/USD"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea inform investors of a company's new sales commitments and their size relative to revenue, which can help them gauge future business volume. Contracts are often subject to revision as projects progress, and the filing notes that terms may change through negotiation with the counterparty.",
+  "company_short": "HVM"
+ }
+}

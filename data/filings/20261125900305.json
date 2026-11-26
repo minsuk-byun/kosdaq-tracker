@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900305",
+ "rcept_dt": "20261125",
+ "corp_code": "00156442",
+ "corp_name": "한국가구",
+ "corp_name_eng": "KoreaFurniture",
+ "stock_code": "004590",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900305",
+ "summary": {
+  "headline": "KoreaFurniture cancels 189,380 treasury common shares, worth KRW 999,982,620 at book value",
+  "what_happened": "On Nov 25, 2026, the board of KoreaFurniture (한국가구) approved cancelling 189,380 common shares that the company had already acquired as treasury stock, with the cancellation scheduled for Dec 4, 2026. The filing states the cancellation is made from profits available for distribution under the Commercial Act, so total issued shares decline but share capital does not change; the post-cancellation common share count is expected to be 14,810,620.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "189,380 shares"
+   },
+   {
+    "label": "Issued common shares before cancellation",
+    "value": "15,000,000 shares"
+   },
+   {
+    "label": "Expected common shares after cancellation",
+    "value": "14,810,620 shares"
+   },
+   {
+    "label": "Expected cancellation amount (book value)",
+    "value": "KRW 999,982,620 (about KRW 1.0bn)"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 4, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, cancelling treasury shares reduces the total number of issued shares, so each remaining share represents a slightly larger proportion of the company, while share capital is typically unchanged. Such cancellations are generally disclosed to inform investors of changes in outstanding share count.",
+  "company_short": "KoreaFurniture"
+ }
+}

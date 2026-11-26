@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900655",
+ "rcept_dt": "20261126",
+ "corp_code": "01700587",
+ "corp_name": "이노스페이스",
+ "corp_name_eng": "INNOSPACE Co., Ltd.",
+ "stock_code": "462350",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900655",
+ "summary": {
+  "headline": "INNOSPACE amends supply contract with Hanwha Aerospace; contract value revised to KRW 480.2m",
+  "what_happened": "INNOSPACE Co., Ltd. filed a corrected disclosure for its single supply contract with Hanwha Aerospace Co., Ltd. for commissioned development of a reusable-technology demonstration fluid-pneumatic umbilical. The revised contract amount is KRW 480.2m (excluding VAT), up from KRW 474.2m, with the payment schedule adjusted accordingly; the filing states the correction was made due to a change in contract amount and a revised contract was signed. The contract period runs from Dec 4, 2025 to Oct 31, 2027.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount (excl. VAT)",
+    "value": "KRW 480.2m (previously KRW 474.2m)"
+   },
+   {
+    "label": "Ratio to recent revenue",
+    "value": "3,264.9% (previously 3,224.1%)"
+   },
+   {
+    "label": "Recent revenue (2024 consolidated)",
+    "value": "KRW 14.7m"
+   },
+   {
+    "label": "Counterparty recent revenue (2024 consolidated)",
+    "value": "KRW 11.24tn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Dec 4, 2025 to Oct 31, 2027"
+   }
+  ],
+  "why_it_matters": "Supply and development contracts disclosed in Korea are typically reported because their size relative to a company's revenue can affect its financial outlook and investor assessment; amendments to contract terms are disclosed so shareholders can track changes in previously announced agreements.",
+  "company_short": "INNOSPACE"
+ }
+}

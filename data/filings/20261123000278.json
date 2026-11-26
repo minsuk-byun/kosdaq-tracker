@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000278",
+ "rcept_dt": "20261123",
+ "corp_code": "01042650",
+ "corp_name": "큐리언트",
+ "corp_name_eng": "Qurient Co., Ltd.",
+ "stock_code": "115180",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000278",
+ "summary": {
+  "headline": "Qurient announces KRW 7.1m-share rights offering; final issue price set at KRW 9,940 per share",
+  "what_happened": "Qurient Co., Ltd. filed a corrected disclosure on Nov 23, 2026 for its rights offering decision, updating the final issue price to KRW 9,940 per new common share, confirmed on Nov 20, 2026. The offering covers 7,100,000 new common shares, with the use of proceeds (operating funds) revised to KRW 70,574,000,000 from KRW 105,790,000,000. The subscription period for existing shareholders is Nov 25 to Nov 26, 2026, with a general public offering for unsubscribed shares on Nov 30 and Dec 1, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "7,100,000 shares"
+   },
+   {
+    "label": "Final issue price (common)",
+    "value": "KRW 9,940 per share"
+   },
+   {
+    "label": "Operating funds (corrected)",
+    "value": "KRW 70.574bn (previously KRW 105.79bn)"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 3, 2026"
+   },
+   {
+    "label": "Listing date of new shares",
+    "value": "Dec 17, 2026"
+   }
+  ],
+  "why_it_matters": "Rights offerings give existing shareholders the first right to subscribe to new shares, typically in proportion to their current holdings, and shareholders who do not subscribe may see their ownership percentage diluted. A corrected filing like this usually reflects a change in final terms, such as the issue price or fund allocation, that shareholders may want to review against the securities registration statement.",
+  "company_short": "Qurient"
+ }
+}

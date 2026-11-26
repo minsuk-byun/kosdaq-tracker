@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900284",
+ "rcept_dt": "20261125",
+ "corp_code": "01370517",
+ "corp_name": "스트라드비젼",
+ "corp_name_eng": "StradVision, Inc.",
+ "stock_code": "475040",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900284",
+ "summary": {
+  "headline": "StradVision signs KRW 3.75bn supply deal with ASUX Components India for front-camera recognition solutions",
+  "what_happened": "StradVision, Inc. filed a corrected disclosure of a single supply contract to deliver front-camera recognition solutions to ASUX (Aptiv Adv. Safety & User Experience) Components India Pvt Ltd, a shareholder of StradVision, for delivery in India. The contract was signed on Aug 19, 2026, with a contract period from Aug 19, 2026 to Jun 16, 2027, and the correction changed the contract end date from Nov 25, 2026 to Jun 16, 2027 due to a change in the delivery schedule.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 3.75bn"
+   },
+   {
+    "label": "Contract amount as % of StradVision's recent revenue",
+    "value": "20.7%"
+   },
+   {
+    "label": "StradVision's recent revenue",
+    "value": "KRW 18.11bn"
+   },
+   {
+    "label": "Contract amount in USD (at Aug 19, 2026 rate)",
+    "value": "USD 2,659,491"
+   },
+   {
+    "label": "Contract end date (corrected)",
+    "value": "Jun 16, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, a single supply contract disclosure reports a specific order that a company has won, and its size relative to recent revenue helps shareholders gauge how significant it may be to the business. Corrections to such filings typically reflect changes in timing or terms, which investors usually review to understand any shift in expected revenue timing.",
+  "company_short": "StradVision"
+ }
+}

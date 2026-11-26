@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261123800217",
+ "rcept_dt": "20261123",
+ "corp_code": "00163673",
+ "corp_name": "한진중공업홀딩스",
+ "corp_name_eng": "HANJIN HEAVY IND. & CONST. HOLDINGS CO., LTD",
+ "stock_code": "003480",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123800217",
+ "summary": {
+  "headline": "Hanjin Heavy Industries & Construction Holdings: subsidiary Daeryun E&S signs KRW 264.7bn fuel-cell gas supply deal",
+  "what_happened": "On Nov 23, 2026, the company disclosed that its subsidiary Daeryun E&S signed a gas supply contract for fuel cells with Yangju Yongam Energy Co., Ltd. The supply area is Yongam-ri, Yangju-si, Gyeonggi-do, and supply is expected to start on Jan 1, 2028, with the contract amount estimated over 240 months from commercial operation. The contract was dated Nov 20, 2026, and the filing notes the commercial operation start is expected in April 2028 and the amount may change based on actual supply volumes and government-approved prices.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 264.7bn (264,681,397,056 won)"
+   },
+   {
+    "label": "Subsidiary latest revenue",
+    "value": "KRW 784.0bn"
+   },
+   {
+    "label": "Contract as % of revenue",
+    "value": "33.8%"
+   },
+   {
+    "label": "Subsidiary share of total assets",
+    "value": "74.3%"
+   },
+   {
+    "label": "Contract date",
+    "value": "Nov 20, 2026"
+   },
+   {
+    "label": "Expected commercial operation",
+    "value": "April 2028"
+   }
+  ],
+  "why_it_matters": "Single-supply contract disclosures in Korea report large new sales or supply agreements that can affect a company's future revenue. The filing's estimated amounts are projections and may change with actual volumes and approved prices, so the figures are not guaranteed revenue.",
+  "company_short": "Hanjin Heavy Industries & Construction Holdings"
+ }
+}

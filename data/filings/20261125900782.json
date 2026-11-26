@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900782",
+ "rcept_dt": "20261125",
+ "corp_code": "00103547",
+ "corp_name": "우진비앤지",
+ "corp_name_eng": "WooGeneB&GCO.,Ltd",
+ "stock_code": "018620",
+ "corp_cls": "K",
+ "report_nm": "최대주주변경",
+ "event": "control",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900782",
+ "summary": {
+  "headline": "WooGeneB&G: Jglobal New Tech Investment Fund becomes largest shareholder via KRW 5.5bn rights issue",
+  "what_happened": "On Nov 25, 2026, the largest shareholder of WooGeneB&GCO.,Ltd changed from the Kang Jae-gu group (8 related persons) to the JGlobal New Technology Investment Fund and one other party, following the fund's acquisition of 2,200,000 new shares in a third-party allotment rights issue. The fund's post-change ownership is stated as 39.01%, and the stated purpose of the acquisition is management participation, with new executive appointments planned.",
+  "key_numbers": [
+   {
+    "label": "Former largest shareholder group ownership",
+    "value": "31.50% (2,184,160 shares)"
+   },
+   {
+    "label": "New largest shareholder group ownership",
+    "value": "39.01% (3,562,328 shares)"
+   },
+   {
+    "label": "Shares acquired in third-party rights issue",
+    "value": "2,200,000 shares"
+   },
+   {
+    "label": "Self-funded acquisition amount",
+    "value": "KRW 5.5bn"
+   },
+   {
+    "label": "Change date",
+    "value": "Nov 25, 2026"
+   }
+  ],
+  "why_it_matters": "A change of largest shareholder usually signals a shift in control or influence over a listed company, which can affect its management direction and future decisions by major shareholders. Investors often also look at the acquirer's stated purpose and any planned executive changes disclosed in the filing.",
+  "company_short": "WooGeneB&G"
+ }
+}

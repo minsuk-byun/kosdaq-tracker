@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800453",
+ "rcept_dt": "20261125",
+ "corp_code": "00160205",
+ "corp_name": "한국내화",
+ "corp_name_eng": "KOREA REFRACTORIES CO.,LTD",
+ "stock_code": "010040",
+ "corp_cls": "Y",
+ "report_nm": "타법인주식및출자증권취득결정(자율공시)",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800453",
+ "summary": {
+  "headline": "Korea Refractories to take 100% of new US unit KRC America for USD 1m (KRW 1.35bn)",
+  "what_happened": "Korea Refractories' board resolved on Nov 24, 2026 to acquire 1,000,000 new shares, a 100% stake, in KRC AMERICA, INC., a newly established US company, by cash subscription. The investment is scheduled for Nov 26, 2026, and is aimed at supporting a customer's steel mill construction in Louisiana and entering the US refractories market.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 1.35bn (USD 1m)"
+   },
+   {
+    "label": "Shares acquired / stake after acquisition",
+    "value": "1,000,000 shares / 100%"
+   },
+   {
+    "label": "Equity of acquirer (Dec 2025, consolidated)",
+    "value": "KRW 174.08bn"
+   },
+   {
+    "label": "Acquisition as % of equity",
+    "value": "0.77%"
+   },
+   {
+    "label": "Scheduled acquisition date",
+    "value": "Nov 26, 2026"
+   }
+  ],
+  "why_it_matters": "Overseas subsidiary investments of this kind are typically disclosed to show how a Korean company is deploying capital into new markets, and their scale relative to equity indicates the size of the commitment. Investors usually weigh such filings against the company's broader strategy and the size of the sums involved.",
+  "company_short": "Korea Refractories"
+ }
+}

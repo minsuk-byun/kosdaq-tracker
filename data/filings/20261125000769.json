@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261125000769",
+ "rcept_dt": "20261125",
+ "corp_code": "00168331",
+ "corp_name": "온타이드",
+ "corp_name_eng": "ONTIDE Corp.",
+ "stock_code": "005320",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주요사항보고서(자기주식취득결정)",
+ "event": "buyback",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000769",
+ "summary": {
+  "headline": "ONTIDE to buy back 2,087,682 preferred shares for KRW 4.28bn on Nov 18, 2026",
+  "what_happened": "ONTIDE Corp. decided on Nov 18, 2026 to acquire 2,087,682 shares of non-voting-type preferred stock (상환전환우선주) for KRW 4,280,327,389, directly from holders who exercised their redemption right, with the acquisition set for Nov 18, 2026 and the shares to be cancelled afterward. The filing was corrected on Nov 25, 2026 to change the planned cancellation date, which is now listed as Nov 25, 2026, with the change registration in progress.",
+  "key_numbers": [
+   {
+    "label": "Shares to be acquired",
+    "value": "2,087,682 (other class / preferred shares)"
+   },
+   {
+    "label": "Planned acquisition amount",
+    "value": "KRW 4.28bn"
+   },
+   {
+    "label": "Principal portion",
+    "value": "KRW 4.00bn"
+   },
+   {
+    "label": "Interest portion",
+    "value": "KRW 280m"
+   },
+   {
+    "label": "Treasury shares held before the decision (common)",
+    "value": "557,865 shares (1.45%)"
+   },
+   {
+    "label": "Acquisition limit under distributable profit",
+    "value": "KRW 4.78bn"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback followed by cancellation reduces the total number of shares outstanding, which can change each remaining shareholder's proportional stake. Such filings also show how the company is using distributable profits to settle contractual redemption obligations to preferred shareholders.",
+  "company_short": "ONTIDE"
+ }
+}

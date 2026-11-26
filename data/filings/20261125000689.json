@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000689",
+ "rcept_dt": "20261125",
+ "corp_code": "00602279",
+ "corp_name": "그린플러스",
+ "corp_name_eng": "GREEN PLUS Co., Ltd.",
+ "stock_code": "186230",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000689",
+ "summary": {
+  "headline": "GREEN PLUS amends KRW 10bn convertible bond issue; maturity and payment dates pushed to Dec 9, 2029 and Dec 9, 2026",
+  "what_happened": "GREEN PLUS Co., Ltd. filed a correction to its material report on a KRW 10bn private, unsecured convertible bond (6th series). The correction moves the payment date, maturity, interest and conversion dates from late November to December 9, and updates the conversion price to KRW 4,294 per share and the number of shares issuable on conversion to 2,328,830. The board resolution date is now recorded as Nov 25, 2026.",
+  "key_numbers": [
+   {
+    "label": "Bond face amount (as stated)",
+    "value": "KRW 10bn"
+   },
+   {
+    "label": "Corrected conversion price",
+    "value": "KRW 4,294 per share"
+   },
+   {
+    "label": "Corrected shares issuable on conversion",
+    "value": "2,328,830 shares (17.23% of total shares)"
+   },
+   {
+    "label": "Corrected maturity date",
+    "value": "Dec 9, 2029"
+   },
+   {
+    "label": "Corrected payment date",
+    "value": "Dec 9, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, corrections to convertible bond filings usually change the timing or terms of a bond issue and can affect how much new stock could be issued if holders convert, which may dilute existing shareholders. Holders' put options and conversion windows are typically tied to these dates, so shareholders generally track such corrections closely.",
+  "company_short": "GREEN PLUS"
+ }
+}

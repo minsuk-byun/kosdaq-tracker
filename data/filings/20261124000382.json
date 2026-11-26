@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000382",
+ "rcept_dt": "20261124",
+ "corp_code": "00769158",
+ "corp_name": "케이엔제이",
+ "corp_name_eng": "KnJ Co.,Ltd.",
+ "stock_code": "272110",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000382",
+ "summary": {
+  "headline": "KnJ Co. signs KRW 3bn share buyback trust contract with Mirae Asset Securities",
+  "what_happened": "KnJ Co., Ltd.'s board approved on Nov 24, 2026 a trust contract for acquiring treasury shares, with a contract amount of KRW 3bn, to be signed with Mirae Asset Securities on Nov 25, 2026. The contract runs from Nov 25, 2026 to Aug 25, 2027, with the stated purpose of enhancing shareholder value, and the company plans to cancel the acquired shares after the required procedures, with the scale and timing to be decided by a separate board resolution.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 3bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Aug 25, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "149,625 common shares"
+   },
+   {
+    "label": "Reference price (close on Nov 23, 2026)",
+    "value": "KRW 20,050 per share"
+   },
+   {
+    "label": "Treasury shares held before contract",
+    "value": "311,032 common shares (3.88%)"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback through a trust contract means the company entrusts a securities firm to purchase its own shares on the market, and such buybacks are often followed by cancellation, which reduces the total number of outstanding shares. The actual number of shares bought and the price paid may differ from the planned figures depending on market prices and how the trust is run.",
+  "company_short": "KnJ Co."
+ }
+}

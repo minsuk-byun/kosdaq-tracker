@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261124800849",
+ "rcept_dt": "20261124",
+ "corp_code": "00102432",
+ "corp_name": "계룡건설산업",
+ "corp_name_eng": "KYE-RYONG CONSTRUCTION INDUSTRIAL CO.,LTD",
+ "stock_code": "013580",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124800849",
+ "summary": {
+  "headline": "Kye-Ryong Construction amends Mokgamcheon river project contract value to KRW 99.8bn",
+  "what_happened": "Kye-Ryong Construction Industrial filed a corrected disclosure on Nov 24, 2026 for its single supply contract for the Mokgamcheon river improvement project, reporting a contract amount change from KRW 90.0bn to KRW 99.8bn. The company's share is 70% of a total contract value of KRW 142.6bn, including VAT, and the contract runs from Apr 15, 2024 to Apr 13, 2029.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount (company's share, incl. VAT)",
+    "value": "KRW 99.8bn"
+   },
+   {
+    "label": "Previous contract amount",
+    "value": "KRW 90.0bn"
+   },
+   {
+    "label": "Share of revenue (as corrected)",
+    "value": "3.35%"
+   },
+   {
+    "label": "Total contract value",
+    "value": "KRW 142.6bn"
+   },
+   {
+    "label": "Company's stake",
+    "value": "70%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Apr 15, 2024 to Apr 13, 2029"
+   }
+  ],
+  "why_it_matters": "Corrections to supply contract amounts typically reflect updates to the contract value as works progress or terms change, and Korean filings of this kind inform shareholders about revisions to previously disclosed order values. Contract amounts and periods may change with construction progress, as the filing itself notes.",
+  "company_short": "Kye-Ryong Construction"
+ }
+}

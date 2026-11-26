@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900312",
+ "rcept_dt": "20261126",
+ "corp_code": "01357765",
+ "corp_name": "큐라티스",
+ "corp_name_eng": "Quratis Inc.",
+ "stock_code": "348080",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900312",
+ "summary": {
+  "headline": "Quratis signs KRW 533m clinical drug supply contract with UNC, 21.71% of recent revenue",
+  "what_happened": "Quratis Inc. signed a supply contract for clinical drugs with the University of North Carolina, with the contract signed on Nov 16, 2026. The contract runs from Nov 16, 2026 to May 31, 2027, and the total contract amount is KRW 533,480,000, with payment tied to stages including an advance payment and milestones such as completion of an NIH audit and delivery and QA issuance of the clinical drugs.",
+  "key_numbers": [
+   {
+    "label": "Total contract amount",
+    "value": "KRW 533m"
+   },
+   {
+    "label": "Share of recent revenue (FY2025, separate financials)",
+    "value": "21.71%"
+   },
+   {
+    "label": "Recent revenue (FY2025, separate financials)",
+    "value": "KRW 2.46bn"
+   },
+   {
+    "label": "Total contract value in USD",
+    "value": "USD 400,000"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 16, 2026 to May 31, 2027"
+   }
+  ],
+  "why_it_matters": "Single-sale and supply contract disclosures in Korea report the size of a deal relative to recent revenue, which helps shareholders gauge how significant a contract is to the company's business. The payment terms and contract period indicate the timing of when revenue may be recognized.",
+  "company_short": "Quratis"
+ }
+}

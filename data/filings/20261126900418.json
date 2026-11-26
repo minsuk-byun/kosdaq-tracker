@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900418",
+ "rcept_dt": "20261126",
+ "corp_code": "00528515",
+ "corp_name": "한라IMS",
+ "corp_name_eng": "HANLA IMS Co., LTD",
+ "stock_code": "092460",
+ "corp_cls": "K",
+ "report_nm": "타법인주식및출자증권취득결정(자율공시)",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900418",
+ "summary": {
+  "headline": "HANLA IMS to acquire 100% of new shipping unit for KRW 6bn in cash",
+  "what_happened": "On Nov 26, 2026, HANLA IMS's board resolved to acquire 10,000 shares, a 100% stake, in Hanla Global Shipping Co. (planned), a newly established subsidiary engaged in shipping and vessel leasing, for KRW 6bn in cash. The acquisition is intended to enter the shipping industry and diversify the business, with the acquisition scheduled for Dec 4, 2026.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 6bn"
+   },
+   {
+    "label": "Stake acquired",
+    "value": "10,000 shares (100%)"
+   },
+   {
+    "label": "Share of equity (self-capital)",
+    "value": "3.02% (KRW 198.69bn equity, 2025 consolidated basis)"
+   },
+   {
+    "label": "Subsidiary paid-in capital",
+    "value": "KRW 100m"
+   },
+   {
+    "label": "Scheduled acquisition date",
+    "value": "Dec 4, 2026"
+   }
+  ],
+  "why_it_matters": "Filings of this type generally indicate that a listed company is investing cash to establish or acquire a subsidiary, often to enter a new business line. For shareholders, such moves can affect the company's capital allocation and business direction, and the filing itself typically notes that details may change as the process proceeds.",
+  "company_short": "HANLA IMS"
+ }
+}

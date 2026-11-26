@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123900479",
+ "rcept_dt": "20261123",
+ "corp_code": "00543107",
+ "corp_name": "오킨스전자",
+ "corp_name_eng": "OKins Electronics Co.,Ltd.",
+ "stock_code": "080580",
+ "corp_cls": "K",
+ "report_nm": "유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900479",
+ "summary": {
+  "headline": "OKins Electronics' China unit SUZHOU plans KRW 5.6bn third-party rights offering",
+  "what_happened": "On Nov 23, 2026, the board of OKins Electronics (SUZHOU) Co., Ltd., a wholly owned Chinese subsidiary of OKins Electronics Co., Ltd., resolved a third-party allotment capital increase, with the proceeds set for operating funds to support strategic business partnerships. The new capital is to be paid in on Jan 8, 2027, a date the filing says may change subject to regulatory approvals, and after completion the parent's stake in the subsidiary will be 41.87%.",
+  "key_numbers": [
+   {
+    "label": "Capital increase amount (operating funds)",
+    "value": "KRW 5.62bn (USD 4.2m at KRW 1,337.30/USD)"
+   },
+   {
+    "label": "Planned payment date",
+    "value": "Jan 8, 2027"
+   },
+   {
+    "label": "Parent's stake after the increase",
+    "value": "41.87%"
+   },
+   {
+    "label": "Subsidiary's total assets (FY2025)",
+    "value": "KRW 1.30bn"
+   },
+   {
+    "label": "Subsidiary assets as % of parent's consolidated assets",
+    "value": "1.36%"
+   }
+  ],
+  "why_it_matters": "A third-party allotment raises capital by issuing new shares to selected investors rather than to existing shareholders, which can change ownership percentages and, depending on the terms, dilute existing holders. For a foreign subsidiary, the filing's timing and amount are typically tied to funding plans and partner arrangements, and the payment date is often subject to change.",
+  "company_short": "OKins Electronics"
+ }
+}

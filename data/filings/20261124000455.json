@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261124000455",
+ "rcept_dt": "20261124",
+ "corp_code": "01841635",
+ "corp_name": "미래에셋비전스팩7호",
+ "corp_name_eng": "Mirae Asset Vision Special Purpose Acquisition 7 Company",
+ "stock_code": "482680",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(회사합병결정)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000455",
+ "summary": {
+  "headline": "Mirae Asset Vision SPAC 7 to merge with Autohands via absorption; Autohands to list on KOSDAQ, Apr 28, 2027",
+  "what_happened": "Mirae Asset Vision Special Purpose Acquisition 7 Company, a KOSDAQ-listed SPAC, will be absorbed by unlisted Autohands Co., Ltd. through a merger, with Autohands as the surviving company, under a merger ratio of 1 : 0.2509636. The November 24, 2026 amendment (second correction) moved the key schedule dates later, including the shareholder vote to Mar 4, 2027 and the merger date to Apr 8, 2027.",
+  "key_numbers": [
+   {
+    "label": "Merger ratio (Autohands : SPAC 7)",
+    "value": "1 : 0.2509636"
+   },
+   {
+    "label": "Valuation per share, Autohands (merging company)",
+    "value": "KRW 7,969 (par value KRW 500)"
+   },
+   {
+    "label": "Valuation per share, SPAC 7 (dissolving company)",
+    "value": "KRW 2,000 (par value KRW 100)"
+   },
+   {
+    "label": "New shares to be issued (common)",
+    "value": "2,061,665 shares"
+   },
+   {
+    "label": "Shareholder vote date (as amended)",
+    "value": "Mar 4, 2027"
+   },
+   {
+    "label": "Merger effective date (as amended)",
+    "value": "Apr 8, 2027"
+   }
+  ],
+  "why_it_matters": "In Korean SPAC mergers, shareholders of the listed SPAC typically receive or are converted into shares of the surviving private company, and those opposing the merger may have appraisal (share purchase claim) rights within a set window after the shareholder vote. Schedules such as record dates, trading suspensions and listing dates are often revised, as happened here, so the dates in the most recent filing are the ones to follow.",
+  "company_short": "Mirae Asset Vision SPAC 7"
+ }
+}

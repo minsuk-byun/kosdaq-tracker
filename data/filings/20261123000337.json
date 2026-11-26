@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261123000337",
+ "rcept_dt": "20261123",
+ "corp_code": "00525642",
+ "corp_name": "코오롱생명과학",
+ "corp_name_eng": "KOLON LIFE SCIENCE Inc.",
+ "stock_code": "102940",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123000337",
+ "summary": {
+  "headline": "KOLON LIFE SCIENCE amends 2021 KRW 25bn convertible bond terms, extending call/prepayment dates to 7 years",
+  "what_happened": "KOLON LIFE SCIENCE Inc. filed a corrected major-matters report amending the terms of its 3rd unsecured private convertible bond issued Dec 10, 2021. The corrections extend the call option exercise period, the early redemption right, and the related interest-rate reset from 5 years to 7 years after issuance (the call option period now ends Dec 9, 2028, versus Dec 9, 2026 previously).",
+  "key_numbers": [
+   {
+    "label": "Bond issue amount (face value)",
+    "value": "KRW 25bn"
+   },
+   {
+    "label": "Conversion price (per share)",
+    "value": "KRW 17,985"
+   },
+   {
+    "label": "Coupon / maturity yield",
+    "value": "0% coupon; 4.0% maturity yield"
+   },
+   {
+    "label": "Call option period end (amended)",
+    "value": "Dec 9, 2028 (previously Dec 9, 2026)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Dec 10, 2051"
+   }
+  ],
+  "why_it_matters": "In Korea, corrections to convertible bond terms are disclosed so shareholders can see how potential dilution and the timing of call, put, or early-redemption rights may change. Amendments that shift these dates can alter when existing holders' conversion or repayment options could be exercised.",
+  "company_short": "KOLON LIFE SCIENCE"
+ }
+}

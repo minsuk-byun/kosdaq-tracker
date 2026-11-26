@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261120000633",
+ "rcept_dt": "20261123",
+ "corp_code": "01228515",
+ "corp_name": "앱튼",
+ "corp_name_eng": "APTN Inc.",
+ "stock_code": "270520",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261120000633",
+ "summary": {
+  "headline": "APTN Inc. amends rights offering: 16.9m new shares, KRW 16.9bn for operating funds",
+  "what_happened": "APTN Inc. filed a corrected disclosure (정정신고) for its third-party allotment rights offering, with the board resolution dated Sep 3, 2025. The corrected filing reduces the new share count to 16,900,000 common shares at KRW 1,000 par value and an issue price of KRW 720, and moves the payment date to Dec 30, 2026 and the listing date to Jan 29, 2027. The filing also notes the figures exclude a planned capital reduction without consideration, which may change after a shareholders' meeting scheduled for Dec 1, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares (corrected)",
+    "value": "16,900,000 shares"
+   },
+   {
+    "label": "Funds raised for operating purposes",
+    "value": "KRW 16.9bn"
+   },
+   {
+    "label": "Issue price",
+    "value": "KRW 720 per share"
+   },
+   {
+    "label": "Payment date / new listing date",
+    "value": "Dec 30, 2026 / Jan 29, 2027"
+   },
+   {
+    "label": "Pre-offering total issued shares",
+    "value": "40,026,914 common shares"
+   }
+  ],
+  "why_it_matters": "In Korea, third-party allotment rights offerings issue new shares to selected investors rather than existing shareholders, which can dilute existing holders' stakes and change the company's share count and capital base. Corrections to such filings typically reflect changes in allottees, share numbers, or timing, and can signal that terms may still change before completion.",
+  "company_short": "APTN Inc."
+ }
+}

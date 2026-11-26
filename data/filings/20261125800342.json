@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800342",
+ "rcept_dt": "20261125",
+ "corp_code": "00114792",
+ "corp_name": "동국홀딩스",
+ "corp_name_eng": "DONGKUK HOLDINGS CO.,LTD.",
+ "stock_code": "001230",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정(자회사의 주요경영사항)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800342",
+ "summary": {
+  "headline": "Dongkuk Holdings' unit Ferrum Infra to cancel 545,455 redeemable preferred shares for KRW 3.0bn",
+  "what_happened": "On Nov 24, 2026, the board of Ferrum Infra, a subsidiary of Dongkuk Holdings, resolved to cancel 545,455 redeemable preferred shares, to be carried out off-market on Nov 27, 2026. The cancellation follows shareholder redemption requests and is funded from retained earnings, so there is no reduction in share capital; the scheduled redemption amount is KRW 3.0bn at KRW 5,500 per share. After the cancellation, 4,018,173 redeemable preferred shares remain outstanding.",
+  "key_numbers": [
+   {
+    "label": "Preferred shares to be cancelled",
+    "value": "545,455 shares"
+   },
+   {
+    "label": "Scheduled redemption amount",
+    "value": "KRW 3.0bn"
+   },
+   {
+    "label": "Redemption price per share",
+    "value": "KRW 5,500"
+   },
+   {
+    "label": "Preferred shares remaining after cancellation",
+    "value": "4,018,173 shares"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Nov 27, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a share cancellation of this kind generally means a subsidiary is redeeming and retiring part of its preferred stock, typically at the request of holders, with the cash paid out of accumulated earnings. Such filings usually reduce the number of outstanding preferred shares without changing the paid-in capital.",
+  "company_short": "Dongkuk Holdings"
+ }
+}

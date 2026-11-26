@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125000563",
+ "rcept_dt": "20261125",
+ "corp_code": "01467503",
+ "corp_name": "뉴키즈온",
+ "corp_name_eng": "New Kids On  Co., Ltd.",
+ "stock_code": "462310",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125000563",
+ "summary": {
+  "headline": "New Kids On Co. signs KRW 1.5bn share buyback trust deal with Korea Investment & Securities",
+  "what_happened": "On Nov 25, 2026, New Kids On Co., Ltd. decided to enter into a trust contract for the acquisition of its own shares, with a contract amount of KRW 1.5bn and a contract period from Nov 25, 2026 to Nov 24, 2027. The purpose stated is share price stabilization and enhancement of shareholder value, and the contracting and brokerage institution is Korea Investment & Securities Co., Ltd.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 1.5bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to Nov 24, 2027"
+   },
+   {
+    "label": "Planned shares to acquire (common)",
+    "value": "573,613 shares"
+   },
+   {
+    "label": "Reference price (Nov 24, 2026 close)",
+    "value": "KRW 2,615 per share"
+   },
+   {
+    "label": "Treasury shares held before contract (common, incl. other acquired)",
+    "value": "707,736 shares (9.0%) and 261,591 shares (3.3%) acquired otherwise"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback trust contract generally means a company has entrusted a securities firm to purchase its own shares over a set period, which can affect market supply and demand for the stock. Such trusts are typically disclosed with a stated purpose and a limit on the amount that may be spent under Korean Commercial Act distributable-profit rules.",
+  "company_short": "New Kids On"
+ }
+}

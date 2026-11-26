@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900163",
+ "rcept_dt": "20261126",
+ "corp_code": "00363246",
+ "corp_name": "우원개발",
+ "corp_name_eng": "Woowon Development Co., Ltd.",
+ "stock_code": "046940",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900163",
+ "summary": {
+  "headline": "Woowon Development wins KRW 152.8bn supply contract for Seoul metro line C civil works, 40.59% of revenue",
+  "what_happened": "Woowon Development signed a single supply contract on Nov 26, 2026 for the civil earthworks and structures work (Section 1) of the Metropolitan Express Railway Line C, with counterparty Hanwha Co., Ltd. The contract runs from Nov 26, 2026 to Sep 14, 2031, covers the Yangju to Suwon station route in Gyeonggi-do, and is not conditional.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 152.78bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "40.59%"
+   },
+   {
+    "label": "Recent revenue (consolidated, Dec 31, 2025)",
+    "value": "KRW 376.35bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Sep 14, 2031"
+   },
+   {
+    "label": "Counterparty recent revenue",
+    "value": "KRW 74.79tn"
+   }
+  ],
+  "why_it_matters": "Large supply contract disclosures in Korea let shareholders see the size of a company's new order backlog relative to its existing revenue. Such filings are typically informational and do not on their own indicate future financial results.",
+  "company_short": "Woowon Development"
+ }
+}

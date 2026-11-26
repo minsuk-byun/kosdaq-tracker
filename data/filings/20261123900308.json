@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261123900308",
+ "rcept_dt": "20261123",
+ "corp_code": "01141599",
+ "corp_name": "아리바이오LAB",
+ "corp_name_eng": "ARIBIOLAB",
+ "stock_code": "261780",
+ "corp_cls": "K",
+ "report_nm": "최대주주변경을수반하는주식담보제공계약해제ㆍ취소등",
+ "event": "control",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261123900308",
+ "summary": {
+  "headline": "ARIBIOLAB: Largest shareholder repays loan, releasing 3.95m-share pledge worth KRW 4bn",
+  "what_happened": "On Nov 23, 2026, ARIBIOLAB disclosed that its largest shareholder, Aribio Holdings Co., Ltd., fully repaid a loan to Sangsangin Securities Co., Ltd., which released the share pledge covering 3,948,813 shares with a secured amount of KRW 4bn. Following the release, no share pledge contracts remain outstanding, and the shareholder's stake is stated as 13.64% as of the disclosure date.",
+  "key_numbers": [
+   {
+    "label": "Shares released from pledge",
+    "value": "3,948,813 shares"
+   },
+   {
+    "label": "Secured amount released",
+    "value": "KRW 4bn"
+   },
+   {
+    "label": "Largest shareholder's stake",
+    "value": "13.64%"
+   },
+   {
+    "label": "Date of release",
+    "value": "Nov 23, 2026"
+   }
+  ],
+  "why_it_matters": "When a major shareholder repays a loan and its share pledge is released, the shares are no longer encumbered as collateral for that debt, which generally reduces the risk that those shares could be transferred to a lender if the loan defaulted. Filings of this type are typically follow-ups to earlier pledge disclosures and are often used by investors to track changes in the controlling shareholder's encumbered holdings.",
+  "company_short": "ARIBIOLAB"
+ }
+}

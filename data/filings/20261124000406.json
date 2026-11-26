@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000406",
+ "rcept_dt": "20261124",
+ "corp_code": "01565364",
+ "corp_name": "폴레드",
+ "corp_name_eng": "Poled Co., Ltd.",
+ "stock_code": "487580",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000406",
+ "summary": {
+  "headline": "Poled Co., Ltd. signs KRW 5bn share buyback trust contract, runs Nov 25, 2026 to May 25, 2027",
+  "what_happened": "Poled Co., Ltd. decided on Nov 24, 2026 to enter into a new trust contract for acquiring its own shares, with a contract amount of KRW 5bn, executed through NH Investment & Securities from Nov 25, 2026 to May 25, 2027. The stated purpose is to stabilize the share price and enhance shareholder value, with purchases made on the KOSDAQ market using the company's own funds.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 25, 2026 to May 25, 2027"
+   },
+   {
+    "label": "Planned shares to acquire (common)",
+    "value": "2,074,688 shares"
+   },
+   {
+    "label": "Planned acquisition price (common)",
+    "value": "KRW 2,410 per share"
+   },
+   {
+    "label": "Acquisition limit under Commercial Act",
+    "value": "KRW 19,102,885,791"
+   }
+  ],
+  "why_it_matters": "Share buyback trust contracts of this type generally signal that a company intends to repurchase its own shares through a third-party broker, which can support the share price in the short term and, depending on how the shares are later used, may reduce the number of shares outstanding. The final use of repurchased shares, such as cancellation, is typically decided later under applicable law.",
+  "company_short": "Poled"
+ }
+}

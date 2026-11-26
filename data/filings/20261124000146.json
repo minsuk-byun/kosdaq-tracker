@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261124000146",
+ "rcept_dt": "20261124",
+ "corp_code": "01141599",
+ "corp_name": "아리바이오LAB",
+ "corp_name_eng": "ARIBIOLAB",
+ "stock_code": "261780",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261124000146",
+ "summary": {
+  "headline": "ARIBIOLAB decides KRW 18bn third-party rights offering at KRW 3,464 per share",
+  "what_happened": "ARIBIOLAB's board approved a third-party rights offering of 5,196,304 new common shares at KRW 3,464 per share, with payment due Dec 23, 2026 and listing expected Jan 12, 2027. The allottee is listed as 주식회사 아리바이오 (Aribio Co., Ltd.), a related company; the amended filing removed 주식회사 아리바이오홀딩스 from the allotment list. All new shares are subject to a one-year custody lock-up.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "5,196,304 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 3,464"
+   },
+   {
+    "label": "Funds for operations",
+    "value": "KRW 18bn"
+   },
+   {
+    "label": "Payment date (amended)",
+    "value": "Dec 23, 2026"
+   },
+   {
+    "label": "Expected listing date (amended)",
+    "value": "Jan 12, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, third-party allotments to specific investors dilute existing shareholders' stake in proportion to the new shares issued, and the issue price relative to market price determines the dilution's economic impact. Lock-up periods limit when allottees can sell, and changes to payment or listing dates can shift the timing of that dilution.",
+  "company_short": "ARIBIOLAB"
+ }
+}

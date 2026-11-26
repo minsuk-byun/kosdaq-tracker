@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125900597",
+ "rcept_dt": "20261125",
+ "corp_code": "00525679",
+ "corp_name": "차바이오텍",
+ "corp_name_eng": "Chabiotech Co.,Ltd.",
+ "stock_code": "085660",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정              (상환전환우선주)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900597",
+ "summary": {
+  "headline": "Chabiotech to cancel 64,828 redeemable preferred shares for KRW 1.23bn on Dec 1, 2026",
+  "what_happened": "Chabiotech's board on Nov 25, 2026 resolved to cancel 64,828 redeemable convertible preferred shares (상환전환우선주) issued on May 17, 2024, with a planned cancellation date of Dec 1, 2026. The cancellation is for the redemption of these preferred shares, with an expected cancellation amount of KRW 1.23bn, and was completed by redemption on Nov 16, 2026. The filing states the cancellation does not involve a reduction in capital and that no remaining shares of this preferred stock will exist after cancellation.",
+  "key_numbers": [
+   {
+    "label": "Preferred shares to be cancelled",
+    "value": "64,828"
+   },
+   {
+    "label": "Total issued shares (common / preferred)",
+    "value": "92,972,846 / 64,828"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Expected cancellation amount",
+    "value": "KRW 1.23bn"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 1, 2026"
+   }
+  ],
+  "why_it_matters": "A share cancellation following the redemption of preferred shares generally means the company is retiring that class of stock and paying the holders the agreed principal and interest under the issuance terms. In Korea, such cancellations that do not reduce capital typically leave the number of outstanding common shares unchanged.",
+  "company_short": "Chabiotech"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126800452",
+ "rcept_dt": "20261126",
+ "corp_code": "00105271",
+ "corp_name": "케이씨씨",
+ "corp_name_eng": "KCC Corporation",
+ "stock_code": "002380",
+ "corp_cls": "Y",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126800452",
+ "summary": {
+  "headline": "KCC Corporation resolves to cancel 293,575 treasury shares, KRW 98.79bn planned",
+  "what_happened": "On Nov 26, 2026, KCC Corporation's board of directors resolved to cancel 293,575 common shares held as treasury stock, out of 1,238,725 treasury shares held, with a scheduled cancellation date of Dec 3, 2026. The company states the cancellation is intended to enhance shareholder value, and that because the shares were acquired within distributable profit, only the share count decreases and capital stock is not reduced. The planned cancellation amount of KRW 98.79bn is calculated using the closing price of KRW 336,500 on the trading day before the board meeting.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "293,575"
+   },
+   {
+    "label": "Planned cancellation amount",
+    "value": "KRW 98.79bn"
+   },
+   {
+    "label": "Total common shares issued",
+    "value": "8,592,896"
+   },
+   {
+    "label": "Treasury shares held before cancellation",
+    "value": "1,238,725"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 3, 2026"
+   }
+  ],
+  "why_it_matters": "A share cancellation of this type reduces the number of shares outstanding, which changes each remaining shareholder's proportional ownership, while capital stock is generally unchanged when treasury shares acquired from distributable profits are cancelled. The scheduled date may be changed depending on consultations with relevant authorities, as the filing notes.",
+  "company_short": "KCC Corporation"
+ }
+}

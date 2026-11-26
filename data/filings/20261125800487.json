@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261125800487",
+ "rcept_dt": "20261125",
+ "corp_code": "01204056",
+ "corp_name": "하이브",
+ "corp_name_eng": "HYBE Co., Ltd.",
+ "stock_code": "352820",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]유상증자결정(종속회사의주요경영사항)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125800487",
+ "summary": {
+  "headline": "HYBE unit HYBE Americas to issue new shares for KRW 378.2bn via in-kind contribution of Dunamu stock",
+  "what_happened": "HYBE Americas Inc., a wholly owned overseas subsidiary of HYBE Co., Ltd., decided on a rights offering of 280,853,801 common shares at KRW 1,346 per share, with payment scheduled for Nov 24, 2026 (revised from the earlier expected date of Nov 30, 2026). The payment is an in-kind contribution of 861,004 Dunamu Inc. common shares held by HYBE, and the funds raised are recorded as KRW 378,197,729,008 for acquiring other companies' securities.",
+  "key_numbers": [
+   {
+    "label": "Funds raised (other securities acquisition)",
+    "value": "KRW 378.2bn"
+   },
+   {
+    "label": "New common shares to be issued",
+    "value": "280,853,801"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,346"
+   },
+   {
+    "label": "Payment date (revised)",
+    "value": "Nov 24, 2026"
+   },
+   {
+    "label": "Subsidiary total assets vs. parent consolidated assets",
+    "value": "KRW 1,616.3bn vs. KRW 5,485.5bn (29.47%)"
+   }
+  ],
+  "why_it_matters": "In Korea, a subsidiary rights offering often reflects intra-group capital restructuring, which can change the subsidiary's capital base and its shareholding structure within the group. Shareholders of the parent typically look at how such transactions affect group asset allocation and the value of the underlying assets transferred.",
+  "company_short": "HYBE"
+ }
+}

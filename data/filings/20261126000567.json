@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000567",
+ "rcept_dt": "20261126",
+ "corp_code": "00118521",
+ "corp_name": "진원생명과학",
+ "corp_name_eng": "GeneOne Life Science, Inc.",
+ "stock_code": "011000",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000567",
+ "summary": {
+  "headline": "GeneOne Life Science: KRW 15bn third-party rights offering, payment moved to Dec 11, 2026",
+  "what_happened": "GeneOne Life Science, Inc. filed a corrected notice on a third-party rights offering of 6,224,066 new common shares at KRW 2,410 per share, to the investment partnership 리볼트투자조합 (Revolt Investment Partnership). The payment date was moved from Nov 26, 2026 to Dec 11, 2026 at the investor's request, with the share certificate issue date and listing date moved to Dec 24, 2026; the filing states the company received a delisting decision from the Korea Exchange on Oct 29, 2026 and filed an objection on Nov 19, 2026.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "6,224,066"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 2,410"
+   },
+   {
+    "label": "Total payment (third-party offering)",
+    "value": "KRW 15bn"
+   },
+   {
+    "label": "Payment date (revised)",
+    "value": "Dec 11, 2026 (previously Nov 26, 2026)"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "18,176,581"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party rights offering allots new shares to selected investors rather than existing shareholders, which can dilute existing holders and, if it changes control, shift the largest shareholder position. Changes to payment or listing dates in such filings typically affect when the new shares are issued and when they can trade.",
+  "company_short": "GeneOne Life Science"
+ }
+}

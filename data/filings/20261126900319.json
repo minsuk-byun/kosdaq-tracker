@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126900319",
+ "rcept_dt": "20261126",
+ "corp_code": "00619640",
+ "corp_name": "에코앤드림",
+ "corp_name_eng": "Eco&Dream Co., Ltd.",
+ "stock_code": "101360",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126900319",
+ "summary": {
+  "headline": "Eco&Dream signs KRW 24.4bn high-nickel NCM precursor supply deal with Umicore",
+  "what_happened": "On Nov 26, 2026, Eco&Dream Co., Ltd. disclosed a single supply contract for high-nickel NCM precursors with counterparty Umicore SA, with a fixed contract amount of KRW 24,364,907,000 (about USD 18.13m, converted at KRW 1,343.9 per USD). The contract period runs from Nov 26, 2026 to Mar 6, 2027, and the filing states that actual supply is expected to end by Jan 14, 2027.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 24.36bn"
+   },
+   {
+    "label": "Contract amount in USD",
+    "value": "USD 18.13m"
+   },
+   {
+    "label": "Share of 2025 consolidated revenue",
+    "value": "17.16%"
+   },
+   {
+    "label": "2025 consolidated revenue",
+    "value": "KRW 141.96bn"
+   },
+   {
+    "label": "Payment terms",
+    "value": "Within 65 days after the last day of the month of shipment; no advance payment"
+   }
+  ],
+  "why_it_matters": "In Korea, single supply contract disclosures report the size of a new order relative to recent revenue, which helps shareholders gauge how much a single customer relationship may contribute to future sales. The contract amount can change with raw material prices, as the filing notes.",
+  "company_short": "Eco&Dream"
+ }
+}

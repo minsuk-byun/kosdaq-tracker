@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261126000283",
+ "rcept_dt": "20261126",
+ "corp_code": "00524421",
+ "corp_name": "테스",
+ "corp_name_eng": "TESCO.,LTD.",
+ "stock_code": "095610",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261126000283",
+ "summary": {
+  "headline": "TESCO (Hites) signs KRW 16bn share buyback trust contract with Shinhan Securities, runs Nov 26, 2026 to Feb 25, 2027",
+  "what_happened": "On Nov 26, 2026, TESCO's board resolved to enter a share buyback trust contract worth KRW 16bn with Shinhan Securities, running from Nov 26, 2026 to Feb 25, 2027, for the stated purpose of stabilising the share price and enhancing shareholder value. The filing states the planned acquisition is 208,333 common shares at a price of KRW 76,800 per share, based on the Nov 25, 2026 closing price, and that actual quantity and price may change with market movements.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 16bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Feb 25, 2027"
+   },
+   {
+    "label": "Planned shares to acquire",
+    "value": "208,333 common shares"
+   },
+   {
+    "label": "Planned acquisition price per share",
+    "value": "KRW 76,800"
+   },
+   {
+    "label": "Treasury shares held before contract (total)",
+    "value": "905,072 common shares"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback trust contract generally means a company has entrusted a securities firm to repurchase its own shares over a set period, which can reduce the number of shares in circulation and is often used to support the share price or return value to shareholders. Actual outcomes depend on how many shares are bought and what the company later does with them, such as cancellation or other use subject to shareholder approval.",
+  "company_short": "TESCO (Hites)"
+ }
+}
