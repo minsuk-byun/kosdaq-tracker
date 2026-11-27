@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127901102",
+ "rcept_dt": "20261127",
+ "corp_code": "01370517",
+ "corp_name": "스트라드비젼",
+ "corp_name_eng": "StradVision, Inc.",
+ "stock_code": "475040",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127901102",
+ "summary": {
+  "headline": "StradVision signs KRW 3.75bn supply deal with ASUX Components India for front-camera recognition solution",
+  "what_happened": "StradVision, Inc. filed a corrected disclosure on a single supply contract to deliver a front-camera recognition solution to ASUX (Aptiv Advanced Safety & User Experience) Components India Pvt Ltd, a shareholder of the company, with supply in India. The correction changed the counterparty name, which now appears as APTIV INDIA PRIVATE LIMITED in the revised filing. The contract period runs from Aug 19, 2026 to Jun 16, 2027, with payment due 90 days after invoicing and no advance payment.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 3.75bn"
+   },
+   {
+    "label": "Ratio to recent revenue (as stated in filing)",
+    "value": "20.7%"
+   },
+   {
+    "label": "Recent revenue of StradVision (as stated in filing)",
+    "value": "KRW 18.11bn"
+   },
+   {
+    "label": "Contract amount in USD (as stated in filing)",
+    "value": "USD 2,659,491"
+   },
+   {
+    "label": "Counterparty recent revenue (2025 consolidated)",
+    "value": "USD 20,398,000,000"
+   }
+  ],
+  "why_it_matters": "Supply contract disclosures in Korea are required when a contract exceeds a set share of a company's recent revenue, and they let shareholders see the scale and timing of new business. Corrections such as a change in counterparty name are typically made to keep the public record accurate and do not by themselves change the contract terms.",
+  "company_short": "StradVision"
+ }
+}

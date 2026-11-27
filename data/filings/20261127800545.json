@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127800545",
+ "rcept_dt": "20261127",
+ "corp_code": "00159740",
+ "corp_name": "KISCO홀딩스",
+ "corp_name_eng": "KISCO Holdings Corp.",
+ "stock_code": "001940",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주요사항보고서(주식교환ㆍ이전결정)(자회사의 주요경영사항)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800545",
+ "summary": {
+  "headline": "KISCO Holdings to take Hankook Steel wholly owned via share exchange; buyback price raised to KRW 13,000",
+  "what_happened": "On Nov 27, 2026, KISCO Holdings Corp. corrected its Oct 30, 2026 material-event report on a share exchange with Hankook Steel (한국철강), under which KISCO Holdings is to become Hankook Steel's wholly owning parent. Following a tender offer at KRW 13,000 per share, KISCO Holdings' stake in Hankook Steel was revised to 78.34% of issued shares, and Hankook Steel's board raised the share-purchase-claim price for dissenting shareholders from KRW 9,700 to KRW 13,000 per share.",
+  "key_numbers": [
+   {
+    "label": "Share-purchase-claim price (raised from KRW 9,700)",
+    "value": "KRW 13,000 per share"
+   },
+   {
+    "label": "KISCO Holdings' stake in Hankook Steel after tender offer",
+    "value": "28,554,641 shares (78.34%)"
+   },
+   {
+    "label": "Maximum new KISCO Holdings shares to be issued in the exchange (revised from 3,661,911)",
+    "value": "865,950 shares"
+   },
+   {
+    "label": "Exchange ratio (KISCO Holdings : Hankook Steel)",
+    "value": "1 : 0.4261670"
+   }
+  ],
+  "why_it_matters": "In Korea, share exchanges that make a company a wholly owned subsidiary typically require the subsidiary's minority shareholders to exchange their shares for the parent's shares, and shareholders who object may exercise share-purchase claims at a price set under law or agreed with the company. Such filings generally indicate the terms and pricing that minority holders may receive, which depend on the outcome of shareholder meetings and any later agreement on price.",
+  "company_short": "KISCO Holdings"
+ }
+}

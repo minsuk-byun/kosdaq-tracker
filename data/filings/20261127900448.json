@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127900448",
+ "rcept_dt": "20261127",
+ "corp_code": "00532059",
+ "corp_name": "그린생명과학",
+ "corp_name_eng": "GREEN LIFESCIENCE CO., LTD.",
+ "stock_code": "114450",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900448",
+ "summary": {
+  "headline": "Green Lifescience signs KRW 16.75bn AI semiconductor materials supply contract with related party Green Chemical",
+  "what_happened": "On Nov 27, 2026, Green Lifescience disclosed a single supply contract for AI semiconductor materials with Green Chemical Co., Ltd., a related company, for a confirmed contract amount of KRW 16.75bn (excluding VAT). The contract runs from Nov 27, 2026 to Apr 30, 2027, supplies are for the domestic market, and the company states the contract is made by in-house production with no advance payment.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 16.75bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "41.52%"
+   },
+   {
+    "label": "Recent revenue (end-2025, K-IFRS separate)",
+    "value": "KRW 40.34bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 27, 2026 to Apr 30, 2027"
+   }
+  ],
+  "why_it_matters": "Supply contracts of this kind are disclosed when a company wins a sizable order, and in Korea they indicate the scale of revenue expected from a given customer over the contract period. Where the counterparty is a related company, shareholders may also look at the terms and whether the deal is conducted on arm's-length conditions.",
+  "company_short": "Green Lifescience"
+ }
+}

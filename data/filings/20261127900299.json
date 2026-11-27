@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127900299",
+ "rcept_dt": "20261127",
+ "corp_code": "01688568",
+ "corp_name": "프로티나",
+ "corp_name_eng": "PROTEINA CO.,LTD.",
+ "stock_code": "468530",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900299",
+ "summary": {
+  "headline": "Proteina signs KRW 1.15bn clinical sample analysis supply deal with European pharma",
+  "what_happened": "Proteina Co., Ltd. entered into a supply contract for clinical sample analysis services with a European multinational pharmaceutical company on Nov 26, 2026, for a fixed contract amount of KRW 1.15bn. The contract period runs from Nov 26, 2026 to Apr 17, 2027, and payment is due within 75 days after the client receives Proteina's invoice, with no advance payment, and the amount is to be received in installments as the service progresses.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount",
+    "value": "KRW 1.15bn (1,147,165,821 won)"
+   },
+   {
+    "label": "Contract amount vs. recent revenue",
+    "value": "38.9% of recent revenue of KRW 2.95bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Apr 17, 2027"
+   },
+   {
+    "label": "USD contract value",
+    "value": "USD 854,372.40 at 1,342.70 won per dollar"
+   }
+  ],
+  "why_it_matters": "Major supply contract disclosures in Korea are required when a contract is large relative to a company's revenue, and they give shareholders visibility into new business awards and their likely effect on future sales. Investors typically also look at payment terms, contract duration, and any conditions or confidentiality limits on the disclosed information.",
+  "company_short": "Proteina"
+ }
+}

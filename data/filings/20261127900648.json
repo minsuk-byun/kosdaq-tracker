@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900648",
+ "rcept_dt": "20261127",
+ "corp_code": "01689266",
+ "corp_name": "케이쓰리아이",
+ "corp_name_eng": "K3I. Co., Ltd.",
+ "stock_code": "431190",
+ "corp_cls": "K",
+ "report_nm": "최대주주변경을수반하는주식양수도계약해제ㆍ취소등",
+ "event": "control",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900648",
+ "summary": {
+  "headline": "K3I: Largest shareholder's KRW 21bn stake sale to J's Commerce cancelled after unpaid second deposit",
+  "what_happened": "On Nov 27, 2026, the seller group led by Lee Jae-young and three others terminated the agreement to transfer 2,916,667 common shares (38.96%) and management control of K3I to J's Commerce and one other party. The buyer failed to pay the second deposit by the Nov 26, 2026 deadline, and the seller notified termination under Article 5 of the amended contract. According to the filing, there is no change in K3I's largest shareholder or management control as a result of this termination.",
+  "key_numbers": [
+   {
+    "label": "Shares covered by the agreement",
+    "value": "2,916,667 shares (38.96%)"
+   },
+   {
+    "label": "Total transfer price",
+    "value": "KRW 21bn"
+   },
+   {
+    "label": "Price per share",
+    "value": "KRW 7,200"
+   },
+   {
+    "label": "Second deposit (5%) due date",
+    "value": "Nov 26, 2026"
+   },
+   {
+    "label": "Termination date",
+    "value": "Nov 27, 2026"
+   }
+  ],
+  "why_it_matters": "When a share transfer that would change a company's largest shareholder is cancelled, the existing controlling shareholders generally remain in place and the change in control does not take effect. Such terminations are commonly triggered by a buyer's failure to meet payment terms.",
+  "company_short": "K3I"
+ }
+}

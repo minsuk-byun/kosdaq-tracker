@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127001910",
+ "rcept_dt": "20261127",
+ "corp_code": "00843900",
+ "corp_name": "육일씨엔에쓰",
+ "corp_name_eng": "RYUK-IL C&S., Ltd.",
+ "stock_code": "191410",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001910",
+ "summary": {
+  "headline": "Ryuk-il C&S. resolves KRW 15bn private convertible bond issuance (3.0% coupon, due Dec 22, 2029)",
+  "what_happened": "On Nov 27, 2026, Ryuk-il C&S. (육일씨엔에쓰) board resolved to issue its 4th series of unregistered, unguaranteed private convertible bonds totaling KRW 15bn, with a 3.0% coupon and maturity on Dec 22, 2029. The proceeds are designated for other-company securities acquisition funding, and the bonds are convertible into common shares from Dec 23, 2027 onward at an initial conversion price of KRW 2,474 per share.",
+  "key_numbers": [
+   {
+    "label": "Bond issue total (face value)",
+    "value": "KRW 15bn"
+   },
+   {
+    "label": "Coupon rate",
+    "value": "3.0% per year"
+   },
+   {
+    "label": "Initial conversion price",
+    "value": "KRW 2,474 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "6,063,055 common shares (25.55% of total)"
+   },
+   {
+    "label": "Maturity date",
+    "value": "Dec 22, 2029"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 23, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, convertible bond issuances can lead to future dilution of existing shareholders if bonds are converted into new shares, and private placements are typically arranged with selected investors rather than offered to the public. Shareholders generally look at the conversion terms, the designated use of proceeds, and any put or call provisions, since these determine how and when the bonds may affect the share count.",
+  "company_short": "Ryuk-il C&S."
+ }
+}

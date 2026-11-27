@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127800209",
+ "rcept_dt": "20261127",
+ "corp_code": "00367844",
+ "corp_name": "자이에스앤디",
+ "corp_name_eng": "Xi S&D Inc.",
+ "stock_code": "317400",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800209",
+ "summary": {
+  "headline": "Xi S&D wins KRW 76.8bn Gangneung apartment construction contract; period amended to Jan 4, 2024–Nov 26, 2026",
+  "what_happened": "Xi S&D Inc. filed a corrected disclosure for its supply contract signed on Sep 5, 2023, to build a 228-unit apartment complex and neighborhood facilities in Songjeong-dong, Gangneung, with the contract counterparty Hugo Partners Co., Ltd. The amendment changes the contract period, which the filing sets at Jan 4, 2024 to Nov 26, 2026 (35 months from construction start), following confirmation of the contract term. The filing states that the contract amount and construction period may change due to building permits and construction progress.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 76.8bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Jan 4, 2024 – Nov 26, 2026"
+   },
+   {
+    "label": "Recent revenue (end-2022 consolidated)",
+    "value": "KRW 2,479bn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "3.1%"
+   },
+   {
+    "label": "Units / structure",
+    "value": "228 apartment units, 3 buildings, B2–21F, plus neighborhood facilities"
+   }
+  ],
+  "why_it_matters": "Large construction contract disclosures in Korea typically indicate a company's order backlog and future revenue visibility, though actual timing and amounts can change with permits and construction progress. Corrections to contract periods are generally administrative updates that clarify when the work is expected to be performed.",
+  "company_short": "Xi S&D"
+ }
+}

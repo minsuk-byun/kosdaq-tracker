@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900824",
+ "rcept_dt": "20261127",
+ "corp_code": "01109539",
+ "corp_name": "와이씨",
+ "corp_name_eng": "YC Corporation",
+ "stock_code": "232140",
+ "corp_cls": "K",
+ "report_nm": "타법인주식및출자증권취득결정",
+ "event": "mna",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900824",
+ "summary": {
+  "headline": "YC Corporation to acquire 42.00% of Sam C&S via KRW 37.2bn cash deal, Dec 30, 2026 settlement",
+  "what_happened": "On Nov 27, 2026, YC Corporation's board resolved to acquire 3,010,894 common shares of Sam C&S (샘씨엔에스), a consolidated subsidiary, from related company Exicon for a stated acquisition amount of KRW 37.2bn, paid in cash. After the acquisition, YC will hold 25,289,184 shares, or 42.00%, with the stated purpose of strengthening consolidated control, and the expected acquisition/settlement date is Dec 30, 2026.",
+  "key_numbers": [
+   {
+    "label": "Acquisition amount",
+    "value": "KRW 37.2bn"
+   },
+   {
+    "label": "Shares acquired",
+    "value": "3,010,894 shares"
+   },
+   {
+    "label": "Stake after acquisition",
+    "value": "42.00% (25,289,184 shares)"
+   },
+   {
+    "label": "Share of company's equity",
+    "value": "7.82%"
+   },
+   {
+    "label": "Expected acquisition date",
+    "value": "Dec 30, 2026"
+   }
+  ],
+  "why_it_matters": "Filings of this type report a company's purchase of shares in another company, which can change its ownership level and control over that company. For shareholders in Korea, such transactions are typically disclosed so they can assess how cash is being deployed and how the group's structure may change.",
+  "company_short": "YC Corporation"
+ }
+}

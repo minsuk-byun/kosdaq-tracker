@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127800433",
+ "rcept_dt": "20261127",
+ "corp_code": "00162063",
+ "corp_name": "한신공영",
+ "corp_name_eng": "HANSHIN CONSTRUCTION CO.,LTD",
+ "stock_code": "004960",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800433",
+ "summary": {
+  "headline": "Hanshin Construction wins KRW 76.7bn redevelopment contract in Geumcheon-gu, Seoul",
+  "what_happened": "Hanshin Construction Co., Ltd. signed a construction contract for the Siheung-dong 859 street-home redevelopment project in Geumcheon-gu, Seoul, with the Siheung 1-dong 859 redevelopment association. The filing is dated Nov 27, 2026, and the contract is paid on a progress-payment basis with no advance payment.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 76.72bn"
+   },
+   {
+    "label": "Recent revenue (2025 consolidated)",
+    "value": "KRW 1.15tn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "6.7%"
+   },
+   {
+    "label": "Contract period",
+    "value": "32 months from actual construction start"
+   }
+  ],
+  "why_it_matters": "Large supply or construction contract disclosures in Korea are required when a contract exceeds a set share of a company's revenue, and they give shareholders a view of the order backlog. Contract amounts and periods can change as construction progresses, so the disclosed figures are provisional.",
+  "company_short": "Hanshin Construction"
+ }
+}

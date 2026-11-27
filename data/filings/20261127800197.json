@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127800197",
+ "rcept_dt": "20261127",
+ "corp_code": "00109693",
+ "corp_name": "DL",
+ "corp_name_eng": "DL Holdings CO.,LTD",
+ "stock_code": "000210",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800197",
+ "summary": {
+  "headline": "DL Holdings unit DL E&C wins KRW 216bn public housing contract in Pyeongtaek, Gyeonggi-do",
+  "what_happened": "DL E&C, a subsidiary of DL Holdings CO., LTD, signed a single supply contract for public housing construction (the Pyeongtaek Godeok A-69BL and A-71BL integrated private-participation public housing project) with Korea Land & Housing Corporation (LH) on Nov 26, 2026. The contract runs from Nov 26, 2026 to Sep 30, 2030, and covers 1,995 households plus ancillary facilities, with DL E&C's share at 33% of the total contract value of KRW 655.7bn (excluding VAT).",
+  "key_numbers": [
+   {
+    "label": "DL E&C contract amount",
+    "value": "KRW 216.4bn (excluding VAT)"
+   },
+   {
+    "label": "Total project contract value",
+    "value": "KRW 655.7bn (excluding VAT)"
+   },
+   {
+    "label": "Share of contract value",
+    "value": "33%"
+   },
+   {
+    "label": "Share of latest revenue",
+    "value": "2.92%"
+   },
+   {
+    "label": "Latest revenue (2025 year-end, consolidated)",
+    "value": "KRW 7.40tn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Sep 30, 2030"
+   }
+  ],
+  "why_it_matters": "Single supply or construction contracts disclosed by Korean listed companies generally indicate the size and timing of new order backlog, which can affect expected future revenue. Contract amounts and periods may change as construction progresses, and payment terms often depend on sales proceeds.",
+  "company_short": "DL Holdings"
+ }
+}

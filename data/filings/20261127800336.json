@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127800336",
+ "rcept_dt": "20261127",
+ "corp_code": "00125974",
+ "corp_name": "삼부토건",
+ "corp_name_eng": "SAMBU CONSTRUCTION CO.,LTD",
+ "stock_code": "001470",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800336",
+ "summary": {
+  "headline": "Sambu Construction amends KRW 105.2bn railway works contract (Chuncheon–Sokcho)",
+  "what_happened": "Sambu Construction filed a corrected disclosure for a supply contract for railway subgrade and structure works on the Chuncheon–Sokcho line, Section 3, with the Korea Rail Network Authority as counterparty. The contract amount was revised from KRW 99.7bn to KRW 105.2bn, with the stated share of total construction cost (KRW 263.05bn, including VAT) attributed to the company's 40% stake. The amendment reason given is a change in contract amount.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount (incl. VAT)",
+    "value": "KRW 105.2bn"
+   },
+   {
+    "label": "Previous contract amount (as originally filed)",
+    "value": "KRW 99.7bn"
+   },
+   {
+    "label": "Share of revenue (revised)",
+    "value": "18.30%"
+   },
+   {
+    "label": "Total construction cost",
+    "value": "KRW 263.05bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Jun 19, 2024 – Mar 19, 2029"
+   }
+  ],
+  "why_it_matters": "Corrections to contract amounts in Korean filings typically reflect updates to contract value and may affect how much revenue a construction company expects to recognize from a project. Large construction contracts are generally significant to shareholders because they can influence a company's order backlog and future revenue visibility.",
+  "company_short": "Sambu Construction"
+ }
+}

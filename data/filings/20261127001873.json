@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001873",
+ "rcept_dt": "20261127",
+ "corp_code": "00602279",
+ "corp_name": "그린플러스",
+ "corp_name_eng": "GREEN PLUS Co., Ltd.",
+ "stock_code": "186230",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001873",
+ "summary": {
+  "headline": "GREEN PLUS Co. amends rights offering: KRW 12bn third-party allotment of redeemable convertible preferred shares",
+  "what_happened": "GREEN PLUS Co., Ltd. filed a corrected major-matters report on its third-party allotment rights offering, originally filed on Dec 16, 2021. The amendment extends the redemption period to Dec 22, 2027 and the conversion period end date to Dec 23, 2027, and changes the stated term of the new shares from 5 years to 6 years.",
+  "key_numbers": [
+   {
+    "label": "Issue price per share",
+    "value": "KRW 14,500"
+   },
+   {
+    "label": "New shares (redeemable convertible preferred)",
+    "value": "1,034,482"
+   },
+   {
+    "label": "Facility funding purpose",
+    "value": "KRW 12bn"
+   },
+   {
+    "label": "Operating funds purpose",
+    "value": "KRW 2.999bn"
+   },
+   {
+    "label": "Redemption period (as amended)",
+    "value": "Dec 23, 2024 to Dec 22, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, rights offerings and convertible preferred share issues dilute existing common shareholders when converted and can carry redemption or conversion rights that affect the company's future share count and cash obligations. Corrections to such filings typically change the terms investors rely on, so shareholders often review the amended dates and conditions.",
+  "company_short": "GREEN PLUS"
+ }
+}

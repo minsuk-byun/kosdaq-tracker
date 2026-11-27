@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900951",
+ "rcept_dt": "20261127",
+ "corp_code": "01310773",
+ "corp_name": "엔시스",
+ "corp_name_eng": "Nsys Co., Ltd.",
+ "stock_code": "333620",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900951",
+ "summary": {
+  "headline": "Nsys signs KRW 7.29bn mixer and filling equipment supply deal with LIG Nex1 (amended end date)",
+  "what_happened": "Nsys Co., Ltd. filed an amended disclosure for a single supply contract for mixer and filling equipment with LIG Nex1 Co., Ltd., a domestic customer. The amendment changes the contract period end date from Nov 30, 2026 to Jan 29, 2027, reflecting a delivery date change requested by the customer. The contract period runs from Mar 11, 2026 to Jan 29, 2027, and the contract was signed on Mar 12, 2026.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 7.29bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "11.59%"
+   },
+   {
+    "label": "Recent revenue of Nsys (2024 consolidated)",
+    "value": "KRW 62.9bn"
+   },
+   {
+    "label": "Contract end date (amended)",
+    "value": "Jan 29, 2027 (previously Nov 30, 2026)"
+   },
+   {
+    "label": "Advance payment",
+    "value": "30% within 15 days of contract date"
+   }
+  ],
+  "why_it_matters": "Supply contracts of this kind are typically disclosed because they represent a sizable order relative to a company's revenue, and changes to delivery or contract periods can affect the timing of revenue recognition and cash flows for shareholders. Amended filings like this one usually signal a schedule adjustment rather than a change in the contract's value.",
+  "company_short": "Nsys"
+ }
+}

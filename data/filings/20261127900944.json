@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900944",
+ "rcept_dt": "20261127",
+ "corp_code": "00872656",
+ "corp_name": "금양그린파워",
+ "corp_name_eng": "KUMYANG GREEN POWER CO., Ltd.",
+ "stock_code": "282720",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900944",
+ "summary": {
+  "headline": "KUMYANG GREEN POWER amends KRW 81.3bn solar plant contract; end date moved to Dec 31, 2026",
+  "what_happened": "KUMYANG GREEN POWER filed a corrected disclosure for its contract to build the 108.83MW Haeoreum Energy solar power plant in Jeju's Seogwipo-si, citing a change to the construction contract. The contract period end date was revised from Nov 28, 2026 to Dec 31, 2026, and the filing notes that the Dec 31 date is a provisional entry still under discussion with the client. The filing states that invoiced and received amounts as of the original end date were KRW 70.49bn, or 86.66% of the pre-correction contract amount, and that this figure was confirmed by the Korea Exchange.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (supply value, excl. VAT)",
+    "value": "KRW 81.33bn"
+   },
+   {
+    "label": "Total project contract amount (joint contract)",
+    "value": "KRW 125.13bn"
+   },
+   {
+    "label": "Company's construction share in joint contract",
+    "value": "65%"
+   },
+   {
+    "label": "Contract end date (revised)",
+    "value": "Dec 31, 2026 (previously Nov 28, 2026)"
+   },
+   {
+    "label": "Invoiced and received as of original end date",
+    "value": "KRW 70.49bn (86.66% of pre-correction amount)"
+   }
+  ],
+  "why_it_matters": "Corrected supply or construction contract filings in Korea typically update contract terms such as amounts, counterparties, or completion dates, which can affect the timing of revenue recognition for shareholders. Such filings often indicate that the company will issue a further correction once a provisional date is finalized with the client.",
+  "company_short": "Kumyang Green Power"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127901068",
+ "rcept_dt": "20261127",
+ "corp_code": "01135084",
+ "corp_name": "에스와이스틸텍",
+ "corp_name_eng": "SY STEEL TECH, Inc.",
+ "stock_code": "365330",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127901068",
+ "summary": {
+  "headline": "SY STEEL TECH amends KRW 12.96bn supply contract for The Hyundai Gwangju project, 13.31% of sales",
+  "what_happened": "SY STEEL TECH filed a corrected disclosure for a single supply contract, revising the counterparty to Hyundai E&C Co., Ltd. and the contract start date to Nov 16, 2026. The contract was taken over by its wholly owned subsidiary, SY Steel Tech Gwangju Co., Ltd., which signed a subcontract with Hyundai E&C for deck plate work on The Hyundai Gwangju new construction project, running from Nov 16, 2026 to May 21, 2029.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 12.96bn"
+   },
+   {
+    "label": "Share of recent sales",
+    "value": "13.31%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 16, 2026 to May 21, 2029"
+   },
+   {
+    "label": "Contract date",
+    "value": "Jun 30, 2026"
+   }
+  ],
+  "why_it_matters": "A supply contract disclosure of this type generally indicates a sizable order relative to a company's sales, which can affect expected revenue over the contract period. Corrections to counterparty or contract terms, such as transfers to subsidiaries, are typically disclosed so shareholders can track changes to the contract's terms and its execution.",
+  "company_short": "SY Steel Tech"
+ }
+}

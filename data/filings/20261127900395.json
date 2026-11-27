@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127900395",
+ "rcept_dt": "20261127",
+ "corp_code": "00920731",
+ "corp_name": "케이앤에스아이앤씨",
+ "corp_name_eng": "KNS Space and Defence Inc.",
+ "stock_code": "487400",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900395",
+ "summary": {
+  "headline": "KNS Space and Defence wins KRW 1.49bn supply contract for fishery management satellite network redundancy",
+  "what_happened": "On Nov 27, 2026, KNS Space and Defence Inc. signed a single supply contract to build infrastructure for redundancy of the Fishery Management Agency's dedicated satellite network, with counterparty KX NEXG Co., Ltd. The contract is unconditional and runs from Nov 27, 2026 to Dec 31, 2030, with payment due after completion inspection and no advance payment.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 1.49bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "8.37%"
+   },
+   {
+    "label": "Recent revenue (2025, standalone)",
+    "value": "KRW 17.78bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 27, 2026 to Dec 31, 2030"
+   }
+  ],
+  "why_it_matters": "Single supply contract disclosures in Korea report a contract's size relative to the company's recent revenue and its terms, which lets shareholders gauge how much a particular order could affect the company's business. Contract size and timing alone do not determine a company's overall financial outcome.",
+  "company_short": "KNS Space and Defence"
+ }
+}

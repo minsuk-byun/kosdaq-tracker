@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127800653",
+ "rcept_dt": "20261127",
+ "corp_code": "00106313",
+ "corp_name": "금호건설",
+ "corp_name_eng": "KUMHO Engineering & Construction Co., Ltd.",
+ "stock_code": "002990",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800653",
+ "summary": {
+  "headline": "KUMHO Engineering & Construction amends KRW 206.5bn Gongju gas power plant contract",
+  "what_happened": "KUMHO Engineering & Construction Co., Ltd. filed a corrected disclosure for a single supply contract for the Gongju Natural Gas Power Plant construction project, signed with Korea Western Power Co., Ltd. The correction, made on Nov 27, 2026 and related to a change in the subcontract, raised the contract amount from KRW 202.5bn to KRW 206.6bn, and raised the total project contract amount from KRW 289.3bn to KRW 295.1bn (VAT included). The company's construction share is 70% of the total project.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (corrected)",
+    "value": "KRW 206.6bn"
+   },
+   {
+    "label": "Contract amount (original filing)",
+    "value": "KRW 202.5bn"
+   },
+   {
+    "label": "Share of recent revenue (corrected)",
+    "value": "10.08%"
+   },
+   {
+    "label": "Total project contract amount (corrected, VAT incl.)",
+    "value": "KRW 295.1bn"
+   },
+   {
+    "label": "Company construction share",
+    "value": "70%"
+   },
+   {
+    "label": "Contract period",
+    "value": "May 1, 2024 to Apr 30, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, corrected supply contract disclosures usually indicate that previously reported contract values or terms have been revised, which can affect how investors read the scale of a company's order backlog and expected revenue. Contract amounts may also change over the project period due to design changes or other business conditions.",
+  "company_short": "KUMHO Engineering & Construction"
+ }
+}

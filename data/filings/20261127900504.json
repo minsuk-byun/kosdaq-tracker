@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900504",
+ "rcept_dt": "20261127",
+ "corp_code": "00133876",
+ "corp_name": "세보엠이씨",
+ "corp_name_eng": "SEBO MANUFACTURING ENGINEERING CORPORATION",
+ "stock_code": "011560",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900504",
+ "summary": {
+  "headline": "SEBO M.E.C. wins KRW 72.4bn Asan mechanical facilities contract from Samsung C&T",
+  "what_happened": "SEBO Manufacturing Engineering Corporation signed a single supply contract for the Asan mechanical facilities construction project with Samsung C&T Corporation, dated Nov 27, 2026. The contract is unconditional, with a fixed contract amount of KRW 72.4bn (excluding VAT) and runs from Nov 30, 2026 to Jan 31, 2028.",
+  "key_numbers": [
+   {
+    "label": "Fixed contract amount (excl. VAT)",
+    "value": "KRW 72.4bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "10.11%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 30, 2026 to Jan 31, 2028"
+   },
+   {
+    "label": "Contract date (order received)",
+    "value": "Nov 27, 2026"
+   },
+   {
+    "label": "Company's recent revenue (2025 consolidated)",
+    "value": "KRW 715.8bn"
+   }
+  ],
+  "why_it_matters": "Large single supply contracts like this one are typically disclosed under Korean rules because they can materially affect a listed company's future revenue and order backlog. Shareholders often monitor such filings to gauge the scale of new work relative to the company's existing sales.",
+  "company_short": "SEBO M.E.C."
+ }
+}

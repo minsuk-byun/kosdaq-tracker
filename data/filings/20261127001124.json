@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001124",
+ "rcept_dt": "20261127",
+ "corp_code": "00159740",
+ "corp_name": "KISCO홀딩스",
+ "corp_name_eng": "KISCO Holdings Corp.",
+ "stock_code": "001940",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]주요사항보고서(주식교환ㆍ이전결정)",
+ "event": "mna",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001124",
+ "summary": {
+  "headline": "KISCO Holdings to absorb Hanguk Steel via share exchange; tender offer gave 78.34% stake, shares issued up to 865,950",
+  "what_happened": "KISCO Holdings Corp. is carrying out a comprehensive share exchange to make Hanguk Steel Co., Ltd. a wholly-owned subsidiary, with an exchange ratio of 1 : 0.4261670. Following a tender offer at KRW 13,000 per share, KISCO Holdings' stake in Hanguk Steel rose from 60.34% to 78.34%, and the maximum number of new shares to be issued fell from 3,661,911 to 865,950; Hanguk Steel is expected to be delisted after the exchange.",
+  "key_numbers": [
+   {
+    "label": "Tender offer price per share",
+    "value": "KRW 13,000"
+   },
+   {
+    "label": "KISCO Holdings stake in Hanguk Steel after tender offer",
+    "value": "78.34% (28,554,641 shares)"
+   },
+   {
+    "label": "Maximum new KISCO Holdings shares to be issued",
+    "value": "865,950 shares (previously up to 3,661,911)"
+   },
+   {
+    "label": "Share exchange ratio",
+    "value": "1 : 0.4261670"
+   },
+   {
+    "label": "Share repurchase claim purchase price",
+    "value": "KRW 24,549 per share"
+   }
+  ],
+  "why_it_matters": "In Korea, share exchanges that make a listed company a wholly-owned subsidiary typically convert the remaining minority shareholders' holdings into shares of the parent company, and the subsidiary's listing is often subsequently removed. Dissenting shareholders generally have a statutory right to demand purchase of their shares at a set price.",
+  "company_short": "KISCO Holdings"
+ }
+}

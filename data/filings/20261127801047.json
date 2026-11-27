@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127801047",
+ "rcept_dt": "20261127",
+ "corp_code": "00109693",
+ "corp_name": "DL",
+ "corp_name_eng": "DL Holdings CO.,LTD",
+ "stock_code": "000210",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801047",
+ "summary": {
+  "headline": "DL Holdings' subsidiary DL E&C wins KRW 201.4bn redevelopment contract in Seoul's Yeongdeungpo-gu",
+  "what_happened": "DL E&C, a subsidiary of DL Holdings, signed a construction contract for the Yuwon Jeil 1st Apartment housing redevelopment project in Dangsan-dong, Yeongdeungpo-gu, Seoul, with the project's redevelopment association. The project covers 8 apartment buildings with 550 households, ranging from 3 basement floors to 25 above-ground floors, plus ancillary facilities. The contract period runs from Nov 28, 2024 to Feb 29, 2028, and the filing states the contract date as Nov 27, 2026.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 201.4bn"
+   },
+   {
+    "label": "Share of latest revenue",
+    "value": "2.72%"
+   },
+   {
+    "label": "Latest revenue (FY2025 consolidated)",
+    "value": "KRW 7.40tn"
+   },
+   {
+    "label": "Households",
+    "value": "550"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 28, 2024 to Feb 29, 2028"
+   }
+  ],
+  "why_it_matters": "Large construction contracts in Korea are disclosed to show a company's order backlog and its revenue visibility over the contract period. Such filings are also typically noted for the terms that can change during construction, which the filing says applies here.",
+  "company_short": "DL Holdings"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001604",
+ "rcept_dt": "20261127",
+ "corp_code": "00307028",
+ "corp_name": "경남제약",
+ "corp_name_eng": "KYUNG NAM PHARM.CO.,LTD.",
+ "stock_code": "053950",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001604",
+ "summary": {
+  "headline": "Kyung Nam Pharm: third-party rights offering of 3,164,556 shares, KRW 4bn for operations",
+  "what_happened": "On Nov 27, 2026, Kyung Nam Pharm's board resolved a third-party allotment rights offering of 3,164,556 common shares at KRW 1,264 per share, with payment due on Dec 7, 2026 and listing expected on Dec 29, 2026. The filing states the proceeds are for operating funds (KRW 4bn), and that the largest shareholder is expected to change from (주)빌리언스 and one other person to (주)엑스 once payment is made.",
+  "key_numbers": [
+   {
+    "label": "New shares issued",
+    "value": "3,164,556 common shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 1,264"
+   },
+   {
+    "label": "Operating funds raised",
+    "value": "KRW 4bn"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 7, 2026"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "19,619,649 common shares"
+   }
+  ],
+  "why_it_matters": "In Korea, third-party allotment rights offerings let a company sell new shares to selected investors rather than to all existing shareholders, which can dilute existing holdings and may change control when the new investor becomes the largest shareholder. Shares issued this way are typically subject to a lock-up period, and the issue price is usually set at a discount to a reference price.",
+  "company_short": "Kyung Nam Pharm"
+ }
+}

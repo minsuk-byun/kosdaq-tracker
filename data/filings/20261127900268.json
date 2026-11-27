@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900268",
+ "rcept_dt": "20261127",
+ "corp_code": "00360577",
+ "corp_name": "엑사이엔씨",
+ "corp_name_eng": "EXA E&C, Inc",
+ "stock_code": "054940",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900268",
+ "summary": {
+  "headline": "EXA E&C amends KRW 20.5bn Pyeongtaek P5 construction contract with Samsung E&A",
+  "what_happened": "EXA E&C filed a corrected disclosure for its single supply contract for the Pyeongtaek Electronics P5 complex building waterproofing construction (Phase B), with Samsung E&A Co., Ltd. as the counterparty. The contract amount was revised from KRW 19.02bn to KRW 20.53bn, reflecting design and quantity adjustments finalized during the project, and the contract period runs from Aug 14, 2026 to May 30, 2028, in Pyeongtaek, Gyeonggi-do.",
+  "key_numbers": [
+   {
+    "label": "Revised contract amount",
+    "value": "KRW 20.53bn (previously KRW 19.02bn)"
+   },
+   {
+    "label": "Share of recent revenue (revised)",
+    "value": "11.59% (previously 10.74%)"
+   },
+   {
+    "label": "Recent revenue (FY2025, consolidated)",
+    "value": "KRW 177.00bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Aug 14, 2026 to May 30, 2028"
+   },
+   {
+    "label": "Performance bond rate",
+    "value": "10%"
+   }
+  ],
+  "why_it_matters": "Supply and construction contract disclosures in Korea typically show the size of a company's new or revised orders relative to its revenue, and amendments can signal changes in project scope or value. Such contracts are often subject to schedule and amount changes, as this filing itself notes.",
+  "company_short": "EXA E&C"
+ }
+}

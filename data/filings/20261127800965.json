@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127800965",
+ "rcept_dt": "20261127",
+ "corp_code": "01524093",
+ "corp_name": "DL이앤씨",
+ "corp_name_eng": "DL E&C CO.,LTD.",
+ "stock_code": "375500",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800965",
+ "summary": {
+  "headline": "DL E&C wins KRW 201.4bn apartment reconstruction contract in Seoul's Yeongdeungpo-gu",
+  "what_happened": "DL E&C signed a construction contract worth KRW 201.37bn with the Yuwon Jeil 1st Apartment Redevelopment Association for the Yuwon Jeil 1st Apartment housing reconstruction project at Dangsan-dong 4-ga, Yeongdeungpo-gu, Seoul, with the contract dated Nov 27, 2026. The filing states the project covers 8 apartment buildings with 550 households and underground 3 / above-ground 25 floors, with a contract period from Nov 28, 2024 to Feb 29, 2028; no down payment or advance payment applies, and payment is made from sales proceeds. The filing notes the original 2021.05 contract did not meet disclosure thresholds, and the company disclosed it now because a change contract was executed in Nov 2026.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 201.37bn"
+   },
+   {
+    "label": "Share of latest revenue",
+    "value": "2.72%"
+   },
+   {
+    "label": "Latest revenue (FY2025 consolidated)",
+    "value": "KRW 7.40tn"
+   },
+   {
+    "label": "Households / buildings",
+    "value": "550 households in 8 buildings"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 28, 2024 to Feb 29, 2028"
+   }
+  ],
+  "why_it_matters": "Large construction supply contracts in Korea are typically disclosed to inform shareholders of new order backlog that may affect future construction revenue. Contract amounts are often subject to change as project progress evolves, and payment terms (such as sales-proceeds-based payment) can affect cash flow timing.",
+  "company_short": "DL E&C"
+ }
+}

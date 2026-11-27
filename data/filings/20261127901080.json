@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127901080",
+ "rcept_dt": "20261127",
+ "corp_code": "01288827",
+ "corp_name": "HPSP",
+ "corp_name_eng": "HPSP Co., Ltd.",
+ "stock_code": "403870",
+ "corp_cls": "K",
+ "report_nm": "최대주주변경을수반하는주식담보제공계약체결",
+ "event": "control",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127901080",
+ "summary": {
+  "headline": "HPSP: Largest shareholder pledges entire 20.41% stake for KRW 160bn bank loan",
+  "what_happened": "On Nov 27, 2026, HPSP's largest shareholder, Hit2025 Holdings Co., Ltd., entered into a share pledge agreement covering all of its common shares in HPSP (16,840,000 shares) as collateral for a share-backed loan with a financial institution. The lender named in the filing is Hana Bank, and the filing notes the lender may change if the loan receivable is later transferred. The pledge period runs for 36 months from Nov 27, 2026, and the filing lists loan default (acceleration of the debt) as the enforcement condition.",
+  "key_numbers": [
+   {
+    "label": "Shares pledged",
+    "value": "16,840,000 shares (20.41% of voting shares)"
+   },
+   {
+    "label": "Stake held by largest shareholder before pledge",
+    "value": "20.41%"
+   },
+   {
+    "label": "Debt amount / pledged secured amount",
+    "value": "KRW 160bn"
+   },
+   {
+    "label": "Pledge period",
+    "value": "36 months (Nov 27, 2026 to Nov 26, 2029)"
+   },
+   {
+    "label": "Stake if pledged shares were fully enforced",
+    "value": "0.00%"
+   }
+  ],
+  "why_it_matters": "Share pledge filings generally signal that a major shareholder has used its shares as collateral for borrowing; if the borrower defaults, the lender may enforce the pledge, which could transfer shares to the lender and potentially change the largest shareholder. Investors in Korean listed companies typically watch such filings for changes in ownership control and the terms under which enforcement could occur.",
+  "company_short": "HPSP"
+ }
+}

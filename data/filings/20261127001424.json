@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001424",
+ "rcept_dt": "20261127",
+ "corp_code": "00543204",
+ "corp_name": "아이오케이이엔엠",
+ "corp_name_eng": "IOKENM CO.,LTD.",
+ "stock_code": "078860",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001424",
+ "summary": {
+  "headline": "IOKENM Co.,Ltd. Plans KRW 8bn Third-Party Rights Offering at KRW 2,580 per Share, Payment Dec 30, 2026",
+  "what_happened": "IOKENM Co.,Ltd.'s board approved on Jun 25, 2026 a third-party allotment rights offering of 5,813,953 new common shares at KRW 2,580 per share, with the subscriber listed as Konterra 31 Fund. The revised filing moves the payment date from Nov 30, 2026 to Dec 30, 2026, the dividend start date to Jan 1, 2027, and the expected listing date to Jan 21, 2027.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "5,813,953"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 2,580"
+   },
+   {
+    "label": "Funds for operations and other purposes",
+    "value": "KRW 7,999,998,740 (operating funds) and KRW 7,000,000,000 (other funds)"
+   },
+   {
+    "label": "Revised payment date",
+    "value": "Dec 30, 2026 (previously Nov 30, 2026)"
+   },
+   {
+    "label": "Expected listing date",
+    "value": "Jan 21, 2027 (previously Dec 21, 2026)"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to a selected investor rather than existing shareholders, which can dilute existing holders' ownership and may change the largest shareholder. Filings like this also typically note lock-up or transfer restrictions on the new shares that affect when they can be sold.",
+  "company_short": "IOKENM"
+ }
+}

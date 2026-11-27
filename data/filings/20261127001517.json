@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127001517",
+ "rcept_dt": "20261127",
+ "corp_code": "00528791",
+ "corp_name": "제일엠앤에스",
+ "corp_name_eng": "JEIL M&S CO., LTD",
+ "stock_code": "412540",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001517",
+ "summary": {
+  "headline": "JEIL M&S issues KRW 2bn convertible bonds under court-approved rehabilitation plan",
+  "what_happened": "On Nov 19, 2026, JEIL M&S's board approved the issuance of its 3rd series of unlisted, unsecured private convertible bonds with a total face value of KRW 2bn, to be paid in cash on Nov 27, 2026, with maturity on Nov 27, 2031. The bonds were issued under a rehabilitation plan approved by the Suwon Bankruptcy Court on Oct 8, 2026, and the filing was amended to correct the conversion-related ratio to outstanding shares from 10.31% to 9.35%.",
+  "key_numbers": [
+   {
+    "label": "Bond face value (total)",
+    "value": "KRW 2bn"
+   },
+   {
+    "label": "Coupon rate / maturity yield",
+    "value": "5.0% coupon / 8.0% maturity yield"
+   },
+   {
+    "label": "Conversion price per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "4,000,000 common shares (9.35% of total shares)"
+   },
+   {
+    "label": "Redemption amount at maturity",
+    "value": "128.6273% of face value"
+   },
+   {
+    "label": "Remaining issuance limit under rehabilitation plan",
+    "value": "KRW 8bn total (KRW 2bn issued in this series)"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances can lead to dilution of existing shareholders' stakes if bondholders later convert into new shares, and their terms (conversion price, redemption features, put options) determine how much dilution and cash obligation may arise. Private placements of this kind are generally subject to transfer restrictions for a set period, and their details are typically disclosed so investors can assess potential future share issuance.",
+  "company_short": "JEIL M&S"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127801069",
+ "rcept_dt": "20261127",
+ "corp_code": "00106313",
+ "corp_name": "금호건설",
+ "corp_name_eng": "KUMHO Engineering & Construction Co., Ltd.",
+ "stock_code": "002990",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801069",
+ "summary": {
+  "headline": "KUMHO Engineering & Construction wins KRW 223.5bn Pyeongtaek Godeok public housing contract from KLH",
+  "what_happened": "KUMHO Engineering & Construction Co., Ltd. disclosed a supply contract for a construction project in Pyeongtaek Godeok A-72BL and A-73BL, a private-participation public housing development, with Korea Land & Housing Corporation (LH) as the counterparty. The project covers 1,295 housing units in the Pyeongtaek Godeok International Plan housing development district in Gyeonggi-do, with the contract running from Nov 27, 2026 to Jun 30, 2030. The total project contract value is KRW 328.9bn (including VAT), and the disclosed KRW 223.5bn corresponds to the company's 50.1% construction share.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (company share)",
+    "value": "KRW 223.49bn"
+   },
+   {
+    "label": "Total project contract value (incl. VAT)",
+    "value": "KRW 328.9bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "11.07%"
+   },
+   {
+    "label": "Company construction share",
+    "value": "50.1%"
+   },
+   {
+    "label": "Housing units",
+    "value": "1,295 units"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 27, 2026 to Jun 30, 2030"
+   }
+  ],
+  "why_it_matters": "Large supply or construction contracts disclosed in Korea typically indicate new order backlog that can affect a construction company's future revenue and its exposure to project execution, payment timing, and contract changes. Investors usually review the contract size relative to recent sales, the payment terms, and the possibility of later amendments stated in the filing.",
+  "company_short": "KUMHO Engineering & Construction"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001745",
+ "rcept_dt": "20261127",
+ "corp_code": "00369569",
+ "corp_name": "비케이홀딩스",
+ "corp_name_eng": "BK Holdings CO.,LTD.",
+ "stock_code": "050090",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001745",
+ "summary": {
+  "headline": "BK Holdings issues KRW 2bn convertible bonds (8th series) to private investors",
+  "what_happened": "On Oct 27, 2026, BK Holdings CO.,LTD. decided to issue its 8th series of unsecured, private placement convertible bonds with a total face value of KRW 2bn, with proceeds designated for acquiring securities of another company. The filing was corrected on Nov 27, 2026, changing the payment date and related dates to Dec 17, 2026, with the bonds maturing on Dec 17, 2029.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 2bn"
+   },
+   {
+    "label": "Conversion price (provisional)",
+    "value": "KRW 2,810 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "711,743 shares (9.43% of total issued shares)"
+   },
+   {
+    "label": "Maturity date (as corrected)",
+    "value": "Dec 17, 2029"
+   },
+   {
+    "label": "Minimum adjusted conversion price",
+    "value": "KRW 1,967 per share"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances can lead to dilution for existing shareholders if the bonds are converted into new shares, and conversion prices may be adjusted under contractual terms. Privately placed bonds are generally sold to a limited set of investors and typically cannot be transferred for a set period after issuance.",
+  "company_short": "BK Holdings"
+ }
+}

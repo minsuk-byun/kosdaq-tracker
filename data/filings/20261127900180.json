@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900180",
+ "rcept_dt": "20261127",
+ "corp_code": "01514005",
+ "corp_name": "크라우드웍스",
+ "corp_name_eng": "CrowdWorks, Inc.",
+ "stock_code": "355390",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]최대주주변경",
+ "event": "control",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900180",
+ "summary": {
+  "headline": "CrowdWorks: XRP Fund No. 1 becomes largest shareholder via KRW 9.0bn rights issue, 12.68% stake",
+  "what_happened": "On Feb 6, 2026, XRP Fund No. 1 (엑스알피1호조합) became CrowdWorks' largest shareholder through a third-party private placement rights issue, taking a 12.68% stake from former largest shareholder Park Min-woo and related party Kim Woo-seung. The acquirer's stated purpose is management participation, with planned replacement of existing executives and appointment of new ones; the purchase was financed by a loan from Shinbanks Co., Ltd. This corrective filing (dated Nov 27, 2026) amends the funding-method description, and the fund's financial figures are reported as of the original submission date.",
+  "key_numbers": [
+   {
+    "label": "New largest shareholder's stake (after change)",
+    "value": "12.68% (1,973,903 shares)"
+   },
+   {
+    "label": "Former largest shareholder's stake (before change)",
+    "value": "11.85% (1,844,802 shares)"
+   },
+   {
+    "label": "Loan amount used for acquisition",
+    "value": "KRW 9.0bn"
+   },
+   {
+    "label": "Change date",
+    "value": "Feb 6, 2026"
+   },
+   {
+    "label": "Fund's total capital (as stated in filing)",
+    "value": "KRW 9.0bn"
+   }
+  ],
+  "why_it_matters": "A change in largest shareholder in Korea typically signals a possible shift in control or management direction, and it often comes with announced plans to replace executives. Shareholders generally look at the acquirer's funding source, any lock-up on newly issued shares, and whether the new holder intends to participate in management.",
+  "company_short": "CrowdWorks"
+ }
+}

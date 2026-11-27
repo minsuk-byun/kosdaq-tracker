@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127900205",
+ "rcept_dt": "20261127",
+ "corp_code": "00105466",
+ "corp_name": "KCC건설",
+ "corp_name_eng": "KCC ENGINEERING & CONSTRUCTION CO., LTD.",
+ "stock_code": "021320",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결(자율공시)",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900205",
+ "summary": {
+  "headline": "KCC E&C wins KRW 143.6bn contract for Bucheon NH logistics center construction",
+  "what_happened": "KCC ENGINEERING & CONSTRUCTION CO., LTD. disclosed on Nov 27, 2026 that it signed a construction contract, dated Nov 26, 2026, for the new construction of the Bucheon NH Logistics Center in Samjeong-dong, Bucheon-si, Gyeonggi-do. The counterparty is NH Amundi Logistics Real Estate Private Placement Investment Company No. 1, and the contract runs from Dec 21, 2026 to Jun 21, 2029.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 143.6bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "7.83%"
+   },
+   {
+    "label": "Recent revenue (2025 year-end, standalone)",
+    "value": "KRW 1.83tn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Dec 21, 2026 to Jun 21, 2029"
+   }
+  ],
+  "why_it_matters": "Large construction supply contracts of this kind are typically disclosed so shareholders can gauge the size of a company's new order backlog relative to its revenue. Such contracts are generally paid as work progresses and their amounts can change under the terms of the construction agreement.",
+  "company_short": "KCC E&C"
+ }
+}

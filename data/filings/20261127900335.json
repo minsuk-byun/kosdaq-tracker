@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900335",
+ "rcept_dt": "20261127",
+ "corp_code": "01688568",
+ "corp_name": "프로티나",
+ "corp_name_eng": "PROTEINA CO.,LTD.",
+ "stock_code": "468530",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900335",
+ "summary": {
+  "headline": "PROTEINA signs KRW 1.15bn clinical sample analysis supply contract with European pharma E&E",
+  "what_happened": "PROTEINA CO.,LTD. disclosed a single supply contract for clinical sample analysis services with a European multinational pharmaceutical company, with the contract signed on Nov 26, 2026 and running from Nov 26, 2026 to Apr 17, 2027. The filing is a correction that fixed a typo in the counterparty name, and the counterparty's identity is withheld under a confidentiality clause.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 1.15bn (KRW 1,147,165,821)"
+   },
+   {
+    "label": "USD contract value",
+    "value": "USD 854,372.40"
+   },
+   {
+    "label": "Ratio to recent revenue",
+    "value": "38.9%"
+   },
+   {
+    "label": "Recent revenue (end-2025, standalone)",
+    "value": "KRW 2.95bn"
+   },
+   {
+    "label": "Payment terms",
+    "value": "Within 75 days of customer receiving invoice; paid in installments as service progresses"
+   }
+  ],
+  "why_it_matters": "Supply contracts of this kind show the scale of a company's order intake relative to its recent sales, and the payment timing and installment structure affect when revenue is received. Contract end dates and disclosure deadlines can change, and companies typically update the market if they do.",
+  "company_short": "PROTEINA"
+ }
+}

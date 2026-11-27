@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900213",
+ "rcept_dt": "20261127",
+ "corp_code": "00626464",
+ "corp_name": "지엔씨에너지",
+ "corp_name_eng": "GnCenergy Co., Ltd.",
+ "stock_code": "119850",
+ "corp_cls": "K",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900213",
+ "summary": {
+  "headline": "GnCenergy wins KRW 33.6bn gas turbine generator supply contract with CJ Logistics",
+  "what_happened": "On Nov 26, 2026, GnCenergy signed a domestic supply contract for a gas turbine generator for the Ansan AIDC project with CJ Logistics Corporation, with a contract period from Nov 30, 2026 to Dec 15, 2029. The confirmed contract amount is KRW 33.6bn excluding VAT, equal to 12.8% of the company's recent revenue as stated in the filing.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount (excl. VAT)",
+    "value": "KRW 33.6bn"
+   },
+   {
+    "label": "Contract amount as % of recent revenue",
+    "value": "12.8%"
+   },
+   {
+    "label": "Company recent revenue (FY2025 consolidated)",
+    "value": "KRW 262.6bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 30, 2026 to Dec 15, 2029"
+   },
+   {
+    "label": "Payment terms",
+    "value": "10% down payment; interim payments of 30%, 30%, 25%; final payment 5%"
+   }
+  ],
+  "why_it_matters": "Major supply contract disclosures in Korea report the size of new orders relative to a company's revenue, which helps shareholders gauge potential future sales. Contract amounts and terms may change as the project progresses, so the figures in such filings are not guaranteed to be realized as stated.",
+  "company_short": "GnCenergy"
+ }
+}

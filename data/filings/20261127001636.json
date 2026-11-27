@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001636",
+ "rcept_dt": "20261127",
+ "corp_code": "00122825",
+ "corp_name": "프리티",
+ "corp_name_eng": "FreeT, Inc.",
+ "stock_code": "006490",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001636",
+ "summary": {
+  "headline": "FreeT, Inc. announces KRW 2.9bn third-party rights offering (1,160,000 new shares)",
+  "what_happened": "On Nov 27, 2026, FreeT, Inc. (프리티) approved a third-party allotment rights offering of 1,160,000 common shares at KRW 2,500 per share, with payment due Dec 8, 2026 and listing expected Dec 23, 2026. The company states the proceeds of KRW 2.9bn will be used for operating funds, and the shares will be allocated to Prime Light Investment Partnership No.1, with the company's largest shareholder expected to change from KS Industries to that partnership upon payment.",
+  "key_numbers": [
+   {
+    "label": "New common shares issued",
+    "value": "1,160,000 shares"
+   },
+   {
+    "label": "Issue price per share",
+    "value": "KRW 2,500"
+   },
+   {
+    "label": "Use of proceeds (operating funds)",
+    "value": "KRW 2.9bn"
+   },
+   {
+    "label": "Payment date",
+    "value": "Dec 8, 2026"
+   },
+   {
+    "label": "Expected listing date",
+    "value": "Dec 23, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to selected investors rather than existing shareholders, which can dilute existing holdings and may change the company's controlling shareholder. Shares issued this way are often subject to a lock-up period, as stated in this filing.",
+  "company_short": "FreeT"
+ }
+}

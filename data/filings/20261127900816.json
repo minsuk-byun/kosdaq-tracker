@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900816",
+ "rcept_dt": "20261127",
+ "corp_code": "01559637",
+ "corp_name": "블루엠텍",
+ "corp_name_eng": "BLUEMTEC CO., LTD.",
+ "stock_code": "439580",
+ "corp_cls": "K",
+ "report_nm": "최대주주변경",
+ "event": "control",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900816",
+ "summary": {
+  "headline": "BlueMTec: largest shareholder changes to KDBI Healthcare Value-Up fund (21.37%) on Nov 27, 2026",
+  "what_happened": "On Nov 27, 2026, BLUEMTEC CO., LTD.'s largest shareholder changed from Yeon Je-ryang and three related persons to KDBI Healthcare Value-Up Co., Ltd., which holds 7,131,777 shares, or 21.37%. The change followed completion of a share transfer agreement, and at an extraordinary shareholders' meeting on the same date, new non-executive and independent directors were elected while the existing inside directors and independent directors resigned.",
+  "key_numbers": [
+   {
+    "label": "Shares held by new largest shareholder",
+    "value": "7,131,777 shares (21.37%)"
+   },
+   {
+    "label": "Funds used for acquisition (self-funded)",
+    "value": "KRW 23.07bn"
+   },
+   {
+    "label": "Change effective date",
+    "value": "Nov 27, 2026"
+   },
+   {
+    "label": "Total issued shares (after cancellation)",
+    "value": "33,378,006 shares"
+   },
+   {
+    "label": "Stated purpose of acquisition",
+    "value": "Management participation"
+   }
+  ],
+  "why_it_matters": "In Korea, a change of largest shareholder usually signals a shift in control or management direction, and often leads to board reshuffles and changes in corporate strategy. Shareholders typically watch subsequent filings for new board decisions and any further transactions by the new controlling holder.",
+  "company_short": "BlueMTec"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900659",
+ "rcept_dt": "20261127",
+ "corp_code": "01258710",
+ "corp_name": "이노메트리",
+ "corp_name_eng": "INNOMETRY Co., Ltd.",
+ "stock_code": "302430",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900659",
+ "summary": {
+  "headline": "INNOMETRY corrects supply contract value to KRW 2.22bn after customer payment delay",
+  "what_happened": "INNOMETRY Co., Ltd. filed a corrected disclosure (dated Nov 27, 2026) for its single supply contract for secondary battery manufacturing equipment with counterparty TOP MATERIAL Co., Ltd. The confirmed contract amount was revised from KRW 2.77bn to KRW 2.22bn, reflecting the 80% received to date, because the final balance payment has been delayed due to issues between the counterparty and the end customer. The company states equipment supply is complete, contract amount and scope are unchanged, and it is preparing legal action to recover the balance.",
+  "key_numbers": [
+   {
+    "label": "Original contract amount",
+    "value": "KRW 2.77bn"
+   },
+   {
+    "label": "Corrected confirmed amount (received)",
+    "value": "KRW 2.22bn"
+   },
+   {
+    "label": "Share of original amount received",
+    "value": "80%"
+   },
+   {
+    "label": "Revenue ratio (corrected)",
+    "value": "10.69%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Jan 13, 2022 to Nov 30, 2026"
+   }
+  ],
+  "why_it_matters": "Corrections to supply contract values typically indicate that the amount recognized or confirmed differs from the originally announced figure, often due to payment timing or disputes. Shareholders in Korea generally look to such filings for updates on contract collection risk and any legal or settlement developments the company later discloses.",
+  "company_short": "INNOMETRY"
+ }
+}

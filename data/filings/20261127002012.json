@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127002012",
+ "rcept_dt": "20261127",
+ "corp_code": "01498974",
+ "corp_name": "큐리옥스바이오시스템즈",
+ "corp_name_eng": "Curiox Biosystems Co., Ltd.",
+ "stock_code": "445680",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(전환사채권발행결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127002012",
+ "summary": {
+  "headline": "Curiox Biosystems issues KRW 22.9bn private convertible bonds, conversion price KRW 49,904",
+  "what_happened": "On Nov 27, 2026, Curiox Biosystems Co., Ltd. resolved by board vote to issue its 2nd series of unsecured, non-guaranteed private convertible bonds with a total face value of KRW 22.9bn, maturing Dec 11, 2031, with a 0.0% coupon and a 2.0% maturity yield. The bonds are convertible into 458,881 common shares at an initial conversion price of KRW 49,904, with payment due Dec 11, 2026, and the proceeds are designated for operating funds.",
+  "key_numbers": [
+   {
+    "label": "Total face value of bonds",
+    "value": "KRW 22.9bn"
+   },
+   {
+    "label": "Initial conversion price",
+    "value": "KRW 49,904 per share"
+   },
+   {
+    "label": "Shares issuable on conversion",
+    "value": "458,881 shares (2.59% of total shares)"
+   },
+   {
+    "label": "Maturity yield / coupon",
+    "value": "2.0% maturity yield / 0.0% coupon"
+   },
+   {
+    "label": "Investor Put option floor",
+    "value": "Early redemption at 2.0% compounded yield, starting Dec 11, 2028"
+   },
+   {
+    "label": "Company Call option cap",
+    "value": "Up to KRW 4.58bn (20%)"
+   }
+  ],
+  "why_it_matters": "Convertible bond issuances in Korea can lead to dilution of existing shareholders if the bonds are converted into new shares, and their conversion-price adjustment terms can affect how many shares are ultimately issued. Investors typically review the conversion price, adjustment clauses, and any call or put options to understand potential dilution and the company's financing approach.",
+  "company_short": "Curiox Biosystems"
+ }
+}

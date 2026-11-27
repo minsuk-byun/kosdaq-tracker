@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127800312",
+ "rcept_dt": "20261127",
+ "corp_code": "00162063",
+ "corp_name": "한신공영",
+ "corp_name_eng": "HANSHIN CONSTRUCTION CO.,LTD",
+ "stock_code": "004960",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800312",
+ "summary": {
+  "headline": "Hanshin Construction wins KRW 65.7bn share of Pyeongtaek public housing project with KLH",
+  "what_happened": "Hanshin Construction Co., Ltd. signed a supply contract for construction work on the Pyeongtaek Godeok A-69BL and A-71BL integrated private-participation public housing project, located within the Pyeongtaek Godeok international development district in Gyeonggi-do. The counterparty is Korea Land & Housing Corporation (KLH), and the contract was concluded on Nov 26, 2026, with a period running from Nov 26, 2026 to Sep 30, 2030.",
+  "key_numbers": [
+   {
+    "label": "Company's contract amount (incl. VAT)",
+    "value": "KRW 65.72bn"
+   },
+   {
+    "label": "Total project construction cost",
+    "value": "KRW 657.2bn"
+   },
+   {
+    "label": "Share of contract amount vs. latest revenue",
+    "value": "5.7% of revenue (KRW 1,149.19bn, 2025 consolidated)"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 26, 2026 to Sep 30, 2030"
+   }
+  ],
+  "why_it_matters": "Large construction contract filings in Korea generally indicate new order backlog that may contribute to future revenue for construction companies, and disclosure is required when a contract exceeds a set share of revenue. Contract amounts and periods can change as construction progresses.",
+  "company_short": "Hanshin Construction"
+ }
+}

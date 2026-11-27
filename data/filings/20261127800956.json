@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127800956",
+ "rcept_dt": "20261127",
+ "corp_code": "00159740",
+ "corp_name": "KISCO홀딩스",
+ "corp_name_eng": "KISCO Holdings Corp.",
+ "stock_code": "001940",
+ "corp_cls": "Y",
+ "report_nm": "자기주식취득결정(자회사의 주요경영사항)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800956",
+ "summary": {
+  "headline": "KISCO Holdings' subsidiary Hwanyoung Steel to buy back up to KRW 73bn of shares off-market",
+  "what_happened": "On Nov 26, 2026, the board of Hwanyoung Steel Industry Co., a subsidiary of KISCO Holdings Corp., resolved to acquire its own common shares through an off-market purchase, offered to all shareholders on equal terms. The planned acquisition covers 1,264,413 common shares, with an expected total amount of KRW 72.96bn at KRW 57,700 per share, and the acquired shares are planned to be cancelled. The acquisition period for shareholder sell applications runs from Dec 11, 2026 to Dec 30, 2026.",
+  "key_numbers": [
+   {
+    "label": "Planned shares to acquire",
+    "value": "1,264,413 common shares"
+   },
+   {
+    "label": "Planned acquisition amount",
+    "value": "KRW 72.96bn"
+   },
+   {
+    "label": "Acquisition price per share",
+    "value": "KRW 57,700"
+   },
+   {
+    "label": "Acquisition period",
+    "value": "Dec 11, 2026 to Dec 30, 2026"
+   },
+   {
+    "label": "Maximum acquisition limit (distributable profit basis)",
+    "value": "KRW 544.94bn"
+   }
+  ],
+  "why_it_matters": "In Korea, a share buyback by a company is generally intended to return value to shareholders or support share value, and when shares are subsequently cancelled, the total number of outstanding shares is reduced. Shareholders who choose to sell may receive cash, while those who do not sell keep their shares, and the amount actually paid can vary depending on how many shares shareholders apply to sell.",
+  "company_short": "KISCO Holdings"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127000131",
+ "rcept_dt": "20261127",
+ "corp_code": "00109037",
+ "corp_name": "대성창투",
+ "corp_name_eng": "Daesung Private Equity, Inc.",
+ "stock_code": "027830",
+ "corp_cls": "K",
+ "report_nm": "주요사항보고서(자기주식취득신탁계약체결결정)",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127000131",
+ "summary": {
+  "headline": "Daesung Private Equity signs KRW 1bn share buyback trust deal with KB Securities",
+  "what_happened": "On Nov 27, 2026, the board of Daesung Private Equity, Inc. resolved to enter into a trust contract for the acquisition of treasury shares worth KRW 1bn with KB Securities, running from Nov 27, 2026 to May 27, 2027, for the stated purpose of stabilizing the share price and enhancing shareholder value. The filing states the planned acquisition is 359,712 common shares at KRW 2,780 per share, a figure calculated from the contract amount and based on the Nov 26, 2026 closing price, while actual quantity and price may vary with market movements.",
+  "key_numbers": [
+   {
+    "label": "Trust contract amount",
+    "value": "KRW 1bn"
+   },
+   {
+    "label": "Contract period",
+    "value": "Nov 27, 2026 to May 27, 2027"
+   },
+   {
+    "label": "Planned shares to acquire (common)",
+    "value": "359,712 shares"
+   },
+   {
+    "label": "Planned acquisition price (common)",
+    "value": "KRW 2,780 per share"
+   },
+   {
+    "label": "Treasury shares held before contract (common)",
+    "value": "2,968 shares (0.03%)"
+   },
+   {
+    "label": "Acquisition limit under Commercial Act",
+    "value": "KRW 44.2bn"
+   }
+  ],
+  "why_it_matters": "Share buyback trust contracts are generally entered into by Korean companies to support the share price and return value to shareholders, with the acquired shares typically cancelled or otherwise used as permitted by law. Such a trust means the acquisition is carried out by a securities firm, so the actual number of shares bought and the price paid may differ from the planned figures.",
+  "company_short": "Daesung Private Equity"
+ }
+}

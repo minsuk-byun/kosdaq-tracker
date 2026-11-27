@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001941",
+ "rcept_dt": "20261127",
+ "corp_code": "00109286",
+ "corp_name": "대동",
+ "corp_name_eng": "DAEDONG CORPORATION",
+ "stock_code": "000490",
+ "corp_cls": "Y",
+ "report_nm": "주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001941",
+ "summary": {
+  "headline": "DAEDONG CORPORATION approves rights offering of 15,850,000 new shares, KRW 5bn for facilities",
+  "what_happened": "On Nov 27, 2026, the board of DAEDONG CORPORATION approved a rights offering of 15,850,000 new common shares at a par value of KRW 1,000 per share. The proceeds are earmarked for facility funds (KRW 5bn), working capital (KRW 5,167.5m), debt repayment (KRW 45bn) and other funds (KRW 1.1bn), and the offering is structured as a rights offering to existing shareholders with any unsubscribed shares sold through a public offering.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "15,850,000 shares"
+   },
+   {
+    "label": "Scheduled issue price",
+    "value": "KRW 3,550 per share (final price to be set Feb 3, 2027)"
+   },
+   {
+    "label": "Debt repayment allocation",
+    "value": "KRW 45bn"
+   },
+   {
+    "label": "Facility funds allocation",
+    "value": "KRW 5bn"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "28,826,865 common shares"
+   }
+  ],
+  "why_it_matters": "In Korea, a rights offering gives existing shareholders the first right to subscribe for new shares, usually in proportion to their holdings, and any shares not taken up may be sold to the public. Such offerings can dilute existing shareholders' ownership percentage if they do not subscribe, and the issue price and allocation terms are typically set out in the filing and the securities registration statement.",
+  "company_short": "DAEDONG Corporation"
+ }
+}

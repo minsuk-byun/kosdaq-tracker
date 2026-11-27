@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900138",
+ "rcept_dt": "20261127",
+ "corp_code": "00301112",
+ "corp_name": "삼화네트웍스",
+ "corp_name_eng": "SAMHWA NETWORKS Co.,Ltd.",
+ "stock_code": "046390",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900138",
+ "summary": {
+  "headline": "SAMHWA NETWORKS signs KRW 3.85bn China broadcast license deal for drama series",
+  "what_happened": "SAMHWA NETWORKS disclosed a corrected filing on Nov 27, 2026 for a single supply contract to license the China broadcast rights of the drama \"지금, 헤어지는 중입니다.\" to Hangzhou Youku Culture Entertainment Co., Ltd. The contract was signed on Feb 3, 2022, with a contract period running from Feb 3, 2022 to Mar 7, 2027. The corrected filing states the disclosure had been withheld at the counterparty's request for confidentiality, with the hold period ending Nov 30, 2026, and that the contract's detailed terms would be disclosed after that period.",
+  "key_numbers": [
+   {
+    "label": "Confirmed contract amount",
+    "value": "KRW 3.85bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "13.1%"
+   },
+   {
+    "label": "Recent revenue (basis of ratio)",
+    "value": "KRW 29.30bn"
+   },
+   {
+    "label": "Contract amount in USD",
+    "value": "US$3.2m"
+   },
+   {
+    "label": "Number of episodes",
+    "value": "16"
+   }
+  ],
+  "why_it_matters": "Single supply contracts disclosed under Korean rules typically report a material contract's value relative to recent revenue, letting shareholders gauge its scale for the company. Corrected filings usually update previously withheld details, such as when a confidentiality hold expires.",
+  "company_short": "SAMHWA NETWORKS"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127800430",
+ "rcept_dt": "20261127",
+ "corp_code": "00162063",
+ "corp_name": "한신공영",
+ "corp_name_eng": "HANSHIN CONSTRUCTION CO.,LTD",
+ "stock_code": "004960",
+ "corp_cls": "Y",
+ "report_nm": "단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127800430",
+ "summary": {
+  "headline": "Hanshin Construction wins KRW 149.56bn redevelopment contract in Siheung-dong, Seoul",
+  "what_happened": "Hanshin Construction Co., Ltd. disclosed on Nov 27, 2026 that it signed a construction contract for the Siheung 1-dong 864-1 and surrounding area street-home redevelopment project in Siheung-dong, Geumcheon-gu, Seoul. The counterparty is the Siheung 1-dong 864-1 Street-Home Redevelopment Project Association. The contract is payable on a progress-payment basis, with no advance payment, and the construction period is stated as 36 months from the actual construction start date.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 149.56bn (excluding VAT)"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "13.0%"
+   },
+   {
+    "label": "Recent revenue (2025 consolidated)",
+    "value": "KRW 1.15tn"
+   },
+   {
+    "label": "Construction period",
+    "value": "36 months from actual construction start"
+   },
+   {
+    "label": "Contract date",
+    "value": "Nov 27, 2026"
+   }
+  ],
+  "why_it_matters": "Major supply contract disclosures in Korea report newly won orders above set size thresholds, so investors can see the size of a contract relative to the company's recent sales. The stated amount and payment terms can change as construction progresses, so the figures in such filings are not always final.",
+  "company_short": "Hanshin Construction"
+ }
+}

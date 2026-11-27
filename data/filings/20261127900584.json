@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900584",
+ "rcept_dt": "20261127",
+ "corp_code": "00563518",
+ "corp_name": "비나텍",
+ "corp_name_eng": "VINA TECH CO.,LTD",
+ "stock_code": "126340",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900584",
+ "summary": {
+  "headline": "VINA TECH signs KRW 13.11bn supercapacitor supply deal with SANMINA for data centers",
+  "what_happened": "VINA TECH CO.,LTD signed a single supply contract to supply supercapacitors for data centers to SANMINA CORPORATION, with delivery to India. The contract period runs from Jul 3, 2026 to Jan 30, 2027, and the filing was amended to change the end date from Nov 27, 2026 to Jan 30, 2027 following delivery-schedule discussions with the counterparty.",
+  "key_numbers": [
+   {
+    "label": "Contract amount",
+    "value": "KRW 13.11bn"
+   },
+   {
+    "label": "Recent revenue of VINA TECH (2025)",
+    "value": "KRW 82.23bn"
+   },
+   {
+    "label": "Contract as % of recent revenue",
+    "value": "15.95%"
+   },
+   {
+    "label": "Contract period end (amended)",
+    "value": "Jan 30, 2027"
+   },
+   {
+    "label": "Contract date",
+    "value": "Jul 3, 2026"
+   }
+  ],
+  "why_it_matters": "Single-contract disclosures like this one generally indicate a specific order from a customer that Korean listed companies must report when it exceeds a set share of recent revenue, giving shareholders visibility into order flow. Amendments to contract terms such as delivery dates are typically disclosed so investors can track changes to expected timing of revenue.",
+  "company_short": "VINA TECH"
+ }
+}

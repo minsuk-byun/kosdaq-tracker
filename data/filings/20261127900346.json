@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900346",
+ "rcept_dt": "20261127",
+ "corp_code": "00415327",
+ "corp_name": "중앙백신",
+ "corp_name_eng": "CHOONG ANG VACCINE LABORATORY",
+ "stock_code": "072020",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900346",
+ "summary": {
+  "headline": "Choong Ang Vaccine Labs revises KRW 5.59bn government vaccine supply contract, cutting value from KRW 5.81bn",
+  "what_happened": "Choong Ang Vaccine Laboratory filed a corrected disclosure for a single supply contract with the Public Procurement Service for SAT1-type foot-and-mouth disease vaccines for emergency use, with the contract value revised to KRW 5.59bn from KRW 5.81bn, reflected as late-delivery penalties after final delivery. The contract period runs from Jul 8, 2026 to Dec 7, 2026, and the end date was corrected because overseas lab test reports were issued later than originally scheduled.",
+  "key_numbers": [
+   {
+    "label": "Revised contract value",
+    "value": "KRW 5.59bn (previously KRW 5.81bn)"
+   },
+   {
+    "label": "Share of recent revenue (revised)",
+    "value": "11.39% (previously 11.85%)"
+   },
+   {
+    "label": "Recent revenue (2025, standalone)",
+    "value": "KRW 49.07bn"
+   },
+   {
+    "label": "Delay penalty rate",
+    "value": "0.075%"
+   },
+   {
+    "label": "Contract period",
+    "value": "Jul 8, 2026 to Dec 7, 2026"
+   }
+  ],
+  "why_it_matters": "Corrections to supply contract disclosures in Korea typically reflect changes in final contract amounts, such as penalties or adjusted delivery terms, and can affect how much revenue a contract is expected to contribute. Investors usually check the revised value against the company's revenue to gauge the contract's scale.",
+  "company_short": "Choong Ang Vaccine Laboratory"
+ }
+}

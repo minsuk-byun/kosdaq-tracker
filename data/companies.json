@@ -1558,5 +1558,395 @@
   "est_dt": "19730117",
   "hm_url": "www.cheil.co.kr",
   "induty_code": "71310"
+ },
+ "00843900": {
+  "corp_name": "(주)육일씨엔에쓰",
+  "corp_name_eng": "RYUK-IL C&S., Ltd.",
+  "stock_code": "191410",
+  "corp_cls": "K",
+  "ceo_nm": "김승준, 이정호",
+  "est_dt": "20070314",
+  "hm_url": "www.61cns.co.kr",
+  "induty_code": "262"
+ },
+ "01498974": {
+  "corp_name": "큐리옥스바이오시스템즈(주)",
+  "corp_name_eng": "Curiox Biosystems Co., Ltd.",
+  "stock_code": "445680",
+  "corp_cls": "K",
+  "ceo_nm": "김남용",
+  "est_dt": "20180907",
+  "hm_url": "curiox.co.kr/",
+  "induty_code": "271"
+ },
+ "00130587": {
+  "corp_name": "서울전자통신(주)",
+  "corp_name_eng": "SEOUL ELECTRONICS & TELECOM",
+  "stock_code": "027040",
+  "corp_cls": "K",
+  "ceo_nm": "이재현",
+  "est_dt": "19830617",
+  "hm_url": "www.seoulset.com",
+  "induty_code": "281"
+ },
+ "01135084": {
+  "corp_name": "에스와이스틸텍(주)",
+  "corp_name_eng": "SY STEEL TECH, Inc.",
+  "stock_code": "365330",
+  "corp_cls": "K",
+  "ceo_nm": "홍성균",
+  "est_dt": "20150701",
+  "hm_url": "systeeltech.com/",
+  "induty_code": "2511"
+ },
+ "00965813": {
+  "corp_name": "(주)미투온",
+  "corp_name_eng": "ME2ON CO., LTD",
+  "stock_code": "201490",
+  "corp_cls": "K",
+  "ceo_nm": "손창욱",
+  "est_dt": "20100601",
+  "hm_url": "www.me2on.com",
+  "induty_code": "5821"
+ },
+ "01187494": {
+  "corp_name": "주식회사 덴티스",
+  "corp_name_eng": "DENTIS CO.,LTD",
+  "stock_code": "261200",
+  "corp_cls": "K",
+  "ceo_nm": "심기봉",
+  "est_dt": "20161201",
+  "hm_url": "www.dentis.co.kr",
+  "induty_code": "271"
+ },
+ "00540863": {
+  "corp_name": "(주)글로벌스탠다드테크놀로지",
+  "corp_name_eng": "GlobalStandardTechnologyCo.,Ltd.",
+  "stock_code": "083450",
+  "corp_cls": "K",
+  "ceo_nm": "석종욱, 문승보(각자대표)",
+  "est_dt": "20011012",
+  "hm_url": "www.gst-in.com",
+  "induty_code": "29271"
+ },
+ "01310773": {
+  "corp_name": "(주)엔시스",
+  "corp_name_eng": "Nsys Co., Ltd.",
+  "stock_code": "333620",
+  "corp_cls": "K",
+  "ceo_nm": "진승언",
+  "est_dt": "20060112",
+  "hm_url": "www.n-sys.co.kr/",
+  "induty_code": "28909"
+ },
+ "00872656": {
+  "corp_name": "금양그린파워(주)",
+  "corp_name_eng": "KUMYANG GREEN POWER CO., Ltd.",
+  "stock_code": "282720",
+  "corp_cls": "K",
+  "ceo_nm": "이윤철, 이기보",
+  "est_dt": "19931201",
+  "hm_url": "www.kygp.co.kr",
+  "induty_code": "423"
+ },
+ "01559637": {
+  "corp_name": "(주)블루엠텍",
+  "corp_name_eng": "BLUEMTEC CO., LTD.",
+  "stock_code": "439580",
+  "corp_cls": "K",
+  "ceo_nm": "김준석",
+  "est_dt": "20150326",
+  "hm_url": "www.bluemtec.com",
+  "induty_code": "467"
+ },
+ "00369569": {
+  "corp_name": "(주)비케이홀딩스",
+  "corp_name_eng": "BK Holdings CO.,LTD.",
+  "stock_code": "050090",
+  "corp_cls": "K",
+  "ceo_nm": "장석환",
+  "est_dt": "20000617",
+  "hm_url": "bkholdings.kr",
+  "induty_code": "713"
+ },
+ "01109539": {
+  "corp_name": "(주)와이씨",
+  "corp_name_eng": "YC Corporation",
+  "stock_code": "232140",
+  "corp_cls": "K",
+  "ceo_nm": "최명배, 장성진 (각자대표)",
+  "est_dt": "20151022",
+  "hm_url": "yikcorp.com",
+  "induty_code": "292"
+ },
+ "00307028": {
+  "corp_name": "경남제약 주식회사",
+  "corp_name_eng": "KYUNG NAM PHARM.CO.,LTD.",
+  "stock_code": "053950",
+  "corp_cls": "K",
+  "ceo_nm": "김성곤",
+  "est_dt": "19981229",
+  "hm_url": "www.kyungnampharm.com",
+  "induty_code": "212"
+ },
+ "01118281": {
+  "corp_name": "타임엑스에이아이",
+  "corp_name_eng": "TimeX AI, Inc.",
+  "stock_code": "304840",
+  "corp_cls": "K",
+  "ceo_nm": "강성민, 전용범",
+  "est_dt": "20020909",
+  "hm_url": "www.peoplebio.net/kr/index.php",
+  "induty_code": "213"
+ },
+ "00528791": {
+  "corp_name": "(주)제일엠앤에스",
+  "corp_name_eng": "JEIL M&S CO., LTD",
+  "stock_code": "412540",
+  "corp_cls": "K",
+  "ceo_nm": "이영진",
+  "est_dt": "19860225",
+  "hm_url": "www.jeilm.co.kr",
+  "induty_code": "292"
+ },
+ "00563518": {
+  "corp_name": "비나텍주식회사",
+  "corp_name_eng": "VINA TECH CO.,LTD",
+  "stock_code": "126340",
+  "corp_cls": "K",
+  "ceo_nm": "성도경",
+  "est_dt": "19990726",
+  "hm_url": "www.vina.co.kr",
+  "induty_code": "282"
+ },
+ "01689266": {
+  "corp_name": "(주)케이쓰리아이",
+  "corp_name_eng": "K3I. Co., Ltd.",
+  "stock_code": "431190",
+  "corp_cls": "K",
+  "ceo_nm": "이재영",
+  "est_dt": "20000307",
+  "hm_url": "www.k3i.co.kr",
+  "induty_code": "582"
+ },
+ "01258710": {
+  "corp_name": "(주)이노메트리",
+  "corp_name_eng": "INNOMETRY Co., Ltd.",
+  "stock_code": "302430",
+  "corp_cls": "K",
+  "ceo_nm": "이갑수",
+  "est_dt": "20080603",
+  "hm_url": "www.innometry.com",
+  "induty_code": "29299"
+ },
+ "00543204": {
+  "corp_name": "(주)아이오케이이엔엠",
+  "corp_name_eng": "IOKENM CO.,LTD.",
+  "stock_code": "078860",
+  "corp_cls": "K",
+  "ceo_nm": "최석우 (단독 대표이사)",
+  "est_dt": "20000426",
+  "hm_url": "www.iok.co.kr",
+  "induty_code": "591"
+ },
+ "00133876": {
+  "corp_name": "(주)세보엠이씨",
+  "corp_name_eng": "SEBO MANUFACTURING ENGINEERING CORPORATION",
+  "stock_code": "011560",
+  "corp_cls": "K",
+  "ceo_nm": "김우영,이원하(각자 대표이사)",
+  "est_dt": "19780726",
+  "hm_url": "www.sebomec.com",
+  "induty_code": "422"
+ },
+ "01605282": {
+  "corp_name": "(주)닷밀",
+  "corp_name_eng": "dotmill Inc.",
+  "stock_code": "464580",
+  "corp_cls": "K",
+  "ceo_nm": "정해운",
+  "est_dt": "20151229",
+  "hm_url": "dot-mill.com/",
+  "induty_code": "591"
+ },
+ "00532059": {
+  "corp_name": "그린생명과학(주)",
+  "corp_name_eng": "GREEN LIFESCIENCE CO., LTD.",
+  "stock_code": "114450",
+  "corp_cls": "K",
+  "ceo_nm": "양준화, 이기성(각자 대표이사)",
+  "est_dt": "20050401",
+  "hm_url": "www.kpxls.com/ ",
+  "induty_code": "211"
+ },
+ "00920731": {
+  "corp_name": "(주)케이앤에스아이앤씨",
+  "corp_name_eng": "KNS Space and Defence Inc.",
+  "stock_code": "487400",
+  "corp_cls": "K",
+  "ceo_nm": "진병욱",
+  "est_dt": "20011226",
+  "hm_url": "www.kns-kr.com",
+  "induty_code": "26429"
+ },
+ "00415327": {
+  "corp_name": "(주)중앙백신연구소",
+  "corp_name_eng": "CHOONG ANG VACCINE LABORATORY",
+  "stock_code": "072020",
+  "corp_cls": "K",
+  "ceo_nm": "윤인중, 윤석인 (각자대표이사)",
+  "est_dt": "19941004",
+  "hm_url": "www.cavac.co.kr",
+  "induty_code": "211"
+ },
+ "01688568": {
+  "corp_name": "(주)프로티나",
+  "corp_name_eng": "PROTEINA CO.,LTD.",
+  "stock_code": "468530",
+  "corp_cls": "K",
+  "ceo_nm": "윤태영",
+  "est_dt": "20150805",
+  "hm_url": "/www.proteina.co.kr",
+  "induty_code": "701"
+ },
+ "00360577": {
+  "corp_name": "(주)엑사이엔씨",
+  "corp_name_eng": "EXA E&C, Inc",
+  "stock_code": "054940",
+  "corp_cls": "K",
+  "ceo_nm": "김성후 (단독 대표이사)",
+  "est_dt": "19910503",
+  "hm_url": "www.exaenc.com",
+  "induty_code": "424"
+ },
+ "00105466": {
+  "corp_name": "(주)케이씨씨건설",
+  "corp_name_eng": "KCC ENGINEERING & CONSTRUCTION CO., LTD.",
+  "stock_code": "021320",
+  "corp_cls": "K",
+  "ceo_nm": "정몽열,심광주",
+  "est_dt": "19890127",
+  "hm_url": "www.kccworld.net",
+  "induty_code": "41112"
+ },
+ "01514005": {
+  "corp_name": "주식회사 크라우드웍스",
+  "corp_name_eng": "CrowdWorks, Inc.",
+  "stock_code": "355390",
+  "corp_cls": "K",
+  "ceo_nm": "김광일",
+  "est_dt": "20170425",
+  "hm_url": "www.crowdworks.kr",
+  "induty_code": "582"
+ },
+ "00109037": {
+  "corp_name": "대성창업투자(주)",
+  "corp_name_eng": "Daesung Private Equity, Inc.",
+  "stock_code": "027830",
+  "corp_cls": "K",
+  "ceo_nm": "김영훈",
+  "est_dt": "19870822",
+  "hm_url": "www.daesungpe.com",
+  "induty_code": "64209"
+ },
+ "00301112": {
+  "corp_name": "(주)삼화네트웍스",
+  "corp_name_eng": "SAMHWA NETWORKS Co.,Ltd.",
+  "stock_code": "046390",
+  "corp_cls": "K",
+  "ceo_nm": "공동대표이사 안제현, 신상윤",
+  "est_dt": "19911012",
+  "hm_url": "www.shnetworks.co.kr",
+  "induty_code": "59120"
+ },
+ "00106313": {
+  "corp_name": "금호건설(주)",
+  "corp_name_eng": "KUMHO Engineering & Construction Co., Ltd.",
+  "stock_code": "002990",
+  "corp_cls": "Y",
+  "ceo_nm": "조완석",
+  "est_dt": "19721011",
+  "hm_url": "www.kumhoenc.com",
+  "induty_code": "41112"
+ },
+ "00109286": {
+  "corp_name": "(주)대동",
+  "corp_name_eng": "DAEDONG CORPORATION",
+  "stock_code": "000490",
+  "corp_cls": "Y",
+  "ceo_nm": "김준식, 원유현",
+  "est_dt": "19470520",
+  "hm_url": "www.daedong.co.kr",
+  "induty_code": "29210"
+ },
+ "00109693": {
+  "corp_name": "디엘 주식회사",
+  "corp_name_eng": "DL Holdings CO.,LTD",
+  "stock_code": "000210",
+  "corp_cls": "Y",
+  "ceo_nm": "김종현",
+  "est_dt": "19391010",
+  "hm_url": "www.dlholdings.co.kr",
+  "induty_code": "20111"
+ },
+ "01524093": {
+  "corp_name": "디엘이앤씨 주식회사",
+  "corp_name_eng": "DL E&C CO.,LTD.",
+  "stock_code": "375500",
+  "corp_cls": "Y",
+  "ceo_nm": "박상신",
+  "est_dt": "20210104",
+  "hm_url": "www.dlenc.co.kr",
+  "induty_code": "412"
+ },
+ "00159740": {
+  "corp_name": "KISCO홀딩스(주)",
+  "corp_name_eng": "KISCO Holdings Corp.",
+  "stock_code": "001940",
+  "corp_cls": "Y",
+  "ceo_nm": "장세홍, 김동현 (각자대표)",
+  "est_dt": "19570219",
+  "hm_url": "www.kiscoholdings.co.kr",
+  "induty_code": "2411"
+ },
+ "00687711": {
+  "corp_name": "한국철강(주)",
+  "corp_name_eng": "KISCO Corp.",
+  "stock_code": "104700",
+  "corp_cls": "Y",
+  "ceo_nm": "이병제",
+  "est_dt": "20080903",
+  "hm_url": "www.kisco.co.kr",
+  "induty_code": "2411"
+ },
+ "00162063": {
+  "corp_name": "한신공영(주)",
+  "corp_name_eng": "HANSHIN CONSTRUCTION CO.,LTD",
+  "stock_code": "004960",
+  "corp_cls": "Y",
+  "ceo_nm": "최문규,전재식(각자 대표이사)",
+  "est_dt": "19670224",
+  "hm_url": "www.hanshinc.com",
+  "induty_code": "41112"
+ },
+ "00125974": {
+  "corp_name": "삼부토건(주)",
+  "corp_name_eng": "SAMBU CONSTRUCTION CO.,LTD",
+  "stock_code": "001470",
+  "corp_cls": "Y",
+  "ceo_nm": "조윤상",
+  "est_dt": "19550514",
+  "hm_url": "www.sambu.co.kr",
+  "induty_code": "41221"
+ },
+ "00367844": {
+  "corp_name": "자이에스앤디(주)",
+  "corp_name_eng": "Xi S&D Inc.",
+  "stock_code": "317400",
+  "corp_cls": "Y",
+  "ceo_nm": "구본삼",
+  "est_dt": "20000408",
+  "hm_url": "www.xisnd.com/",
+  "induty_code": "681"
  }
 }

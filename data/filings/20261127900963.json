@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900963",
+ "rcept_dt": "20261127",
+ "corp_code": "00540863",
+ "corp_name": "GST",
+ "corp_name_eng": "GlobalStandardTechnologyCo.,Ltd.",
+ "stock_code": "083450",
+ "corp_cls": "K",
+ "report_nm": "주식소각결정",
+ "event": "buyback",
+ "amended": false,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900963",
+ "summary": {
+  "headline": "GST to cancel 70,000 treasury common shares, worth KRW 2.74bn, on Dec 4, 2026",
+  "what_happened": "On Nov 27, 2026, the board of GlobalStandardTechnologyCo.,Ltd. (GST) resolved to cancel 70,000 common shares that the company had already acquired as treasury stock, with an expected cancellation amount of KRW 2.74bn. The scheduled cancellation date is Dec 4, 2026, which may change depending on coordination with relevant institutions. According to the filing, only the total number of issued shares decreases; the share capital itself is not reduced.",
+  "key_numbers": [
+   {
+    "label": "Common shares to be cancelled",
+    "value": "70,000"
+   },
+   {
+    "label": "Total issued common shares before cancellation",
+    "value": "18,430,000"
+   },
+   {
+    "label": "Expected cancellation amount",
+    "value": "KRW 2.74bn (KRW 2,737,000,000)"
+   },
+   {
+    "label": "Par value per share",
+    "value": "KRW 500"
+   },
+   {
+    "label": "Scheduled cancellation date",
+    "value": "Dec 4, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, cancelling treasury shares generally reduces the total number of shares issued, which can change each remaining shareholder's proportional ownership, while leaving share capital unchanged when, as stated here, the cancellation is made under the distributable-profit provision of the Commercial Act. The expected amount in such filings is usually based on a reference closing price, so the final figure may differ.",
+  "company_short": "GST (GlobalStandardTechnologyCo.,Ltd.)"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "rcept_no": "20261127801086",
+ "rcept_dt": "20261127",
+ "corp_code": "00152862",
+ "corp_name": "코오롱",
+ "corp_name_eng": "KOLON CORPORATION",
+ "stock_code": "002020",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결(자회사의 주요경영사항)",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801086",
+ "summary": {
+  "headline": "Kolon Corporation: subsidiary Kolon Global wins KRW 279bn Merck Korea Bio.P construction contract",
+  "what_happened": "On Mar 18, 2024, Kolon Global Corporation, a subsidiary of Kolon Corporation, signed a construction contract with Merck Korea for the Merck S. Korea Bio.P Project in Daejeon's Yuseong-gu, covering a production building and six other buildings. This amended filing, dated Nov 27, 2026, changes the contract period end date to Nov 28, 2026, and notes that the contract amount and construction period may change with construction progress, with the construction period still under discussion with the client.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 279bn"
+   },
+   {
+    "label": "Share of recent revenue",
+    "value": "10.72%"
+   },
+   {
+    "label": "Contract signing date",
+    "value": "Mar 18, 2024"
+   },
+   {
+    "label": "Contract period end date (as amended)",
+    "value": "Nov 28, 2026"
+   }
+  ],
+  "why_it_matters": "Large supply or construction contract disclosures in Korea inform shareholders of significant orders that can affect a company's future revenue and backlog. Amendments to contract terms such as period or amount are typically disclosed because they can change the expected timing or size of the work.",
+  "company_short": "Kolon Corporation"
+ }
+}

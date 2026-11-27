@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127801057",
+ "rcept_dt": "20261127",
+ "corp_code": "00152880",
+ "corp_name": "코오롱글로벌",
+ "corp_name_eng": "KolonGlobalCorporation CO.,LTD",
+ "stock_code": "003070",
+ "corp_cls": "Y",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127801057",
+ "summary": {
+  "headline": "Kolon Global signs KRW 279bn Merck S. Korea Bio.P construction contract; end date revised to Nov 28, 2026",
+  "what_happened": "Kolon Global Corporation filed a corrected disclosure on Nov 27, 2026 for a construction contract with Merck Korea for the Merck S. Korea Bio.P Project in Yuseong-gu, Daejeon. The correction changes the contract period end date to Nov 28, 2026 and the filing notes that the company is still negotiating the construction period with the client and will re-disclose once it is confirmed.",
+  "key_numbers": [
+   {
+    "label": "Contract amount (excl. VAT)",
+    "value": "KRW 279bn"
+   },
+   {
+    "label": "Recent revenue (end-2022, consolidated)",
+    "value": "KRW 2.6tn"
+   },
+   {
+    "label": "Contract as % of revenue",
+    "value": "10.72%"
+   },
+   {
+    "label": "Contract start date",
+    "value": "Mar 18, 2024"
+   },
+   {
+    "label": "Revised contract period end date",
+    "value": "Nov 28, 2026"
+   }
+  ],
+  "why_it_matters": "Large construction contract disclosures in Korea typically inform shareholders about the size and timing of a company's order backlog, and corrections to contract terms such as end dates or contract periods are usually filed when the schedule or conditions change. Contract amounts and periods can be adjusted as construction progresses, so the figures in such filings may later change.",
+  "company_short": "Kolon Global"
+ }
+}

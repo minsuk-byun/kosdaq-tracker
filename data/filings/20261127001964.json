@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127001964",
+ "rcept_dt": "20261127",
+ "corp_code": "00130587",
+ "corp_name": "서울전자통신",
+ "corp_name_eng": "SEOUL ELECTRONICS & TELECOM",
+ "stock_code": "027040",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001964",
+ "summary": {
+  "headline": "Seoul Electronics & Telecom amends rights offering: 2,025,137 new shares at KRW 1,432, KRW 2.2bn debt repayment",
+  "what_happened": "On Nov 27, 2026, Seoul Electronics & Telecom filed a corrected major-matters report for a third-party allotment rights offering first disclosed on Aug 7, 2026. The amended filing raises the new share count to 2,025,137 common shares (from 1,950,584), sets the issue price at KRW 1,432 (from KRW 1,538), and moves the payment date to Dec 14, 2026 with listing expected on Jan 22, 2027.",
+  "key_numbers": [
+   {
+    "label": "New common shares (amended)",
+    "value": "2,025,137 shares"
+   },
+   {
+    "label": "New share issue price (amended)",
+    "value": "KRW 1,432"
+   },
+   {
+    "label": "Planned debt repayment (amended)",
+    "value": "KRW 2.2bn"
+   },
+   {
+    "label": "Planned operating funds (amended)",
+    "value": "KRW 700m"
+   },
+   {
+    "label": "Payment date (amended)",
+    "value": "Dec 14, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a third-party allotment rights offering issues new shares to selected investors rather than existing shareholders pro rata, which can increase the total share count and dilute existing holders' ownership. Corrected filings typically reflect changes in allotment, pricing, or use of proceeds and are worth reviewing alongside the original disclosure.",
+  "company_short": "Seoul Electronics & Telecom"
+ }
+}

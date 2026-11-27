@@ -1,0 +1,41 @@
+{
+ "rcept_no": "20261127900465",
+ "rcept_dt": "20261127",
+ "corp_code": "01605282",
+ "corp_name": "닷밀",
+ "corp_name_eng": "dotmill Inc.",
+ "stock_code": "464580",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]단일판매ㆍ공급계약체결",
+ "event": "contract",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127900465",
+ "summary": {
+  "headline": "dotmill amends KRW 4.0bn supply contract for Calla Square media art park; value raised to KRW 3.95bn",
+  "what_happened": "dotmill Inc. filed a corrected disclosure for its single supply contract for the creation of the Calla Square media art theme park in Daegu's Suseong-gu, with (재)수성문화재단 문화도시본부 as counterparty. Per the filing, the correction reflects a change agreed by both parties: the contract amount was revised from KRW 3,636,363,636 to KRW 3,954,545,455, and the contract end date was moved from Nov 30, 2026 to Jan 30, 2027.",
+  "key_numbers": [
+   {
+    "label": "Corrected contract amount (excl. VAT)",
+    "value": "KRW 3.95bn"
+   },
+   {
+    "label": "Previous contract amount (excl. VAT)",
+    "value": "KRW 3.64bn"
+   },
+   {
+    "label": "Share of recent revenue (corrected)",
+    "value": "16.74%"
+   },
+   {
+    "label": "Recent revenue (FY2024 year-end)",
+    "value": "KRW 23.63bn"
+   },
+   {
+    "label": "Contract period end (corrected)",
+    "value": "Jan 30, 2027"
+   }
+  ],
+  "why_it_matters": "In Korea, supply contract disclosures and their corrections generally show a company's disclosed order backlog and how that backlog is changing, and amendments usually reflect agreed changes to contract value or timing. Such filings are typically read as factual updates rather than indications of future performance, and actual results may differ as project terms can change during execution.",
+  "company_short": "dotmill"
+ }
+}

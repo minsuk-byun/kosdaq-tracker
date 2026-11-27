@@ -1,0 +1,45 @@
+{
+ "rcept_no": "20261127001660",
+ "rcept_dt": "20261127",
+ "corp_code": "01504211",
+ "corp_name": "라메디텍",
+ "corp_name_eng": "LAMEDITECH Co., Ltd.",
+ "stock_code": "462510",
+ "corp_cls": "K",
+ "report_nm": "[기재정정]주요사항보고서(유상증자결정)",
+ "event": "capital",
+ "amended": true,
+ "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261127001660",
+ "summary": {
+  "headline": "LAMEDITECH launches KRW 1.5bn rights offering at KRW 1,526 per share, 982,961 new shares",
+  "what_happened": "LAMEDITECH Co., Ltd. filed a corrected notice of a general public rights offering (유상증자) decided by its board on Nov 26, 2026, issuing 982,961 new common shares at KRW 1,526 per share. The final fund raising target is stated as KRW 1,499,998,486 for operating funds, with subscription on Dec 1-2, 2026 and payment due Dec 4, 2026. This correction revised the share count and funds raised from the expected issue price to the confirmed issue price, and SK Securities was engaged to handle subscription deposits.",
+  "key_numbers": [
+   {
+    "label": "New common shares offered",
+    "value": "982,961 shares"
+   },
+   {
+    "label": "Issue price per share (confirmed)",
+    "value": "KRW 1,526"
+   },
+   {
+    "label": "Funds raised for operating purposes",
+    "value": "KRW 1,499,998,486 (about KRW 1.5bn)"
+   },
+   {
+    "label": "Shares outstanding before offering",
+    "value": "8,802,965 common shares"
+   },
+   {
+    "label": "Subscription period",
+    "value": "Dec 1, 2026 to Dec 2, 2026"
+   },
+   {
+    "label": "Scheduled listing of new shares",
+    "value": "Dec 17, 2026"
+   }
+  ],
+  "why_it_matters": "In Korea, a general public rights offering adds new shares to the market, which can dilute the ownership percentage of existing shareholders who do not subscribe, while the proceeds are typically intended to fund the company's stated purposes. Corrections to the issue price or share count, as in this filing, change the number of shares and the amount raised, so shareholders may want to review the final figures.",
+  "company_short": "LAMEDITECH"
+ }
+}
